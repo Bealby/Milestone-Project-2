@@ -1,13 +1,11 @@
-# Jack FAIRFIELD
+# JACK FAIRFIELD
 
 ---
 
-The aim of this website is to promote Actor Lisa Fairfield.
-The Website has been particulary designed to attract
-potential casting agents that are looking for artists in
-Advertising, Theatre and Film. to thus give Lisa Fairfield
-the opportunity to launch her career in the competitive,
-challenging world of acting.
+The aim of this website is to provide a little history
+about my Papa, Jack Fairfield. The website will be mainly
+for family friends who have been very keen to learn more
+about Jack Fairfield's life during the Second World War.
 
 ## DEMO
 
