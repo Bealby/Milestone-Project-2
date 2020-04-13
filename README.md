@@ -7,19 +7,15 @@ about my Papa, Jack Fairfield. The website will be mainly
 for family friends who have been very keen to learn more
 about Jack Fairfield's life during the Second World War.
 
-## DEMO
-
 ---
 
 ## UX
 
 ---
 
-
-Our client desires a website to seek out agents or key contacts, while being
-able to use the Website on business cards and on email signatures. Ultimately
-these agents or key contacts in the acting world will lead onto bigger and
-greater opportunities with producers and directors.
+Family and friends seek to learn more about Jack Fairfield, through
+imagery and his footprint around the UK and France during World War
+Two. 
 
 ### STRATEGY
 
@@ -33,21 +29,10 @@ It needs to come across well on mobile devices while users are on the move,
 as well as being highly affective on tablets and desktop to allow for more
 comfortable viewing in the office/ home.
 
-Typical comments from key players in the industry include:
+User Stories:
 
 - ”Producers and directors work under a lot of pressure. Searching for actors/
    actresses will be a ruthless process”
-
-- “Casting agents mainly seek information on: Naturalness, Personality,
-   Professionalism, Well-rounded, Training”
-
-- “It is essential to have an online presence so that casting agents,
-    producers an directors who are interested can learn more about you.”
-
-A graph below illustrates features to implement, valued with importance
-against viability:
-
-![viabilty-importance-graph](/documentation/readme/viability-importance.png/)
 
 ### SCOPE
 
