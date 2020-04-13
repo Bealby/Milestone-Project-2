@@ -15,6 +15,7 @@ about Jack Fairfield's life during the Second World War.
 
 ---
 
+
 Our client desires a website to seek out agents or key contacts, while being
 able to use the Website on business cards and on email signatures. Ultimately
 these agents or key contacts in the acting world will lead onto bigger and
@@ -82,7 +83,7 @@ all pages so that an agent can click intuitively and with ease.
 ### SKELETON
 
 Please find my Wireframes for Desktop, Tablet and Mobile
-[here](https://github.com/Bealby/Milestone-Project-1/blob/master/documentation/wireframes/lisa-fairfield-wireframes.pdf)
+[here](https://github.com/Bealby/Milestone-Project-2/blob/master/documentation/wireframes/jack-fairfield-wireframes.pdf)
 
 ### SURFACE
 
