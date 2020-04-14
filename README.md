@@ -19,15 +19,15 @@ World War Two.
 
 ### STRATEGY
 
-The main focus of this website is to give people an insight into
-Jack Fairfields life. To attract users to learn more about
-Jack Fairfield's travels with the use of a interactive map. Along
-with private photos and brief descriptions of areas he resided in.
+The main focus of this website is to give family and friends
+an insight into Jack Fairfields life. To attract users to
+learn more about Jack Fairfield's travels with the use of a
+interactive map. Along with private photos and brief
+descriptions of areas he resided in.
 
 It needs to come across well on mobile devices as it will suit
-many users to browse the website while on their travels. While at
-the same time be a more visual and exapanive exeprience on tablets
-and desktops.
+many users to browse the website while on their travels. With a
+more visual and exapanisve exeprience for a tablet and desktop.
 
 User Stories:
 
@@ -37,19 +37,19 @@ User Stories:
 
 
 
-To meet the client's objectives for the Website an online presence is fundamental
-and will be implemented. The client has provided a montage of photos that will
-be narrowed down to highlight her different personalities and potentual. A
-biography of past and present performances, along with an introduction to
-Lisa Fairfield, will be provided by my client. Show reels/ voice reels are
-currently in the making and are not ready for the initual launch of the Website.
-A blog and further references would also be a good addition to the Website, and
-can be addressed at a later date when Lisa Fairfield's career is at the next
-level.
+To meet the gosls of the users the website needs to be intuitive and
+and easy to use take heed of the less technically savvy audience.
 
-The tradeoff in not implementing all desired features mentioned at launch,
-will not be detrimental to the website, and the Website can be continually
-refreshed and expaned as time passes.
+A collection of photos that embrace and capture Jack Fairfield's life
+will be essential for the main rotation of photos for the the initial page.
+
+A brief but informative summary of Jack Fairfield, to pave the way for an 
+interactive experince using maps. 
+
+Each point on the map will have a photo and comment to bring to life the area 
+Jack Fairfield was located.  
+
+A journal has also been written but is currently not complete so can be included at a later date.
 
 ### STRUCTURE
 
