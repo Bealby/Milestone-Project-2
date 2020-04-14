@@ -14,25 +14,24 @@ about Jack Fairfield's life during the Second World War.
 ---
 
 Family and friends seek to learn more about Jack Fairfield, through
-imagery and his footprint around the UK and France during World War
-Two. 
+imagery and his footprint around the UK and France during the Second
+World War Two. 
 
 ### STRATEGY
 
-The main focus of the website is to allure and attract these agents and key
-contacts who can open up new doors in a broad range of roles, including
-advertising, theatre and films. With the acting market being heavily
-competitive, the website needs to stand out from the crowd; be intuitive
-in gaining information; while exuding professionalism.
+The main focus of this website is to give people an insight into
+Jack Fairfields life. To attract users to learn more about
+Jack Fairfield's travels with the use of a interactive map. Along
+with private photos and brief descriptions of areas he resided in.
 
-It needs to come across well on mobile devices while users are on the move,
-as well as being highly affective on tablets and desktop to allow for more
-comfortable viewing in the office/ home.
+It needs to come across well on mobile devices as it will suit
+many users to browse the website while on their travels. While at
+the same time be a more visual and exapanive exeprience on tablets
+and desktops.
 
 User Stories:
 
-- ”Producers and directors work under a lot of pressure. Searching for actors/
-   actresses will be a ruthless process”
+?????
 
 ### SCOPE
 
