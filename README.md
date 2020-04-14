@@ -35,6 +35,8 @@ User Stories:
 
 ### SCOPE
 
+
+
 To meet the client's objectives for the Website an online presence is fundamental
 and will be implemented. The client has provided a montage of photos that will
 be narrowed down to highlight her different personalities and potentual. A
@@ -71,11 +73,7 @@ Please find my Wireframes for Desktop, Tablet and Mobile
 
 ### SURFACE
 
-It is important not to overly glitz-and-glam the website (as the user
-may believe), but to keep the website slick and minimal so that is easy for a
-potential agent to navigate. I have chosen to use a white color theme with grey
-dividers for overall structure. This will allow photos and text to stand out boldly
-against the white background.
+
 
 
 
