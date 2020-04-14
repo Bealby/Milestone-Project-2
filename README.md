@@ -15,17 +15,17 @@ about Jack Fairfield's life during the Second World War.
 
 Family and friends seek to learn more about Jack Fairfield,
 through imagery and his footprint around the UK during the
-Second World War Two. 
+Second World War. 
 
 ### STRATEGY
 
 The main focus of this website is to give family and friends
 an insight into Jack Fairfields life. To attract users to
 learn more about Jack Fairfield's travels with the use of a
-interactive map. Along with private photos and brief
-descriptions of areas he resided in.
+interactive map. Along with private photos and a brief
+description of the areas he has resided in.
 
-It website needs to come across well on mobile devices,
+The website needs to come across well on mobile devices,
 suiting users who want to browse the website while on
 their travels. The desktop and tablet versions however
 will provide a more visual and exapansive user experience.
@@ -46,25 +46,28 @@ and desire to learn more.
 
 The interactive map will highlight key locations in Jack
 Fairfield's journey through the Second World War. A brief 
-but informative summary for each of these locairon will 
-provided along wiht a photo relevent to the location.
+but informative summary for each of these locations will 
+be provided along with a photo relevent to the location.
 
 ### STRUCTURE
 
 The website's front page will be the window into the website
-with a hero-image centered on the page which will be clickable to
+with a hero-image centered on the page, which when clicked will
 take you into the main website.
 
-The naviagtion bar will have a fixed top position with the links Home, Bio,
-and Maps.
+The naviagtion bar will have a fixed but sticky position with the
+links Home, Bio, and Maps.
 
-The Home page will have a large photo that stretchs the page that will roate every 6
-seconds with a new photo.
+The Home page will have a large photo that stretches the page,
+rotating every 6 seconds with a new photo.
 
-The Bio page will summarise Jack Fairfield's life and history during the Second World war.
+The Bio page will summarise Jack Fairfield's life and history
+during the Second World War.
 
-The Map page will show an interactive map that will show locations using the google Maps API.
-Each clickable location will bring uo a pop up window with information on the location and a complimentary photos.
+The Map page will show an interactive map that will show locations
+using Google Maps API. Each clickable location will bring up a pop
+up window with information on the location along with a complimentary
+photo.
 
 ### SKELETON
 
