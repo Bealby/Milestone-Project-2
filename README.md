@@ -13,9 +13,9 @@ about Jack Fairfield's life during the Second World War.
 
 ---
 
-Family and friends seek to learn more about Jack Fairfield, through
-imagery and his footprint around the UK and France during the Second
-World War Two. 
+Family and friends seek to learn more about Jack Fairfield,
+through imagery and his footprint around the UK during the
+Second World War Two. 
 
 ### STRATEGY
 
@@ -25,9 +25,10 @@ learn more about Jack Fairfield's travels with the use of a
 interactive map. Along with private photos and brief
 descriptions of areas he resided in.
 
-It needs to come across well on mobile devices as it will suit
-many users to browse the website while on their travels. With a
-more visual and exapanisve exeprience for a tablet and desktop.
+It website needs to come across well on mobile devices,
+suiting users who want to browse the website while on
+their travels. The desktop and tablet versions will provide
+a more visual user experience.
 
 User Stories:
 
@@ -35,13 +36,13 @@ User Stories:
 
 ### SCOPE
 
+To meet the gosls of the users the website needs to be
+intuitiveand easy to use, taking heed of the less
+technically savvy audience.
 
-
-To meet the gosls of the users the website needs to be intuitive and
-and easy to use take heed of the less technically savvy audience.
-
-A collection of photos that embrace and capture Jack Fairfield's life
-will be essential for the main rotation of photos for the the initial page.
+A collection of photos that embrace and capture Jack
+Fairfield's life will be essential to draw users interest
+and desire to learn more. 
 
 A brief but informative summary of Jack Fairfield, to pave the way for an 
 interactive experince using maps. 
