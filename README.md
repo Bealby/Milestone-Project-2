@@ -2,32 +2,33 @@
 
 ---
 
-The aim of this website is to provide a little history
-about my Papa, Jack Fairfield. The website will be mainly
-for family friends who have been very keen to learn more
-about Jack Fairfield's life during the Second World War.
-
+The aim of this website is to provide a descriptive activity
+about my Papa, Jack Fairfield war years. The website will 
+be mainly for family and friends who have been very keen
+to learn more about Jack Fairfield's life during the war
+years.
 ---
 
 ## UX
 
 ---
 
-Family and friends seek to learn more about Jack Fairfield,
+Family and friends will seek to learn more about Jack Fairfield,
 through imagery and his footprint around the UK during the
 Second World War. 
 
 ### STRATEGY
 
 The main focus of this website is to give family and friends
-an insight into Jack Fairfields life. To attract users to
-learn more about Jack Fairfield's travels with the use of a
-interactive map. Along with private photos and a brief
-description of the areas he has resided in.
+an insight into Jack Fairfield's life. It aims to
+bring to life Jack Fairfield's travels with
+the use of an interactive map; along with private
+photos and brief descrioption of areas he visited
+and resided in.
 
-The website needs to come across well on mobile devices,
+The website needs to be suitable for mobile devices,
 suiting users who want to browse the website while on
-their travels. The desktop and tablet versions however
+the move. The desktop and tablet versions however
 will provide a more visual and exapansive user experience.
 
 User Stories:
@@ -41,8 +42,8 @@ intuitive and easy to use, taking heed of the less
 technically savvy audience.
 
 A collection of photos that embrace and capture Jack
-Fairfield's life will be essential to draw users interest
-and desire to learn more. 
+Fairfield's life will be essentual to draw
+and retain users interest, to achieve the desire to learn more.
 
 The interactive map will highlight key locations in Jack
 Fairfield's journey through the Second World War. A brief 
@@ -66,7 +67,7 @@ during the Second World War.
 
 The Map page will show an interactive map that will show locations
 using Google Maps API. Each clickable location will bring up a pop
-up window with information on the location along with a complimentary
+up window with information on the location along with a complementary
 photo.
 
 ### SKELETON
