@@ -6,7 +6,7 @@
 
 height:100vh;
 
-background: url("/assets/images/jack.jpg") no-repeat center center fixed; 
+background: url("/assets/images/background.jpg") no-repeat center center fixed; 
 -webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
@@ -19,8 +19,6 @@ justify-content: center;
 position:relative;
 } 
 
-.lisa{
-    height=10px;
-    width=10px;
-    z-Index: 1;
+img {
+    width:40%;
 }
