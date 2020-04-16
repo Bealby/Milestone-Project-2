@@ -1,13 +1,26 @@
 @import url('https://fonts.googleapis.com/css?family=Calligraffitti:100,200,300,400,500,600,700,800|Playfair+Display:100,200,300,400,500,600,700,800|Sriracha&display:100,200,300,400,500,600,700,800|PT+Serif&display:100,200,300,400,500,600,700,800');
 
 /*index.html*/
+
 .index-background{
 
 height:100vh;
 
-background: url("/images/whiskey.jpg") no-repeat center center fixed; 
+background: url("/assets/images/jack.jpg") no-repeat center center fixed; 
 -webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
 background-size: cover;   
+
+display: flex;
+align-items: center;
+justify-content: center;
+
+position:relative;
 } 
+
+.lisa{
+    height=10px;
+    width=10px;
+    z-Index: 1;
+}
