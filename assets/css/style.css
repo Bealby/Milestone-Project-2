@@ -20,7 +20,7 @@ position:relative;
 
 .hero-image {
     width:33%;
-    box-shadow:15px 15px 30px black;
+    box-shadow: 0px 0px 24px 0px #000000;
 }
 
 p{
