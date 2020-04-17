@@ -19,23 +19,25 @@ position:relative;
 } 
 
 .hero-image {
-    width:33%;
+    width:60%;
     box-shadow: 0px 0px 24px 0px #000000;
 }
 
 .name-font{
     font-family: 'Special Elite', cursive;
-    font-size:40px;
+    font-size:30px;
+    color: #000000;
 }
 
 .date-font{
     font-family: 'Special Elite', cursive;
-    font-size:30px;
+    font-size:20px;
+    color: #000000;
 }
 
 .link-font{
     font-family: 'Special Elite', cursive;
-    font-size:22px;
+    font-size:18px;
     color: #000000;
 }
 
@@ -43,3 +45,32 @@ a:hover {
   color: grey;
   text-decoration:none;
 }
+
+	/*This Media Query allows for the hero-image to increse in size for smaller devices*/
+	@media(min-width:792px) {
+		.hero-image {
+			width:33%;
+		}
+    } 
+
+	/*This Media Query allows for the name-font to decrease in size for smaller devices*/
+	@media(min-width:510px) {
+		.name-font {
+			font-size:40px;
+		}
+	}
+
+	/*This Media Query allows for the date-font to decrease in size for smaller devices*/
+	@media(min-width:510px) {
+		.date-font {
+			font-size:30px;
+		}
+	}
+
+    	/*This Media Query allows for the link-font to decrease in size for smaller devices*/
+	@media(min-width:510px) {
+		.link-font {
+			font-size:22px;
+		}
+	}
+    
