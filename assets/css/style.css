@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Special+Elite:100,200,300,400,500,600,700,800');
 
-/*index.html*/
+/*INDEX.HTML*/
 
 .index-background{
 
@@ -45,6 +45,16 @@ a:hover {
   color: grey;
   text-decoration:none;
 }
+
+/*MAIN.HTML*/
+
+.navbar-main{
+    font-family: 'Special Elite', cursive;
+	font-size: 20px;
+    color: #000000;
+}
+
+/*MEDIA QUERIES*/
 
 	/*This Media Query allows for the hero-image to increse in size for smaller devices*/
 	@media(min-width:792px) {
