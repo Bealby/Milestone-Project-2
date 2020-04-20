@@ -20,25 +20,25 @@ position:relative;
 
 .hero-image {
     width:60%;
-    box-shadow: 0rem 0rem 1.5rem 0rem #000000;
+    box-shadow: 0rem 0rem 1.5rem 0rem rgb(0,0,0,1);
 }
 
 .name-font{
     font-family: 'Special Elite', cursive;
     font-size:1.875rem;
-    color: #000000;
+    color: rgb(0,0,0,1);
 }
 
 .date-font{
     font-family: 'Special Elite', cursive;
     font-size:1.25rem;
-    color: #000000;
+    color: rgb(0,0,0,1);
 }
 
 .link-font{
     font-family: 'Special Elite', cursive;
     font-size:1.20rem;
-    color: #000000;
+    color: rgb(0,0,0,1);
 }
 
 a:hover {
@@ -51,7 +51,7 @@ color:rgb(116,111,120,1) !important;
 .navbar-main-brand{
     font-family: 'Special Elite', cursive;
 	font-size: 1.875rem;
-    color: #000000;
+    color: rgb(0,0,0,1);
 }
 
 .navbar-main a{
@@ -74,6 +74,13 @@ color:rgb(116,111,120,1) !important;
     height:5rem;
 }
 
+.navbar-toggler {
+    border: 1px solid rgb(0,0,0,1);
+}
+
+.navbar-toggler-icon{
+    background: url("/assets/images/raoc.jpg") no-repeat center;
+}
 
 /*MEDIA QUERIES*/
 
