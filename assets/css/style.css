@@ -60,8 +60,7 @@ a:hover {
 }
 
 .navbar-color{
-    color: #FFFFFF;
-    background-color: #CC3333;
+    background-color:rgb(209, 200, 171, 0.5);
 }
 
 /*MEDIA QUERIES*/
