@@ -20,24 +20,24 @@ position:relative;
 
 .hero-image {
     width:60%;
-    box-shadow: 0px 0px 24px 0px #000000;
+    box-shadow: 0rem 0rem 1.5rem 0rem #000000;
 }
 
 .name-font{
     font-family: 'Special Elite', cursive;
-    font-size:30px;
+    font-size:1.875rem;
     color: #000000;
 }
 
 .date-font{
     font-family: 'Special Elite', cursive;
-    font-size:20px;
+    font-size:1.25rem;
     color: #000000;
 }
 
 .link-font{
     font-family: 'Special Elite', cursive;
-    font-size:18px;
+    font-size:1.125rem;
     color: #000000;
 }
 
@@ -50,18 +50,18 @@ a:hover {
 
 .navbar-main-brand{
     font-family: 'Special Elite', cursive;
-	font-size: 30px;
+	font-size: 1.875rem;
     color: #000000;
 }
 
 .navbar-main a{
     font-family: 'Special Elite', cursive;
-	font-size: 20px;
+	font-size: 1.25rem;
     color: #000000;
 }
 
 .navbar-right-margin{
-    margin-right: 0px;
+    margin-right: 0rem;
 }
 
 .navbar-color{
@@ -75,43 +75,43 @@ a:hover {
 /*MEDIA QUERIES*/
 
 	/*This Media Query allows for the hero-image to incresse in size for smaller devices. Otherwise to small to see clearly */
-	@media(min-width:792px) {
+	@media(min-width:49.5rem) {
 		.hero-image {
 			width:33%;
 		}
     } 
 
 	/*This Media Query allows for the name-font to decrease in size for smaller devices. Looked too large otherwise */
-	@media(min-width:510px) {
+	@media(min-width:31.875rem) {
 		.name-font {
-			font-size:40px;
+			font-size:2.5rem;
 		}
 	}
 
 	/*This Media Query allows for the date-font to decrease in size for smaller devices. Looked too large otherwise */
-	@media(min-width:510px) {
+	@media(min-width:31.875rem) {
 		.date-font {
-			font-size:30px;
+			font-size:1.875rem;
 		}
 	}
 
 /*This Media Query reduces the font size of the navbar main title for smaller devices. Allowing for better spacing against nav links */
-    	@media(min-width:900px) {
+    	@media(min-width:56.25rem) {
 		.navbar-main-brand {
-			font-size:40px;
+			font-size:2.5rem;
 		}
 	}
 
 /*This Media Query reduces the font size of the navbar link titles for smaller devices. Allowing for better spacing against navbar main title */
-        	@media(min-width:900px) {
+        	@media(min-width:56.25rem) {
 		.navbar-main a {
-			font-size:30px;
+			font-size:1.875rem;
 		}
 	}
 
 /*This Media Query reduces margin right of links navbar in order for there to be better spacing on smaller devices */
-	@media(min-width:1200px) {
+	@media(min-width:75rem) {
 .navbar-right-margin{
-    margin-right: 220px;
+    margin-right: 13.75rem;
 }
 }
