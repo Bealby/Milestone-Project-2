@@ -59,6 +59,11 @@ a:hover {
     color: #000000;
 }
 
+.navbar-color{
+    color: #FFFFFF;
+    background-color: #CC3333;
+}
+
 /*MEDIA QUERIES*/
 
 	/*This Media Query allows for the hero-image to increse in size for smaller devices*/
