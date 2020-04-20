@@ -50,46 +50,68 @@ a:hover {
 
 .navbar-main-brand{
     font-family: 'Special Elite', cursive;
-	font-size: 40px;
+	font-size: 30px;
     color: #000000;
 }
-.navbar-main{
+
+.navbar-main a{
     font-family: 'Special Elite', cursive;
 	font-size: 20px;
     color: #000000;
 }
 
+.navbar-right-margin{
+    margin-right: 0px;
+}
+
 .navbar-color{
-    background-color:rgb(209, 200, 171, 0.5);
+    background-color:rgb(209, 200, 171, 1);
+}
+
+.navbar-image{
+    height:5rem;
 }
 
 /*MEDIA QUERIES*/
 
-	/*This Media Query allows for the hero-image to increse in size for smaller devices*/
+	/*This Media Query allows for the hero-image to incresse in size for smaller devices. Otherwise to small to see clearly */
 	@media(min-width:792px) {
 		.hero-image {
 			width:33%;
 		}
     } 
 
-	/*This Media Query allows for the name-font to decrease in size for smaller devices*/
+	/*This Media Query allows for the name-font to decrease in size for smaller devices. Looked too large otherwise */
 	@media(min-width:510px) {
 		.name-font {
 			font-size:40px;
 		}
 	}
 
-	/*This Media Query allows for the date-font to decrease in size for smaller devices*/
+	/*This Media Query allows for the date-font to decrease in size for smaller devices. Looked too large otherwise */
 	@media(min-width:510px) {
 		.date-font {
 			font-size:30px;
 		}
 	}
 
-    	/*This Media Query allows for the link-font to decrease in size for smaller devices*/
-	@media(min-width:510px) {
-		.link-font {
-			font-size:22px;
+/*This Media Query reduces the font size of the navbar main title for smaller devices. Allowing for better spacing against nav links */
+    	@media(min-width:900px) {
+		.navbar-main-brand {
+			font-size:40px;
 		}
 	}
-    
+
+/*This Media Query reduces the font size of the navbar link titles for smaller devices. Allowing for better spacing against navbar main title */
+        	@media(min-width:900px) {
+		.navbar-main a {
+			font-size:30px;
+		}
+	}
+
+/*This Media Query reduces margin right of links navbar in order for there to be better spacing on smaller devices */
+	@media(min-width:1200px) {
+.navbar-right-margin{
+    margin-right: 220px;
+}
+}
