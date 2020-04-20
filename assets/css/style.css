@@ -48,10 +48,16 @@ a:hover {
 
 /*MAIN.HTML*/
 
+.navbar-main-brand{
+    font-family: 'Special Elite', cursive;
+	font-size: 40px;
+    color: #000000;
+}
 .navbar-main{
     font-family: 'Special Elite', cursive;
 	font-size: 20px;
     color: #000000;
+    text-align= right;
 }
 
 /*MEDIA QUERIES*/
