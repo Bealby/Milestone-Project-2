@@ -37,12 +37,12 @@ position:relative;
 
 .link-font{
     font-family: 'Special Elite', cursive;
-    font-size:1.125rem;
+    font-size:1.20rem;
     color: #000000;
 }
 
 a:hover {
-  color: grey;
+color:rgb(116,111,120,1);
   text-decoration:none;
 }
 
@@ -58,6 +58,8 @@ a:hover {
     font-family: 'Special Elite', cursive;
 	font-size: 1.25rem;
     color: #000000;
+    margin-top: 0rem;
+    margin-bottom:0rem;
 }
 
 .navbar-right-margin{
@@ -113,5 +115,13 @@ a:hover {
 	@media(min-width:75rem) {
 .navbar-right-margin{
     margin-right: 13.75rem;
+    }
 }
+
+/*This Media Query sets top and bottom margin to 0 to allow for beter spacing in navbar collaspe*/
+        	@media(min-width:31.875rem) {
+.navbar-main a{
+    margin-top: 1rem;
+    margin-bottom:1rem;
+    }
 }
