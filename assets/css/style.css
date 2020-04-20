@@ -42,7 +42,7 @@ position:relative;
 }
 
 a:hover {
-color:rgb(116,111,120,1);
+color:rgb(116,111,120,1) !important;
   text-decoration:none;
 }
 
@@ -73,6 +73,7 @@ color:rgb(116,111,120,1);
 .navbar-image{
     height:5rem;
 }
+
 
 /*MEDIA QUERIES*/
 
