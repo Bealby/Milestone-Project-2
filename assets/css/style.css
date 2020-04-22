@@ -69,7 +69,7 @@ color:rgb(116,111,120,1) !important;
 }
 
 .navbar-color{
-    background-color:rgb(209, 200, 171, 0.7);
+    background-color:rgb(209, 200, 171, 1);
 }
 
 .navbar-image{
@@ -91,7 +91,7 @@ color:rgb(116,111,120,1) !important;
 }
 
 .bio-images{
-    width:70%;
+    width:80%;
 }
 
 .bio-section h2{
