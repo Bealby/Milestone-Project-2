@@ -83,15 +83,23 @@ color:rgb(116,111,120,1) !important;
 /*Navbar*/
 
 .bio-section, footer{
-    
     background-color:rgb(209, 200, 171, 1);
 }
 
 .maps-section{
-    
     background-color:rgb(255, 255, 255, 1);
 }
 
+.bio-images{
+    width:70%;
+}
+
+.bio-section h2{
+    font-family: 'Special Elite', cursive;
+    font-size:1.875rem;
+    color: rgb(0,0,0,1);
+    text-align:center;
+}
 
 /*MEDIA QUERIES*/
 
