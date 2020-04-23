@@ -16,6 +16,7 @@ let icons = {
 
 let markersOnMap = [
     {
+        placeName: 'Fife',
         LatLng: [{
             lat: 56.2082078,
             lng: -3.1495175
@@ -23,6 +24,7 @@ let markersOnMap = [
         type: 'raoc'
     },
     {
+        placeName: 'Glasgow',
         LatLng: [{
             lat: 55.864239,
             lng: -4.251806
@@ -37,6 +39,7 @@ window.onload = function () {
 
 function addMarkerInfo() {
     for (let i = 0; i < markersOnMap.length; i++) {
+        let contentString = 'Glasgow'
         const marker = new google.maps.Marker({
             position: markersOnMap[i].LatLng[0],
             icon: icons[markersOnMap[i].type].icon,
