@@ -101,9 +101,12 @@ color:rgb(116,111,120,1) !important;
     text-align:center;
 }
 
-#map {
-    width: 100%;
-    }
+/*MAPS*/
+
+.map {
+    height: 40rem;
+}
+
 
 /*MEDIA QUERIES*/
 
