@@ -10,16 +10,18 @@ let centerCords = {
 // Custom Marker for Google Maps
 let icons = {
   raoc: {
-    icon: 'assets/images/raoc.jpg'
+    icon: 'assets/images/raoc2.png'
   },
 };
 
-let markerCluster = new MarkerClusterer(map, markers,
-            {imagePath: 'https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m'});
 
 // Locations of interest for map. Set with Lat and Lang along with Marker
 let markersOnMap = [{
-    placeName: 'fife',
+    placeName:
+    '<div id="firstHeading">' + 'Fife' + '</div>' + '<hr>' +
+    '<div id="mainContent">' + '<b>Born:</b> 27 July 1915 – 17 Mar 1984' + '</div>' +
+    '<div id="imageSize">' + '<img src="assets/images/maps/jack-fairfield-baby.jpg" alt="Jack Fairfield Baby">',
+
     LatLng: [{
       lat: 56.2082078,
       lng: -3.1495175
@@ -135,7 +137,7 @@ function addMarkerInfo() {
   for (let i = 0; i < markersOnMap.length; i++) {
 
     // Add placename to Info Window
-    let contentString = '<h3>' + markersOnMap[i].placeName + '<h3>';
+    let contentString = markersOnMap[i].placeName;
 
     const marker = new google.maps.Marker({
       position: markersOnMap[i].LatLng[0],
@@ -339,6 +341,7 @@ function initMap() {
           }]
         }
       ]
+      
   });
   addMarkerInfo();
 }

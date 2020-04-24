@@ -107,6 +107,19 @@ color:rgb(116,111,120,1) !important;
     height: 40rem;
 }
 
+#firstHeading{
+    font-family: 'Special Elite', cursive;
+	font-size: 1.875rem;
+    color: #000000;
+}
+
+#mainContent{
+    font-family: 'Special Elite', cursive;
+	font-size: 1.25rem;
+    color: #000000;
+}
+
+
 
 /*MEDIA QUERIES*/
 
