@@ -10,7 +10,7 @@ let centerCords = {
 // Custom Marker for Google Maps
 let icons = {
   raoc: {
-    icon: 'assets/images/raoc2.png'
+    icon: 'assets/images/icon/raoc.png'
   },
 };
 
@@ -18,9 +18,9 @@ let icons = {
 // Locations of interest for map. Set with Lat and Lang along with Marker
 let markersOnMap = [{
     placeName:
-    '<div id="firstHeading">' + 'Fife' + '</div>' + '<hr>' +
+    '<div id="firstHeading">' + 'FIFE' + '</div>' + '<hr>' +
     '<div id="mainContent">' + '<b>Born:</b> 27 July 1915 – 17 Mar 1984' + '</div>' +
-    '<div id="imageSize">' + '<img src="assets/images/maps/jack-fairfield-baby.jpg" alt="Jack Fairfield Baby">',
+    '<div id="imageSize">' + '<hr><img src="assets/images/maps/jack-fairfield-baby.jpg" alt="Jack Fairfield Baby">',
 
     LatLng: [{
       lat: 56.2082078,
