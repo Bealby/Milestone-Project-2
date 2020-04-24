@@ -10,7 +10,7 @@ let centerCords = {
 // Custom Marker for Google Maps
 let icons = {
     raoc: {
-        icon: 'assets/images/icon/raoc.png'
+        icon: 'assets/images/icon/flag.png'
     },
 };
 
@@ -211,7 +211,7 @@ function closeOtherInfo() {
 // Map rendering from id="map" in main.html
 function initMap() {
     map = new google.maps.Map(document.getElementById("map"), {
-        zoom: 5.6,
+        zoom: 5.8,
         center: centerCords,
         styles:
             // Styling Map with RETRO theme
