@@ -146,7 +146,7 @@ let markersOnMap = [{
     placeName:
         '<div id="firstHeading">' + 'ESINGWOLD' + '</div>' + '<hr>' +
         '<div id="mainContent">' + 'Highthorne House - ca. March 1946' + '</div>' +
-        '<div id="imageSize">' + '<hr><img src="assets/images/maps/highthorne" alt="Highthorne House RAOC Regiment">',
+        '<div id="imageSize">' + '<hr><img src="assets/images/maps/highthorne.jpg" alt="Highthorne House RAOC Regiment">',
     LatLng: [{
         lat: 54.1214408,
         lng: -1.191874
@@ -157,7 +157,7 @@ let markersOnMap = [{
     placeName:
         '<div id="firstHeading">' + 'SOUTHAMPTON' + '</div>' + '<hr>' +
         '<div id="mainContent">' + 'The Llangibby Castle shortly after its return from Sword beach, Normandy, after dropping Canadian 3rd Division on D-Day. The ship can be seen covered in oil from sunken ships off the D-Day beaches in France. Scrambling nets to disembark troops can be seen hanging from the side of the vessel - 6 June 1944 28-Jun-44' + '</div>' +
-        '<div id="imageSize">' + '<hr><img src="assets/images/maps/langibby-castle" alt="Langibby Castle">',
+        '<div id="imageSize">' + '<hr><img src="assets/images/maps/langibby-castle.jpg" alt="Langibby Castle">',
     LatLng: [{
         lat: 50.9097004,
         lng: -1.4043509
