@@ -14,9 +14,12 @@ let icons = {
   },
 };
 
+let markerCluster = new MarkerClusterer(map, markers,
+            {imagePath: 'https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m'});
+
 // Locations of interest for map. Set with Lat and Lang along with Marker
 let markersOnMap = [{
-    placeName: 'Fife',
+    placeName: 'fife',
     LatLng: [{
       lat: 56.2082078,
       lng: -3.1495175
