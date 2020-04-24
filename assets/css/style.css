@@ -86,10 +86,6 @@ color:rgb(116,111,120,1) !important;
     background-color:rgb(209, 200, 171, 1);
 }
 
-.maps-section{
-    background-color:rgb(255, 255, 255, 1);
-}
-
 .bio-images{
     width:70%;
 }
@@ -103,6 +99,9 @@ color:rgb(116,111,120,1) !important;
 
 /*MAPS*/
 
+.maps-section{
+    background-color:rgb(190, 210, 195, 1);
+}
 .map {
     height: 40rem;
 }
