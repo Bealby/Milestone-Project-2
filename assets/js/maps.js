@@ -121,7 +121,10 @@ let markersOnMap = [{
     type: 'raoc'
 },
 {
-    placeName: 'Methilhill',
+    placeName:
+        '<div id="firstHeading">' + 'METHILHILL' + '</div>' + '<hr>' +
+        '<div id="mainContent">' + 'Four Generations – Methilhil – 1947' + '</div>' +
+        '<div id="imageSize">' + '<hr><img src="assets/images/maps/four-generations.jpg" alt="Henry, Ted, Jack, Sheena Fairfield">',
     LatLng: [{
         lat: 56.1872188,
         lng: -3.0387536
@@ -129,7 +132,10 @@ let markersOnMap = [{
     type: 'raoc'
 },
 {
-    placeName: 'Edminstowe',
+    placeName:
+        '<div id="firstHeading">' + 'EDWINSTOWE' + '</div>' + '<hr>' +
+        '<div id="mainContent">' + 'ca. May 1944' + '</div>' +
+        '<div id="imageSize">' + '<hr><img src="assets/images/maps/edwinstowe.png" alt="Edwinstowe RAOC Regiment">',
     LatLng: [{
         lat: 53.196232,
         lng: -1.066758
@@ -137,7 +143,10 @@ let markersOnMap = [{
     type: 'raoc'
 },
 {
-    placeName: 'Esingwold',
+    placeName:
+        '<div id="firstHeading">' + 'ESINGWOLD' + '</div>' + '<hr>' +
+        '<div id="mainContent">' + 'Highthorne House - ca. March 1946' + '</div>' +
+        '<div id="imageSize">' + '<hr><img src="assets/images/maps/highthorne" alt="Highthorne House RAOC Regiment">',
     LatLng: [{
         lat: 54.1214408,
         lng: -1.191874
@@ -145,7 +154,10 @@ let markersOnMap = [{
     type: 'raoc'
 },
 {
-    placeName: 'Southampton',
+    placeName:
+        '<div id="firstHeading">' + 'SOUTHAMPTON' + '</div>' + '<hr>' +
+        '<div id="mainContent">' + 'The Llangibby Castle shortly after its return from Sword beach, Normandy, after dropping Canadian 3rd Division on D-Day. The ship can be seen covered in oil from sunken ships off the D-Day beaches in France. Scrambling nets to disembark troops can be seen hanging from the side of the vessel - 6 June 1944 28-Jun-44' + '</div>' +
+        '<div id="imageSize">' + '<hr><img src="assets/images/maps/langibby-castle" alt="Langibby Castle">',
     LatLng: [{
         lat: 50.9097004,
         lng: -1.4043509
