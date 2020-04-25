@@ -18,7 +18,7 @@ let icons = {
 let markersOnMap = [{
     placeName:
         '<div id="firstHeading">' + 'FIFE' + '</div>' + '<hr>' +
-        '<div id="mainContent">' + '<b>Born:</b> 27 July 1915 – 17 Mar 1984' + '</div>' +
+        '<div id="mainContent">' + '"I was born on the 27 July, 1915. Kirkcaldy, Fife. My Father was Edward Fairfield, born 2 June, 1893. A Coal Miner and Storeman. My Mother, Ada Elizabeth née Webster, was born 12 January 1889."' + '</div>' +
         '<div id="imageSize">' + '<hr><img src="assets/images/maps/jack-fairfield-baby.jpg" alt="Jack Fairfield Baby">',
 
     LatLng: [{
@@ -30,7 +30,7 @@ let markersOnMap = [{
 {
     placeName:
         '<div id="firstHeading">' + 'GLASGOW' + '</div>' + '<hr>' +
-        '<div id="mainContent">' + 'Jack Fairfield had been residing at, Onslow Drive, Dennistown, Glasgow, since the beginning of 1939, after being transferred by his employers, the Wemyss Coal Co. Ltd, East Wemyss in Fife, to their office at 116 Hope Street, Glasgow. He remembered hearing the announcement that ‘we were at war with Germany’, on Sunday 3rd September 1939. On the 16th March 1939 Jack was formally sworn into the Royal Army Ordnance Corps.' + '</div>' +
+        '<div id="mainContent">' + '"The announcement that we were at war with Germany was made on Sunday 3rd September 1939. I heard the news over the radio at 11 a.m. in my lodgings in Onslow Drive, Dennistown, Glasgow. Having made up my mind to join one of the services and being in a very restless mood I offered my services to the army."' + '</div>' +
         '<div id="imageSize">' + '<hr><img src="assets/images/maps/ted-ada-norman-jack.jpg" alt="b. Ted Fairfield & Ada Fairfield (Webster) - Norman.Jack">',
 
     LatLng: [{
@@ -42,7 +42,7 @@ let markersOnMap = [{
 {
     placeName:
         '<div id="firstHeading">' + 'CORSHAM' + '</div>' + '<hr>' +
-        '<div id="mainContent">' + 'Promoted Corporal on 7th August 1940' + '</div>' +
+        '<div id="mainContent">' + '"We moved from Colchester to a camp in Corsham, Wiltshire. Once again the huts were full and we were put into tents. There was an underground mine at this camp in which thousands of tons of ammunition were stored. We were sent to work loading and off loading ammunition. I was in a gang of six loading trains. We used to boast that we could load a truck quicker than any other gang ~ and I think we could! I was promoted to Corporal on 7 August 1940"' + '</div>' +
         '<div id="imageSize">' + '<hr><img src="assets/images/maps/corporal.jpg" alt="Corporal Badge">',
 
     LatLng: [{
@@ -54,7 +54,7 @@ let markersOnMap = [{
 {
     placeName:
         '<div id="firstHeading">' + 'BEDALE' + '</div>' + '<hr>' +
-        '<div id="mainContent">' + 'Promoted Lance-Sergeant 15th October 1940' + '</div>' +
+        '<div id="mainContent">' + '"A farm track from the main road led to our site and also to the farm nearby. A guard had always to be posted at the entrance. There was a bull in the field on the other side of the track and a favourite play of the guard was to infuriate the bull just before he came off duty. The new guard was then forced to face this angry bull with only a flimsy gate to protect him! The farmer discovered this and I had to put a stop to this bit of fun, much to the relief of those on guard duty.I was promoted to Lance-Sergeant on 15 October 1940"' + '</div>' +
         '<div id="imageSize">' + '<hr><img src="assets/images/maps/sergeant-jack-fairfield.jpg" alt="Sergeant Jack Fairfield">',
 
     LatLng: [{
@@ -66,7 +66,7 @@ let markersOnMap = [{
 {
     placeName:
         '<div id="firstHeading">' + 'ASCOT' + '</div>' + '<hr>' +
-        '<div id="mainContent">' + 'Promoted Warrent Officer Class I, 18th November 1941' + '</div>' +
+        '<div id="mainContent">' + '"It was not all work however. There was some kind of social life. In the evenings we used to walk to one of the many pubs in the area ~ in Ascot, Sunnyhill and Sunnydale. We played a lot of cards in the Sergeants Mess ~ mostly pontoon or brag. I remember that once we played the whole night through and our game only stopped when we heard reveille  in the morning. I was promoted to Warrent Officer Class I, on 18 November 1941"' + '</div>' +
         '<div id="imageSize">' + '<hr><img src="assets/images/maps/warrent-officer-class-I.jpg" alt="Warrent Officer Class I Jack Fairfield">',
 
     LatLng: [{
@@ -78,7 +78,7 @@ let markersOnMap = [{
 {
     placeName:
         '<div id="firstHeading">' + 'DERBY' + '</div>' + '<hr>' +
-        '<div id="mainContent">' + 'Promoted 2nd Lieutenant, 5th September 1942' + '</div>' +
+        '<div id="mainContent">' + '"We occasionally went into Derby for a night out. Four of us went one night for dinner in one of the best hotels in town. I was 26 years old and had never been out to dinner before in a hotel. The others were quite blaze about it and I pretended that it was almost an everyday occurrence. I was promoted 2nd Lieutenant, on 5 September 1942"' + '</div>' +
         '<div id="imageSize">' + '<hr><img src="assets/images/maps/lieutenant-jack-fairfield.jpg" alt="2nd Lieutenant Jack Fairfield">',
     LatLng: [{
         lat: 52.9225301,
@@ -89,7 +89,7 @@ let markersOnMap = [{
 {
     placeName:
         '<div id="firstHeading">' + 'BIGGLESWADE' + '</div>' + '<hr>' +
-        '<div id="mainContent">' + 'Promoted Captain, 5th April 1943 ' + '</div>' +
+        '<div id="mainContent">' + '"By late summer, No.12 BAD at Biggleswade was pretty well established. We were now at full strength and in future there was to be little movement of officers or men. All in all it was a fairly harmonious unit. There was always a little bit of friendly and sometimes unfriendly rivalry but the old bitterness and acrimony that had existed in its early days had now gone. I was promoted Captain, on 5 April 1943"' + '</div>' +
         '<div id="imageSize">' + '<hr><img src="assets/images/maps/captain-jack-fairfield.jpg" alt="Captain Jack Fairfield">',
     LatLng: [{
         lat: 52.086938,
@@ -100,7 +100,7 @@ let markersOnMap = [{
 {
     placeName:
         '<div id="firstHeading">' + 'LEVEN' + '</div>' + '<hr>' +
-        '<div id="mainContent">' + 'Wedding – St Margaret’s Episcopal Church, Leven. 8th December 1942' + '</div>' +
+        '<div id="mainContent">' + '"Plans for our wedding went ahead and the date was fixed ~ 5th December 1942. In October we were faced with a crisis at home. Small pox had broken out in my village of Methilhill and the area was out of bounds to all those in the forces. We weren’t too worried at first but we began to worry when fresh cases broke out. The area would be out of bounds for a few weeks after the last reported case. We married at St Margaret’s Episcopal Church, Leven, on 8 December 1942"' + '</div>' +
         '<div id="imageSize">' + '<hr><img src="assets/images/maps/wedding.jpg" alt="Jack and Ella Wedding">',
     LatLng: [{
         lat: 56.19632,
@@ -111,7 +111,7 @@ let markersOnMap = [{
 {
     placeName:
         '<div id="firstHeading">' + 'THORTON' + '</div>' + '<hr>' +
-        '<div id="mainContent">' + 'School House Thorton – ca. 1963/ 1964' + '</div>' +
+        '<div id="mainContent">' + '"Ella and I after the war worked as school teachers at School House Thorton – ca. 1963/ 1964"' + '</div>' +
         '<div id="imageSize">' + '<hr><img src="assets/images/maps/thorton.jpg" alt="Jack and Ella at School House Thorton">',
     LatLng: [{
         lat: 56.166325,
