@@ -98,7 +98,7 @@ color:rgb(116,111,120,1) !important;
 
 /*Bio*/
 
-.bio-section, footer{
+.bio-section, .footer{
     background-color:rgb(209, 200, 171, 1);
 }
 
@@ -160,11 +160,19 @@ color:rgb(116,111,120,1) !important;
 }
 
 .map-border{
+
     border: 0.2rem solid;
     border-image: url(assets/images/main/jack-fairfield-2.jpg);
     color:rgb(255, 255, 255, 1);
 }
 
+
+/*FOOTER*/
+
+.footer{
+    text-align: center;
+    font-size:0.8rem;
+}
 
 
 /*MEDIA QUERIES*/
