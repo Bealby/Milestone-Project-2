@@ -29,7 +29,7 @@ position:relative;
     color: rgb(0,0,0,1);
 }
 
-.date-font, .bio-section p{
+.date-font{
     font-family: 'Special Elite', cursive;
     font-size:1.25rem;
     color: rgb(0,0,0,1);
@@ -50,7 +50,7 @@ color:rgb(116,111,120,1) !important;
 
 /*Fixed Navbar covered content of sections. Links also did not align. Padding-Top help fix this problem*/
 .link-fix{
-    padding-top: 7rem;
+    padding-top: 5.3rem;
 }
 
 /*Navbar*/
@@ -76,18 +76,27 @@ color:rgb(116,111,120,1) !important;
 .navbar-color{
     background-color:rgb(209, 200, 171, 1);
     border-bottom:0.2rem solid;
-    color: red;
+    color:rgb(255, 255, 255, 1);
 }
 
 .navbar-image{
     height:5rem;
+    border: 0.2rem solid;
+    border-image: url(assets/images/main/jack-fairfield-2.jpg);
+    color:rgb(255, 255, 255, 1);
 }
 
 .navbar-toggler-icon{
-    background: url("/assets/images/raoc.jpg") no-repeat center;
+    background: url("/assets/images/main/raoc.jpg") no-repeat center;
 }
 
-/*Navbar*/
+/*Carousel*/
+
+.carousel-text{
+    color:white;
+}
+
+/*Bio*/
 
 .bio-section, footer{
     background-color:rgb(209, 200, 171, 1);
@@ -103,8 +112,14 @@ color:rgb(116,111,120,1) !important;
     color: rgb(0,0,0,1);
     text-align:center;
 }
+.bio-section p{
+    font-family: 'Special Elite', cursive;
+    font-size:1rem;
+    color: rgb(0,0,0,1);
+    text-align:justify;
+}
 
-/*MAPS*/
+/*Maps*/
 
 .maps-section{
     background-color:rgb(190, 210, 195, 1);
@@ -176,5 +191,12 @@ color:rgb(116,111,120,1) !important;
 .navbar-main a{
     margin-top: 1rem;
     margin-bottom:1rem;
+    }
+}
+
+/*This Media Query reduces padding-top to reduce white space on medium and smaller devices*/
+        	@media(min-width:56.25rem) {
+.link-fix{
+    padding-top: 7rem;
     }
 }
