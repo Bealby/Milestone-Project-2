@@ -159,6 +159,12 @@ color:rgb(116,111,120,1) !important;
     color: #000000;
 }
 
+.map-border{
+    border: 0.2rem solid;
+    border-image: url(assets/images/main/jack-fairfield-2.jpg);
+    color:rgb(255, 255, 255, 1);
+}
+
 
 
 /*MEDIA QUERIES*/
