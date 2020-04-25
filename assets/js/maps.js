@@ -89,8 +89,7 @@ let markersOnMap = [{
 {
     placeName:
         '<div id="firstHeading">' + 'BIGGLESWADE' + '</div>' + '<hr>' +
-        '<div id="mainContent">' + '"By late summer, No.12 BAD at Biggleswade was pretty well established. We were now at full strength and in future there was to be little movement of officers or men. All in all it was a fairly harmonious unit. There was always a little bit of friendly and sometimes unfriendly rivalry but the old bitterness and acrimony that had existed in its early days had now gone. I was promoted Captain, on 5 April 1943"' + '</div>' +
-        '<div id="imageSize">' + '<hr><img src="assets/images/maps/captain-jack-fairfield.jpg" alt="Captain Jack Fairfield">',
+        '<div id="mainContent">' + '"By late summer, No.12 BAD at Biggleswade was pretty well established. We were now at full strength and in future there was to be little movement of officers or men. All in all it was a fairly harmonious unit. There was always a little bit of friendly and sometimes unfriendly rivalry but the old bitterness and acrimony that had existed in its early days had now gone. I was promoted Captain, on 5 April 1943"' + '</div>',
     LatLng: [{
         lat: 52.086938,
         lng: -0.26422
@@ -111,7 +110,7 @@ let markersOnMap = [{
 {
     placeName:
         '<div id="firstHeading">' + 'THORTON' + '</div>' + '<hr>' +
-        '<div id="mainContent">' + '"Ella and I after the war worked as school teachers at School House Thorton – ca. 1963/ 1964"' + '</div>' +
+        '<div id="mainContent">' + '"After the war Ella and I worked as school teachers at School House Thorton, Thornton. – ca. 1963/ 1964"' + '</div>' +
         '<div id="imageSize">' + '<hr><img src="assets/images/maps/thorton.jpg" alt="Jack and Ella at School House Thorton">',
     LatLng: [{
         lat: 56.166325,
@@ -122,7 +121,7 @@ let markersOnMap = [{
 {
     placeName:
         '<div id="firstHeading">' + 'METHILHILL' + '</div>' + '<hr>' +
-        '<div id="mainContent">' + 'Four Generations – Methilhil – 1947' + '</div>' +
+        '<div id="mainContent">' + '"Four Generations! From let to right. Grandad, Henry. Father Edward. Myself and daughter, Sheena. Methilhil – 1947"' + '</div>' +
         '<div id="imageSize">' + '<hr><img src="assets/images/maps/four-generations.jpg" alt="Henry, Ted, Jack, Sheena Fairfield">',
     LatLng: [{
         lat: 56.1872188,
@@ -133,7 +132,7 @@ let markersOnMap = [{
 {
     placeName:
         '<div id="firstHeading">' + 'EDWINSTOWE' + '</div>' + '<hr>' +
-        '<div id="mainContent">' + 'ca. May 1944' + '</div>' +
+        '<div id="mainContent">' + '"On 6th June 1944 we heard that a landing had been made in Normandy, France. What were we doing in Edwinstowe? We were expecting something as leave had been cancelled and we were in a state of readiness. Within 48 hours we were on the move. ca. May 1944"' + '</div>' +
         '<div id="imageSize">' + '<hr><img src="assets/images/maps/edwinstowe.png" alt="Edwinstowe RAOC Regiment">',
     LatLng: [{
         lat: 53.196232,
@@ -144,7 +143,7 @@ let markersOnMap = [{
 {
     placeName:
         '<div id="firstHeading">' + 'ESINGWOLD' + '</div>' + '<hr>' +
-        '<div id="mainContent">' + 'Highthorne House - ca. March 1946' + '</div>' +
+        '<div id="mainContent">' + '"I was posted to 33 Ammunition Sub Depot with headquarters at Highthorne House (Fig.) near Easingwold in Yorkshire and I reported there at the end of my leave. This was a new unit and had not yet received its first train load of ammunition. The commanding officer was Lieutenant Ball and the second in command was Major Johnstone. Highthorne House - ca. March 1946"' + '</div>' +
         '<div id="imageSize">' + '<hr><img src="assets/images/maps/highthorne.jpg" alt="Highthorne House RAOC Regiment">',
     LatLng: [{
         lat: 54.1214408,
@@ -155,7 +154,7 @@ let markersOnMap = [{
 {
     placeName:
         '<div id="firstHeading">' + 'SOUTHAMPTON' + '</div>' + '<hr>' +
-        '<div id="mainContent">' + 'The Llangibby Castle shortly after its return from Sword beach, Normandy, after dropping Canadian 3rd Division on D-Day. The ship can be seen covered in oil from sunken ships off the D-Day beaches in France. Scrambling nets to disembark troops can be seen hanging from the side of the vessel - 6 June 1944 28-Jun-44' + '</div>' +
+        '<div id="mainContent">' + '"The Llangibby Castle shortly after its return from Sword beach, Normandy, after dropping Canadian 3rd Division on D-Day. The ship can be seen covered in oil from sunken ships off the D-Day beaches in France. Scrambling nets to disembark troops can be seen hanging from the side of the vessel - 6 June 1944 28-Jun-44. We embarked on the same ship on the 28 June, 1944"' + '</div>' +
         '<div id="imageSize">' + '<hr><img src="assets/images/maps/langibby-castle.jpg" alt="Langibby Castle">',
     LatLng: [{
         lat: 50.9097004,

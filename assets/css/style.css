@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Special+Elite:100,200,300,400,500,600,700,800');
+@import url('https://fonts.googleapis.com/css?family=Special+Elite:100,200,300,400,500,600,700,800|Roboto:100,200,300,400,500,600,700');
 
 /*INDEX.HTML*/
 
@@ -159,9 +159,10 @@ color:rgb(116,111,120,1) !important;
 }
 
 #mainContent{
-    font-family: 'Special Elite', cursive;
+    font-family: 'Roboto', sans-serif;
 	font-size: 1rem;
     color: #000000;
+    text-align:justify;
 }
 
 .map-border{
