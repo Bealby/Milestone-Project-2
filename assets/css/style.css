@@ -75,6 +75,8 @@ color:rgb(116,111,120,1) !important;
 
 .navbar-color{
     background-color:rgb(209, 200, 171, 1);
+    border-bottom:0.2rem solid;
+    color: red;
 }
 
 .navbar-image{
