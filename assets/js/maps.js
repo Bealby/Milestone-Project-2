@@ -14,7 +14,6 @@ let icons = {
     },
 };
 
-
 // Locations of interest for map. Set with Lat and Lang along with Marker
 let markersOnMap = [{
     placeName:
