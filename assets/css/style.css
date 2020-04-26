@@ -126,7 +126,7 @@ color:rgb(116,111,120,1) !important;
     font-size: 3rem;
 }
 
-.bio-quote{
+#bio-quote{
     text-align: center;
     font-style:italic;
 }
