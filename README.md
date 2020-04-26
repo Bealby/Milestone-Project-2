@@ -3,13 +3,15 @@
 ---
 
 The aim of this website is to provide an insight into my Papa's life,
-Jack Fairfield, during his time in the second world war. During the war
-years Jack Fairfield wrote an exoansive journal about his time as a soldier serving
-under the Royal Army Ordinance Corp. The website will aim to entice a
-curiosity into Jack Fairfield's life and the desire to learn more.
+Jack Fairfield, during his time in the second world war. During the second world war
+Jack Fairfield wrote an extensive journal while serving
+under the Royal Army Ordinance Corp. 
+
+This Website aims to entice curiosity into Jack Fairfield's, increasing
+the desire to learn more.
 
 The Website will be mainly for family and friends who have been very keen
-to learn more about Jack Fairfield's life and as the Website expands
+to learn more about Jack Fairfield's life. As the Website expands
 this interest can be expanded to Military Musuems.
 
 ## DEMO
@@ -35,21 +37,28 @@ Second World War.
 
 ### STRATEGY
 
-The main focus of this website is to give family and friends
+The main focus of this Website is to give family and friends
 an insight into Jack Fairfield's life. It aims to
 bring to life Jack Fairfield's journal with
 the use of an interactive map; along with private
-photos, passages and areas visited
+photos, passages and areas he visited
 and resided in.
 
-The website needs to be suitable for mobile devices,
+The Website needs to be suitable for mobile devices,
 suiting users who want to browse the website while on
 the move. The desktop and tablet versions however
 will provide a more visual and exapansive user experience.
 
 User Stories:
 
+- We would love their to be lots of photos of Jack during the war. The more the better!"
 
+- The site must be easy to use and not too complicated. We would like to share Jack's life with others. Esepically Jack's older relatives and friends who are not Some
+computer savvy." 
+
+- It would be good to incorporate some of Jack's journal in the Website. Any stories or snippets, to have an example of what he wrote"
+
+- it would be nice to know what sort of person Jack fairfield was and his position in the army"
 
 ### SCOPE
 
