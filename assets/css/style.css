@@ -116,7 +116,7 @@ color:rgb(116,111,120,1) !important;
     font-family: 'Special Elite', cursive;
     font-size:1rem;
     color: rgb(0,0,0,1);
-    text-align:justify;
+    text-align:left;
     letter-spacing: 0.08rem; 
     font-weight: 400; 
 }
@@ -244,5 +244,18 @@ color:rgb(116,111,120,1) !important;
         	@media(min-width:56.25rem) {
 .link-fix{
     padding-top: 7rem;
+    }
+}
+
+
+/*This Media Query ensures text-align runs from left for mobile devices to allow for better spacing*/
+.bio-section p{
+
+    font-family: 'Special Elite', cursive;
+    font-size:1rem;
+    color: rgb(0,0,0,1);
+    text-align:justify;
+    letter-spacing: 0.08rem; 
+    font-weight: 400; 
     }
 }
