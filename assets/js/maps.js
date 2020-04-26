@@ -169,7 +169,7 @@ let markersOnMap = [{
 // Calling initMap function
 window.onload = function () {
     initMap();
-}
+};
 
 // Creates markers for locations
 function addMarkerInfo() {
