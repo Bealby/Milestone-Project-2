@@ -70,10 +70,9 @@ A collection of photos that embrace and capture Jack
 Fairfield's life will be essentual to draw
 and retain users interest, to achieve the desire to learn more.
 
-The interactive map will highlight key locations in Jack
-Fairfield's journey through the Second World War. A brief 
-but informative summary for each of these locations will 
-be provided along with a photo relevent to the location.
+The interactive map will highlight most frequented locations in Jack
+Fairfield's journey through the Second World War. A passage from his journal will be included along wiht a relevant phtos.
+
 
 ### STRUCTURE
 
