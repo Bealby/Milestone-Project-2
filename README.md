@@ -8,6 +8,17 @@ be mainly for family and friends who have been very keen
 to learn more about Jack Fairfield's life during the war
 years.
 
+## DEMO
+
+---
+
+![Mockup Generator](/documentation/readme/mockup-generator.png/)
+
+A live version of Website can be found
+[here](https://bealby.github.io/Milestone-Project-2/)
+
+## CONTENTS
+
 ---
 
 ## UX
@@ -77,7 +88,6 @@ Please find my Wireframes for Desktop, Tablet and Mobile
 [here](https://github.com/Bealby/Milestone-Project-2/blob/master/documentation/wireframes/jack-fairfield-wireframes.pdf)
 
 ### SURFACE
-
 
 
 ## FEATURES
