@@ -6,6 +6,7 @@ let centerCords = {
     lat: 54.253850,
     lng: -3.119770
 };
+let markers = [];
 
 // Custom Marker for Google Maps
 let icons = {
@@ -193,6 +194,7 @@ function addMarkerInfo() {
             infowindow.open(marker.get('map'), marker);
             InfoObj[0] = infowindow;
         });
+        markers.push(marker);
     }
 }
 
@@ -212,6 +214,7 @@ function initMap() {
         zoom: 5.8,
         center: centerCords,
         styles:
+
             // Styling Map with RETRO theme
             [{
                 "elementType": "geometry",
@@ -381,5 +384,9 @@ function initMap() {
             ]
 
     });
-    addMarkerInfo();
-}
+    
+    addMarkerInfo();}
+
+    let markerCluster = new MarkerClusterer(map, markers,
+        { imagePath: 'https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m' });
+

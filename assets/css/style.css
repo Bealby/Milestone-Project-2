@@ -5,7 +5,7 @@
 .index-background{
 
 height:100vh;
-background: url("/assets/images/index/background.jpg") no-repeat center center fixed; 
+background: url("../images/background.jpg") no-repeat center center fixed; 
 -webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
@@ -103,7 +103,7 @@ color:rgb(116,111,120,1) !important;
 }
 
 .bio-images{
-    width:90%;
+    width:75%;
 }
 
 .bio-section h2{
