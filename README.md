@@ -2,11 +2,15 @@
 
 ---
 
-The aim of this website is to provide a descriptive activity
-about my Papa, Jack Fairfield war years. The website will 
-be mainly for family and friends who have been very keen
-to learn more about Jack Fairfield's life during the war
-years.
+The aim of this website is to provide an insight into my Papa's life,
+Jack Fairfield, during his time in the second world war. During the war
+years Jack Fairfield wrote a journal about his time as a soldier serving
+under the Royal Army Ordinance Corp. The website will aim to entice a
+curiosity into Jack Fairfield's life and the desire to learn more.
+
+The website will be mainly for family and friends who have been very keen
+to learn more about Jack Fairfield's life. However as the website expands
+this interest can be expanded to Military Musuems
 
 ## DEMO
 
