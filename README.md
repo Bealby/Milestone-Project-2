@@ -80,7 +80,7 @@ The website's front page will be the window into the website
 with a hero-image centered on the page, which when clicked will
 take you into the main website.
 
-The naviagtion bar will have a fixed but sticky position with the
+The naviagtion bar will have a fixed position with the
 links Home, Bio, and Maps.
 
 The Home page will have a large photo that stretches the page,
@@ -91,8 +91,8 @@ during the Second World War.
 
 The Map page will show an interactive map that will show locations
 using Google Maps API. Each clickable location will bring up a pop
-up window with information on the location along with a complementary
-photo.
+up window with with a passgae from Jack Fairfield's journal
+along with a complementary photo.
 
 ### SKELETON
 
@@ -100,6 +100,17 @@ Please find my Wireframes for Desktop, Tablet and Mobile
 [here](https://github.com/Bealby/Milestone-Project-2/blob/master/documentation/wireframes/jack-fairfield-wireframes.pdf)
 
 ### SURFACE
+
+The Website will have a military colour theme with the main color cenetered around a light khaki color, `rgb(209, 200, 171, 1)`,
+with white borders, `rgb(255, 255, 255, 1)`, used to divide sections, photos and the map. The text will be of a black color, 
+`rgb(0,0,0,1)`, that contrasts well with the khaki theme for clarity of font. 
+
+To distinguish between the section a light green military color will be used, `rgb(190, 210, 195, 1)`, which merges with the Map colors,
+with a subtle white border that ensures the Map stands out. 
+
+The 'hover' color used for links will be of a light grey, `rgb(116,111,120,1)`, that helps infomr users that they are on a link. 
+
+For instances of text on photos, a white text will be used to ensure readibility.
 
 
 ## FEATURES
