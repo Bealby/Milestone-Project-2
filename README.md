@@ -141,29 +141,20 @@ The three links, Home, Bio and
 All links, when hovered over, are responsive and show a light grey, `rgb(116,111,120,1)` 
 making them intuitive to click.
 
-**Footer:** Lisa Fairfield’s email and phone number are always visible at the
-footer of the page. Each is initially grey, but once clicked are highlighted
-black and directly link to either their email or telephone respectively.
-
 **Sections:**
 
 - **Home:** A striking and bold Hero-Image centred over a white background, nestled
    between the `Navbar`(provided by Bootstrap) and Footer.
 
-- **Gallery:** Users are presented with a collage of photos using the Bootstrap
+- **Bio:** Users are presented with a collage of photos using the Bootstrap
    Grid System.
 
-- **Bio:** A combination of photos and text explaining Lisa’s dreams and desires.
+- **Map:** A combination of photos and text explaining Lisa’s dreams and desires.
    This includes a link to a reference which opens up in a separate page.
 
-- **Resume:** When the Resume is clicked another tab will be opened to display a
-  CV in PDF format. This ensures that the user does not lose their way on the
-  website. This is implemented by using `target="_blank"`.
-
-- **Contact:** As well as the contact details in the footer a content section was
-  also implemented with the use of `<forms>` in Bootstrap. This allowes for a more
-  user friendly UX in communication and helps keep a record of interest in back-end
-  developing.
+  **Footer:** Lisa Fairfield’s email and phone number are always visible at the
+footer of the page. Each is initially grey, but once clicked are highlighted
+black and directly link to either their email or telephone respectively.
 
 ### FEATURES FOR SMALLER DEVICES
 
