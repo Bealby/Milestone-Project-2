@@ -132,10 +132,14 @@ structured and for the content to be responsive.
 
 ### FEATURES OF THE WEBSITE
 
-**Navigation Bar:** The slick, simplistic navigation bar is initially grey for
-each section, turning black (and remaining black) once clicked. The same feature
-applies for all other sections, enabling the user to reference where they are on
-the Website. Center `mx-auto` was used to centre Nav Bar horizontally.
+**Navigation Bar:** The color theme of light khaki, `rgb(209, 200, 171, 1)`, is used
+for the background of the `navbar` with a thumbnail potrait of Jack along with his full name.
+Each is centred slightly from the left and if clicked take you back to the intro page. 
+
+The three links, Home, Bio and 
+
+All links, when hovered over, are responsive and show a light grey, `rgb(116,111,120,1)` 
+making them intuitive to click.
 
 **Footer:** Lisa Fairfield’s email and phone number are always visible at the
 footer of the page. Each is initially grey, but once clicked are highlighted
