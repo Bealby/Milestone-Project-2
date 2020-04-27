@@ -126,6 +126,16 @@ color:rgb(116,111,120,1) !important;
     font-size: 3rem;
 }
 
+blockquote{
+    padding: 0 2rem; 
+    margin-left: 2rem;
+    border-left: 2px solid rgb(255,255,255,1);
+    font-family: 'Special Elite', cursive;
+    text-align: left;
+    font-style:italic;
+
+}
+
 /*Maps*/
 
 .maps-section{
@@ -173,8 +183,6 @@ color:rgb(116,111,120,1) !important;
     border-image: url(assets/images/main/jack-fairfield-2.jpg);
     color:rgb(255, 255, 255, 1);
 }
-
-
 
 /*FOOTER*/
 
