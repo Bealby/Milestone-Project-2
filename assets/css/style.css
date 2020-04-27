@@ -82,12 +82,12 @@ color:rgb(116,111,120,1) !important;
 .navbar-image{
     height:5rem;
     border: 0.2rem solid;
-    border-image: url(assets/images/main/jack-fairfield-2.jpg);
+    border-image: url("../images/main/jack-fairfield-2.jpg");
     color:rgb(255, 255, 255, 1);
 }
 
 .navbar-toggler-icon{
-    background: url("/assets/images/main/raoc.jpg") no-repeat center;
+    background: url("../images/main/raoc.jpg") no-repeat center;
 }
 
 /*Carousel*/
@@ -124,11 +124,6 @@ color:rgb(116,111,120,1) !important;
 .fa-hand-point-down{
     color:rgb(0,0,0,1);
     font-size: 3rem;
-}
-
-#bio-quote{
-    text-align: center;
-    font-style:italic;
 }
 
 /*Maps*/
@@ -178,6 +173,7 @@ color:rgb(116,111,120,1) !important;
     border-image: url(assets/images/main/jack-fairfield-2.jpg);
     color:rgb(255, 255, 255, 1);
 }
+
 
 
 /*FOOTER*/

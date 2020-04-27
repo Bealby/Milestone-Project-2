@@ -157,33 +157,6 @@ window.onload = function() {
     initMap();
 };
 
-// Creates markers for locations
-// function addMarkerInfo() {
-//     for (let i = 0; i < markersOnMap.length; i++) {
-
-//         // Add placename to Info Window
-//         let contentString = markersOnMap[i].placeName;
-
-//         const marker = new google.maps.Marker({
-//             position: markersOnMap[i].LatLng[0],
-//             icon: icons[markersOnMap[i].type].icon,
-//             map: map
-//         });
-
-//         // Info Window for contentString
-//         const infowindow = new google.maps.InfoWindow({
-//             content: contentString,
-//         });
-
-//         marker.addListener('click', function() {
-//             closeOtherInfo();
-//             infowindow.open(marker.get('map'), marker);
-//             InfoObj[0] = infowindow;
-//         });
-//         markers.push(marker);
-//     }
-// }
-
 // Clear marker window information when clicking another marker
 function closeOtherInfo() {
     if (InfoObj.length > 0) {
@@ -371,24 +344,23 @@ function initMap() {
 
     });
 
-    let markers = markersOnMap.map(function(marker, i) {
-        return new google.maps.Marker({
-            position: marker.LatLng[0],
-            icon: icons[marker.type].icon,
-            map: map
+    // Generage Marker per item in markersOnMap
+    let markers = markersOnMap.map(function(location, i) {
+        let marker = new google.maps.Marker({
+            position: location.LatLng[0],
+            icon: icons[location.type].icon,
         }); 
 
         // Info Window for contentString
-        let infowindow = new google.maps.InfoWindow({
-            content: marker.placeName,
-        });
+        let infoWindow = new google.maps.InfoWindow();
 
-        marker.addListener('click', function() {
-            // closeOtherInfo();
-            // infowindow.open(marker.get('map'), marker);
-            infowindow.open(map, marker);
-            // InfoObj[0] = infowindow;
+        google.maps.event.addListener(marker, "click", function() {
+            closeOtherInfo();
+            infoWindow.setContent(location.placeName);
+            infoWindow.open(map, marker);
+            InfoObj[0] = infoWindow;
         });
+        return marker;
     });
 
     let markerCluster = new MarkerClusterer(map, markers, {
