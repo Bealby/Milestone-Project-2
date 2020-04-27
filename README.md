@@ -117,25 +117,20 @@ For instances of text on photos, a white text will be used to ensure readibility
 
 ---
 
-The website consists of five separate sections; Home, Gallery, Bio, Resume and
-Contact. These are centred between a navigation bar and footer that remain constant
-and similar throughout thus ensuring that the name and contact details
-are always visible for potential agents.
+The Website's initial page has a potrait photo centrered in middle of page
+in front of a background horizontally divided by a white and light khaki
+color of, `rgb(209, 200, 171, 1)`. The page is kept minimal and simple with 
+lot of 'real estate', to focal the user to the image and text, which draws them
+into clicking the link to open the main page.
 
-The website is divided into four separate pages that can be clicked
-accordingly. It was decided against having too much content on one single page
-as the user could be found scrolling endlessely through images on their smaller
-devices. It also helps keep to the concise, simplistic selling goal of the
-Website, which requires only one click to get in contact with Lisa Fairfield.
+The main website consists of three separate sections; Home, Bio, and Map. The
+website is based on one scrolling page with three sections in the body.
 
 Much of the layout of the website used the Bootstrap Grid System of 'containers',
 'rows' and 'columns'; styled by css. This allowed the Website to be clearly
 structured and for the content to be responsive.
 
 ### FEATURES OF THE WEBSITE
-
-**Header:** A bold, definitive font that can always be clicked to go back to
-index.html
 
 **Navigation Bar:** The slick, simplistic navigation bar is initially grey for
 each section, turning black (and remaining black) once clicked. The same feature
