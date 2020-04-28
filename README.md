@@ -191,24 +191,25 @@ photos on Website.
 Below are a list of features I feel would be beneficial to add to the Website
 at a later date when more data/ information can be provided:
 
-**More Locations and Info Windows:** 
+**More Locations with Info Windows:** 
+Jack Fairfield has many further stories from his journal which could increase the Map experience
+further still. This would further increase the intereactive experience.
 
-**The full Length journal:** Add a feature to enable tabulation of data from potential
-clients, as well as statistics of people viewing her site and what they look at.
+**The full Length journal:**
+Jack Fairfield's journal could be added to the Website in it's entirety with in a separate Web Page, that could have 
+a sub directory for each chapter.
 
-**More phtoos**: An important feature to implement when they become
-available are showreels and voicereels, which will be a crucial feature
-in promoting Lisa Fairfield.
+**More photos**: 
+Further photos coudl be added to include family trees and friends and partners stories
 
-**Side Stories:** A search funciton where you can speculatively look for
-performances in which Lisa Fairfield took part.
-
-**Contact Form:** A page for punters to book tickets directly for shows;
-negating any booking fees.
+**Contact Form:** A page for people to get in contact if they have any related stories or infomration to provide.
 
 
 
 
+
+
+Support
 
 https://developers.google.com/maps/documentation/javascript/marker-clustering
 https://developers.google.com/maps/documentation/javascript/custom-markers
