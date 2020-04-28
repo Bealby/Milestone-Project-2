@@ -180,6 +180,7 @@ large spaces in text.
 https://developers.google.com/maps/documentation/javascript/marker-clustering
 https://developers.google.com/maps/documentation/javascript/custom-markers
 Inspiration From: Pradip Debnath: https://www.youtube.com/watch?v=Xptz0GQ2DO4
+https://stackoverflow.com/questions/40047210/integrate-google-maps-markerclusterer-with-infowindow
 Tim Nelson: Code Institue Support
 
 **Footer:** A copyright feature is stated at the footer of the page to confirm ownership of all content and 
