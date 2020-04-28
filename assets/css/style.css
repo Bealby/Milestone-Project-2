@@ -52,13 +52,20 @@ color:rgb(116,111,120,1) !important;
 
 .navbar-main-brand{
     font-family: 'Special Elite', cursive;
-	font-size: 1.875rem;
+	font-size: 1.8rem;
     color: rgb(0,0,0,1);
 }
 
+.navbar-main-brand2{
+    font-family: 'Special Elite', cursive;
+	font-size: 1rem;
+    color: rgb(0,0,0,1);
+}
+
+
 .navbar-main a{
     font-family: 'Special Elite', cursive;
-	font-size: 1.25rem;
+	font-size: 1.2rem;
     color: #000000;
     margin-top: 0rem;
     margin-bottom:0rem;
@@ -78,7 +85,7 @@ color:rgb(116,111,120,1) !important;
     height:5rem;
     border: 0.2rem solid;
     border-image: url("../images/main/jack-fairfield-2.jpg");
-    color:rgb(255, 255, 255, 1);
+    color:rgb(255, 255, 255, 1);+
 }
 
 .navbar-toggler-icon{
@@ -139,7 +146,7 @@ blockquote{
 
 .maps-section h2{
     font-family: 'Special Elite', cursive;
-    font-size:1.875rem;
+    font-size:1.8rem;
     color: rgb(0,0,0,1);
     text-align:center;
 }
@@ -207,7 +214,7 @@ blockquote{
 	/*This Media Query allows for the date-font to decrease in size for smaller devices. Looked too large otherwise */
 	@media(min-width:31.875rem) {
 		.date-font {
-			font-size:1.875rem;
+			font-size:1.8rem;
 		}
 	}
 
@@ -221,7 +228,7 @@ blockquote{
 /*This Media Query reduces the font size of the navbar link titles for smaller devices. Allowing for better spacing against navbar main title */
         	@media(min-width:56.25rem) {
 		.navbar-main a {
-			font-size:1.875rem;
+			font-size:1.8rem;
 		}
 	}
 
