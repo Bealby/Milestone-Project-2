@@ -133,12 +133,8 @@ blockquote{
 
 /*Maps*/
 
-.maps-section{
+.maps-background{
     background-color:rgb(190, 210, 195, 1);
-    font-family: 'Special Elite', cursive;
-    font-size:1.875rem;
-    color: rgb(0,0,0,1);
-    text-align:center;
 }
 
 .maps-section h2{
