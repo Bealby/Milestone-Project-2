@@ -132,35 +132,34 @@ structured and for the content to be responsive.
 
 ### FEATURES OF THE WEBSITE
 
-**Navigation Bar:** The color theme of light khaki, `rgb(209, 200, 171, 1)`, is used
-for the background of the `navbar` with a thumbnail potrait of Jack along with his full name.
+**Navigation Bar:** The colour theme of light khaki, `rgb(209, 200, 171, 1)`, is used
+for the background of the `navbar` with a thumbnail potrait of Jack along with his full name
+and sub header of 'War Diaries' to inform the user what this Website topic is.
+
 Each is centred slightly from the left and if clicked take you back to the intro page. 
 
-The three links, Home, Bio and 
-
-All links, when hovered over, are responsive and show a light grey, `rgb(116,111,120,1)` 
-making them intuitive to click.
+There are three links to the far right of the navbar which, when hovered over, are responsive and show a light grey colour of, `rgb(116,111,120,1)` 
+making them intuitive to click. 
 
 **Sections:**
 
-- **Home:** A striking and bold Hero-Image centred over a white background, nestled
-   between the `Navbar`(provided by Bootstrap) and Footer.
+- **Home:** The Home link is the key initil attraction of the Website with a carousel of photos that loop round every six seconds.
+The images are large and expand the page. They are highly attracted and enthraling. exciting the user to peruse further in the Website.
+This ws set up using Bootstrap. 
 
-- **Bio:** Users are presented with a collage of photos using the Bootstrap
-   Grid System.
+- **Bio:** using Bootstrap container, row and column feature centred text with one phot either side drawing the attention the short wrtite-up of Jack Faifield.
+Somw quotes are added along with infomration of what the Qebsote and main feature of the Mao is coming. A complex use of display proprtied wee us on bootstrap to ensurebio content was
+structured and aligned for all different devices.
 
-- **Map:** A combination of photos and text explaining Lisa’s dreams and desires.
-   This includes a link to a reference which opens up in a separate page.
+- **Map:** using Google Maps API, custom markers where set-up along with Clustering to clsueter locations close together, and an info window with a short passage and
+and photo to go along with it. Symbols are displayed to, in a simple way. explain how to sue the map provided.
 
-  **Footer:** Lisa Fairfield’s email and phone number are always visible at the
-footer of the page. Each is initially grey, but once clicked are highlighted
-black and directly link to either their email or telephone respectively.
+  **Footer:** A copyright feature is stated in the footer to ensure enforce ownership of all content photos in Website. 
 
 ### FEATURES FOR SMALLER DEVICES
 
-**Tablets:** Some minor features were implemented in the UX for tablets to condense
-   the Gallery from three to two columns using the bootstrap function
-   of `col-md-6 col-lg-4`.
+**Tablets:** For tablets the bio strcture was changed to display images to the left of text, to display phtois and content but in a better layout for the size of screen.
+The thuimbnail image is also removed using bootstrap. and nav text reduced in size. 
 
 **Mobile:** It was important to collapse the navigation bar on mobile devices but
   at the same time keep the bold, distint heading. A series of block features were
@@ -184,26 +183,19 @@ black and directly link to either their email or telephone respectively.
 Below are a list of features I feel would be beneficial to add to the Website
 at a later date when more data/ information can be provided:
 
-**Blog:** As Lisa Fairfield career progresses on added feature could be a
-blog page which can be updated on a regular basis. This could also include
-a calendar of productions in which Lisa Fairfield is taking part; along with
-a comment section for punters/professional fellow actors to express their
-views/comments on Lisa Fairfield’s performances.
+**More Locations and Info Windows:** 
 
-**Statistics:** Add a feature to enable tabulation of data from potential
+**The full Length journal:** Add a feature to enable tabulation of data from potential
 clients, as well as statistics of people viewing her site and what they look at.
 
-**Voice/Show Reels:**: An important feature to implement when they become
+**More phtoos**: An important feature to implement when they become
 available are showreels and voicereels, which will be a crucial feature
 in promoting Lisa Fairfield.
 
-**Search Function:** A search funciton where you can speculatively look for
+**Side Stories:** A search funciton where you can speculatively look for
 performances in which Lisa Fairfield took part.
 
-**Fans/Mechandise:** Develop a “Fans of Lisa Fairfield” page where people
-could join/register and buy “Lisa Fairfield” branded goods, e.g. signed photos.
-
-**Booking:** A page for punters to book tickets directly for shows;
+**Contact Form:** A page for punters to book tickets directly for shows;
 negating any booking fees.
 
 
