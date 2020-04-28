@@ -48,11 +48,6 @@ color:rgb(116,111,120,1) !important;
 
 /*MAIN.HTML*/
 
-/*Fixed Navbar covered content of sections. Links also did not align. Padding-Top help fix this problem*/
-.link-fix{
-    padding-top: 5.3rem;
-}
-
 /*Navbar*/
 
 .navbar-main-brand{
