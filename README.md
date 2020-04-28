@@ -112,18 +112,20 @@ The 'hover' color used for links will be of a light grey, `rgb(116,111,120,1)`, 
 
 For instances of text on photos, a white text will be used to ensure readibility.
 
+the main font used for this Website was `'Special Elite`. from `Google Fonts` A fitting type font with military feel to it.
+
 
 ## FEATURES
 
 ---
 
-The Website's initial page has a potrait photo centrered in middle of page
+The Website's initial page (`index.html`) has a potrait photo centrered in middle of page
 in front of a background horizontally divided by a white and light khaki
 color of, `rgb(209, 200, 171, 1)`. The page is kept minimal and simple with 
 lot of 'real estate', to focal the user to the image and text, which draws them
 into clicking the link to open the main page.
 
-The main website consists of three separate sections; Home, Bio, and Map. The
+The Main Web page consists of three separate sections; Home, Bio, and Map. The
 website is based on one scrolling page with three sections in the body.
 
 Much of the layout of the website used the Bootstrap Grid System of 'containers',
@@ -131,6 +133,8 @@ Much of the layout of the website used the Bootstrap Grid System of 'containers'
 structured and for the content to be responsive.
 
 ### FEATURES OF THE WEBSITE
+
+**MAIN PAGE**
 
 **Navigation Bar - Desktop:** The colour theme of light khaki, `rgb(209, 200, 171, 1)`, is used
 for the background of the `navbar` with a thumbnail potrait of Jack Fairfield, indented
@@ -157,36 +161,29 @@ with a Bootstrap Carousel feature that loops through a carousel of photos that c
 seconds. The images are large and expand the full page. A highly attractive and enthraling user
 experience. Captions in white text give a description for each photo.
 
-- **Bio:** using Bootstrap container, row and column feature centred text with one phot either side drawing the attention the short wrtite-up of Jack Faifield.
-Somw quotes are added along with infomration of what the Qebsote and main feature of the Mao is coming. A complex use of display proprtied wee us on bootstrap to ensurebio content was
-structured and aligned for all different devices.
+- **Bio:** Using `Bootstrap's Display Properties` features, a complex structure, using `hidden` and `visable`
+element properties to optimise user experienceon different devices. A thumb icon pointed downwards is also 
+attached at teh end of the bio section, to draw people down towards the mao. This icon was taken from `Font Awesome`
 
-- **Map:** using Google Maps API, custom markers where set-up along with Clustering to clsueter locations close together, and an info window with a short passage and
-and photo to go along with it. Symbols are displayed to, in a simple way. explain how to sue the map provided.
+For the deaktop layout text is nestled between two photos either side, drawing the reader into the
+text. `blockquotes`were used to ensure quotes from Jack Fairfield's journal stand out. 
 
-  **Footer:** A copyright feature is stated in the footer to ensure enforce ownership of all content photos in Website. 
+For tablet displays, the section was condensed to wo columns, with photos runnig form the let and text form the right.
+This ensured a better reading and visual for users on tablets.
 
-### FEATURES FOR SMALLER DEVICES
+For Mobile displays one photo is removed using `bootstrap's Display Properties`. Allowing scrolling on a mobile to be
+minamise and not over saturated with photo. Text was also changed from `justify` to `left` using `Media Queries`, due
+large spaces in text.
 
-**Tablets:** For tablets the bio strcture was changed to display images to the left of text, to display phtois and content but in a better layout for the size of screen.
-The thuimbnail image is also removed using bootstrap. and nav text reduced in size. 
+- **Map:** 
 
-**Mobile:** It was important to collapse the navigation bar on mobile devices but
-  at the same time keep the bold, distint heading. A series of block features were
-  used to remove a block divider and keep the main header but in a smaller format
-  using Bootstrap code `d-none d-sm-block` and `d-block d-sm-none` respectively.
+https://developers.google.com/maps/documentation/javascript/marker-clustering
+https://developers.google.com/maps/documentation/javascript/custom-markers
+Inspiration From: Pradip Debnath: https://www.youtube.com/watch?v=Xptz0GQ2DO4
+Tim Nelson: Code Institue Support
 
-  A media query was implmented, `@media(min-width:992px)`, to reduce the width size
-  to `60%` for `<forms>` on the `contact.html`. This allowed for a beter UX on
-  larger screens.
-
-  The font size for the Navbar was reduced from `28px` to `20px` using the
-  `@media(min-width:640px)` which allowed for a better sizing font
-  when the collaspe function kicks-in on mobile devices.
-
-  Font Awesome icons were also removed on mobile devices to increase white space
-  and allow for Telephone and Email links to fit cleaner on screen. An
-  `d-none d-sm-block` was used for this feature.
+**Footer:** A copyright feature is stated at the footer of the page to confirm ownership of all content and 
+photos on Website.
 
 ### FEATURES LEFT TO IMPLEMENT
 
