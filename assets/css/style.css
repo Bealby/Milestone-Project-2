@@ -122,12 +122,12 @@ color:rgb(116,111,120,1) !important;
 }
 
 blockquote{
-    padding: 0 2rem; 
-    margin-left: 2rem;
-    border-left: 2px solid rgb(255,255,255,1);
+    padding-left: 1rem;
+    margin-left: 0.7rem;
+    border-left: 2px solid rgb(0,0,0,1);
     font-family: 'Special Elite', cursive;
     text-align: left;
-    font-style:italic;
+    font-style: italic;
 
 }
 
