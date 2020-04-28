@@ -54,6 +54,7 @@ color:rgb(116,111,120,1) !important;
     font-family: 'Special Elite', cursive;
 	font-size: 1.8rem;
     color: rgb(0,0,0,1);
+    padding-left:1rem;
 }
 
 .navbar-main-brand2{
@@ -83,9 +84,6 @@ color:rgb(116,111,120,1) !important;
 
 .navbar-image{
     height:5rem;
-    border: 0.2rem solid;
-    border-image: url("../images/main/jack-fairfield-2.jpg");
-    color:rgb(255, 255, 255, 1);+
 }
 
 .navbar-toggler-icon{
@@ -222,6 +220,7 @@ blockquote{
     	@media(min-width:56.25rem) {
 		.navbar-main-brand {
 			font-size:2.5rem;
+            padding-left:1.5rem;
 		}
 	}
 
