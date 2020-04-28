@@ -175,6 +175,10 @@ blockquote {
 	text-align: left;
 }
 
+#imageSize{
+    text-align:center;
+}
+
 .map-border {
 	border: 0.2rem solid;
 	color: rgb(255, 255, 255, 1);
@@ -191,6 +195,7 @@ blockquote {
 .footer {
 	text-align: center;
 	font-size: 0.8rem;
+    font-family: 'Roboto', sans-serif;
 }
 
 
