@@ -132,20 +132,30 @@ structured and for the content to be responsive.
 
 ### FEATURES OF THE WEBSITE
 
-**Navigation Bar:** The colour theme of light khaki, `rgb(209, 200, 171, 1)`, is used
-for the background of the `navbar` with a thumbnail potrait of Jack along with his full name
-and sub header of 'War Diaries' to inform the user what this Website topic is.
+**Navigation Bar - Desktop:** The colour theme of light khaki, `rgb(209, 200, 171, 1)`, is used
+for the background of the `navbar` with a thumbnail potrait of Jack Fairfield, indented
+from the left. Next to which is the name `Jack Fairfield` with a small heading underneath,
+titled `War Diaries`, which helps describe the topic of the Website. Each can be clicked to
+take you back to the initial page of `index.html`.
 
-Each is centred slightly from the left and if clicked take you back to the intro page. 
+There are then three main links, `Home`, `Bio`, and `Maps` indented from the right (the three 
+main sections of the Website) When hovered over by teh mouse, they become responsive with the 
+color changing to a light grey of, `rgb(116,111,120,1)`. This ensures an intuitive reaction to click.
 
-There are three links to the far right of the navbar which, when hovered over, are responsive and show a light grey colour of, `rgb(116,111,120,1)` 
-making them intuitive to click. 
+**Navigation Bar - Smaller Devices:**
+
+For tablets and mobiles the text is reduced in size using `Media Queries`. The thumbnail potrait is
+also removed for beter spacious viewing in the navigation bar.
+
+For mobile devices the `Bootstrap` function was used to collaspe the navbar, with an Army Badge
+embroidered gold, to be clicked and initiate a drop down menu accordingly. 
 
 **Sections:**
 
-- **Home:** The Home link is the key initil attraction of the Website with a carousel of photos that loop round every six seconds.
-The images are large and expand the page. They are highly attracted and enthraling. exciting the user to peruse further in the Website.
-This ws set up using Bootstrap. 
+- **Home:** The Home section of the Web page should immediatey grab the attention of the users
+with a Bootstrap Carousel feature that loops through a carousel of photos that change every 6
+seconds. The images are large and expand the full page. A highly attractive and enthraling user
+experience. Captions in white text give a description for each photo.
 
 - **Bio:** using Bootstrap container, row and column feature centred text with one phot either side drawing the attention the short wrtite-up of Jack Faifield.
 Somw quotes are added along with infomration of what the Qebsote and main feature of the Mao is coming. A complex use of display proprtied wee us on bootstrap to ensurebio content was
