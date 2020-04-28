@@ -177,11 +177,11 @@ large spaces in text.
 
 - **Map:** 
 
-https://developers.google.com/maps/documentation/javascript/marker-clustering
-https://developers.google.com/maps/documentation/javascript/custom-markers
-Inspiration From: Pradip Debnath: https://www.youtube.com/watch?v=Xptz0GQ2DO4
-https://stackoverflow.com/questions/40047210/integrate-google-maps-markerclusterer-with-infowindow
-Tim Nelson: Code Institue Support
+The Map section is introduced with a short instruction to users with a Marker key accordingly. Custom Markers have been set up
+(Red Flags), that are clustered together where appropriate. Each Red Flag upon click will, open an information Window that will 
+pop up a section of passage from Jack's Journal along with a photo. 
+
+The Map itself has a Retro Theme provided by Google that gives a milatary feel to the Map and complements the Website theme. 
 
 **Footer:** A copyright feature is stated at the footer of the page to confirm ownership of all content and 
 photos on Website.
@@ -210,3 +210,9 @@ negating any booking fees.
 
 
 
+https://developers.google.com/maps/documentation/javascript/marker-clustering
+https://developers.google.com/maps/documentation/javascript/custom-markers
+Inspiration From: Pradip Debnath: https://www.youtube.com/watch?v=Xptz0GQ2DO4
+https://stackoverflow.com/questions/40047210/integrate-google-maps-markerclusterer-with-infowindow
+Tim Nelson: Code Institue Support
+https://developers.google.com/maps/documentation/javascript/examples/style-selector
