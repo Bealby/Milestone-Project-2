@@ -218,7 +218,46 @@ Further photos could be added to include family tree information and other relat
 initiated using jquery, where it loops continuosly or plays only a certain amount of times.
 There shoud be a function to turn sound off.
 
+## TECHNOLOGIES USED
 
+---
+
+The following technolgies were used in this project:
+
+- [Balsamiq Wireframes](https://balsamiq.com/wireframes/desktop/) - Allowed
+   preliminary designs to be drawn up of Website
+- [GitHub](https://github.com/) - Used to store repository and deploy website
+- [GitPod](https://gitpod.io/workspaces/) - A platform used for hard coding
+   of Website
+- [HTML](https://en.wikipedia.org/wiki/HTML) - Markup language of Website
+- [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) - Used to style
+   HTML elements
+- [BOOTSTRAP](https://getbootstrap.com/) - A famework for building responsive
+   Websites where the powerful Grid system was used along with styling
+- [Google Fonts](https://fonts.google.com/) - Programme used to import main
+   fonts in Website: **Playfair Display** and **Calligraffitti**
+- [Font Awesome](https://fontawesome.com/) - Programme used to import icons
+   for Footer in Website: **far-envelope** and **fas fa-phone**
+- [JavaScript](https://www.javascript.com/) - Used in collabration with
+   Bootstrap to collaspe Navigation Bar for small devices
+- [W3C](https://validator.w3.org/) - Used to validate HTML code
+- [WSC](https://jigsaw.w3.org/css-validator/) - Used to validate CSS code
+- [jQuery](https://jquery.com/) - Used to implement Navigation Collaspe feature
+   JavaScript Plugin
+- [Popper](https://popper.js.org/) - Used to implement Navigation Collaspe
+   feature JavaScript Plugin
+- [Markdown Lint](https://github.com/Bealby/markdownlint) - Used for validation
+    checks on README.md content
+- [Lighthouse Audit](https://developers.google.com/web/tools/lighthouse/) -
+    Helped tp improving the quality of Website
+- [Chrome Developer Tools](https://www.google.com/chrome/dev/Google) - A useful
+   developing tool in Chrome to edit pages and diagnose problems
+- [Responsive Design](http://ami.responsivedesign.is/) - Free software
+    to generate Mockup of Website on different devices
+
+[Go to top](#contents)
+
+## TESTING
 
 
 
