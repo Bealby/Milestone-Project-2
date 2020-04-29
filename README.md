@@ -220,6 +220,9 @@ Further photos could be added to include family tree information and other relat
 
 
 Support
+jquery
+https://github.com/twbs/bootstrap/issues/12852
+
 
 https://developers.google.com/maps/documentation/javascript/marker-clustering
 https://developers.google.com/maps/documentation/javascript/custom-markers
