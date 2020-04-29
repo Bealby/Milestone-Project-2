@@ -3,22 +3,22 @@
 ---
 
 The aim of this website is to provide an insight into my Papa's life,
-Jack Fairfield, during his time in the second world war. During the second world war
-Jack Fairfield wrote an extensive journal while serving
+Jack Fairfield, during his time in the second world war. During which
+time Jack Fairfield wrote an extensive journal while serving
 under the Royal Army Ordinance Corp. 
 
-This Website aims to entice curiosity into Jack Fairfield's, increasing
-the desire to learn more.
+This Website aims to entice curiosity into Jack Fairfield's journey,
+through the second wold war, increasing users desire to learn more.
 
 The Website will be mainly for family and friends who have been very keen
-to learn more about Jack Fairfield's life. As the Website expands
-this interest can be expanded to Military Musuems.
+to learn more about Jack Fairfield's life. As the Website expands however,
+this interest could be expanded to Military Musuems and the general public.
 
 ## DEMO
 
 ---
 
-![Mockup Generator](/documentation/readme/mockup-generator.png/)
+![Mockup Generator](/assets/images/mockup-website/mockup-website.png/)
 
 A live version of Website can be found
 [here](https://bealby.github.io/Milestone-Project-2/)
