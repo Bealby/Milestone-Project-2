@@ -214,6 +214,10 @@ Further photos could be added to include family tree information and other relat
 
 **Contact Form:** A page for people to get in contact if they have any related stories or information to provide.
 
+**Music:** Play some music in the background (1940's genre), that plays on entering site. This could be
+initiated using jquery, where it loops continuosly or plays only a certain amount of times.
+There shoud be a function to turn sound off.
+
 
 
 

@@ -376,9 +376,3 @@ $(document).ready(function () {
     $(".navbar-collapse").collapse('hide');
   });
 });
-
-$(document).ready(function () {
-window.onload=function(){
-    document.getElementById("my_audio").play();
-  }
-  });
