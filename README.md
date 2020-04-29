@@ -10,7 +10,7 @@ under the Royal Army Ordinance Corp.
 This Website aims to entice curiosity into Jack Fairfield's journey,
 through the second wold war, increasing users desire to learn more.
 
-The Website will mainly for family and friends who have been very keen
+The Website will mainly be for family and friends who have been very keen
 to learn more about Jack Fairfield's life. As the Website expands however,
 this interest could be expanded to Military Musuems and the general public.
 
@@ -51,10 +51,10 @@ will provide a more visual and exapansive user experience.
 
 User Stories:
 
-- "We would love their to be lots of photos of Jack during the war. The more the merrier!"
+- "We would love theere to be lots of photos of Jack during the war. The more the merrier!"
 
-- "The site must be easy to use and not too complicated. We would like to share Jack's life with others.
-Espically Jack's older relatives and friends who are not very computer savvy." 
+- "The site must be easy to use and not too complicated. We would like to share Jack's life with others,
+espically Jack's older relatives and friends who are not very computer savvy." 
 
 - "It would be good to incorporate some of Jack's journal in the Website. Any stories or snippets, to have an example of what he wrote"
 
@@ -70,18 +70,19 @@ A collection of photos that embrace and capture Jack
 Fairfield's life will be essentual to draw
 and retain users interest, to achieve the desire to learn more.
 
-The interactive map will highlight the most frequented locations in Jack
+The interactive Map will highlight the most frequented locations in Jack
 Fairfield's journey through the Second World War. A passage from his journal
-will be included along wiht a relevant phtos.
+will be included along wiht a relevant photo.
 
 
 ### STRUCTURE
 
 The website's front page will be the window into the website
-with a hero-image centered on the page, which when clicked will
-take you into the main website.
+with a hero-image centered on the page. His name and date of duration of life
+will be displayed under the image, with a clickable link, `Read More`, taking
+you into the main website.
 
-The naviagtion bar will have a sticky position with the
+The naviagtion bar will have a sticky-position with the
 links Home, Bio, and Maps.
 
 The Home page will have a large photo that stretches the page,
@@ -90,7 +91,7 @@ rotating every 6 seconds with a new photo.
 The Bio page will summarise Jack Fairfield's life and history
 during the Second World War.
 
-The Map page will show an interactive map that will show locations
+The Map page will show an interactive Map that will show locations
 using Google Maps API. Each clickable location will bring up a pop
 up window with a passgae from Jack Fairfield's journal
 along with a complementary photo.
@@ -104,21 +105,21 @@ Please find my Wireframes for Desktop, Tablet and Mobile
 
 The Website will have a military colour theme with the main color cenetered
 around a light khaki color, `rgb(209, 200, 171, 1)`, with white
-borders, `rgb(255, 255, 255, 1)`, used to divide sections, photos and the map.
+borders, `rgb(255, 255, 255, 1)`, used to divide sections, photos and the Map.
 The text will be of a black color, `rgb(0,0,0,1)`, that contrasts well with the
 khaki theme for clarity of font. 
 
 To distinguish between the sections a light green military color will be
-used, `rgb(190, 210, 195, 1)`, which merges with the Map colors, along
+used, `rgb(190, 210, 195, 1)`, which merges with the Map colours, along
 with a subtle white border that ensures the Map stands out. 
 
-The 'hover' color used for links will be of a light grey, `rgb(116,111,120,1)`,
-that helps inform users that they are a clickable link. 
+The `hover` colour used for the links will be of a light grey colour,
+`rgb(116,111,120,1)`, that helps inform users that they are a clickable link. 
 
 For carousel images, captions will have a white color font to ensure
-calirty of reading.
+clarity of reading.
 
-The main font used for this Website will be `'Special Elite`. from `Google Fonts`.
+The main font used for this Website will be `'Special Elite`, from `Google Fonts`.
 A fitting type font with a military feel to it.
 
 
@@ -151,7 +152,7 @@ take you back to the initial page of `index.html`.
 
 There are then three main links, `Home`, `Bio`, and `Maps` indented from the right (the three 
 main sections of the Website). When hovered over by the mouse, they become responsive with the 
-color changing to a light grey of, `rgb(116,111,120,1)`. This ensures an intuitive reaction to click.
+color changing to a light grey color, `rgb(116,111,120,1)`. This ensures an intuitive reaction to click.
 
 **Navigation Bar - Smaller Devices:**
 
@@ -168,31 +169,31 @@ with a `Bootstrap Carousel` feature that loops through a montage of photos that 
 seconds. The images are large and expand the full page. A highly attractive and enthraling user
 experience. Captions in white text give a description for each photo.
 
-- **Bio:** Using `Bootstrap's Display Properties` features, a complex structure, using `hidden` and `visable`
-element properties, were used to optimise layout and user experience on on different devices.
-A `thumb` icon pointed downwards is also included at the end of the bio section to draw people down towards
-the map. This icon was taken from `Font Awesome`.
+- **Bio:** Using `Bootstrap's Display Property` features, a complex structure, using `hidden` and `visable`
+element properties, were used to optimise layout and user experience on different devices.
+A `thumb` icon pointed downwards is also included at the end of the Bio section to draw people attention
+down towards the map. This icon was taken from `Font Awesome`.
 
 For the deaktop, the layout consisits of text nestled between two photos either side, drawing the reader into reading
-the text. `blockquotes`were used to ensure quotes from Jack Fairfield's journal stand out. 
+the Bio. `blockquotes`were used to ensure quotes from Jack Fairfield's journal stand out. 
 
 For tablet displays, the section was condensed two columns, with photos running vertically
 from the left and text vertically from the right. This ensures a better reading and visual experience
 for users on tablets.
 
 For Mobile displays one photo is removed using `bootstrap's Display Properties`. This allows less
-scrolling on a mobile and not over saturate with photo. Text was also changed from `justify` to
-`left` on mobile devices using `Media Queries` to allow for text to be better aligned.
+scrolling on a mobile and not over saturating the mobile experience with photos. Text was also
+changed from `justify` to `left` on mobile devices using `Media Queries` to allow for text to be better aligned.
 
 - **Map:** 
 
 The Map section is introduced with a short instruction to users with a key illustrating the symbols on
 the Map. Custom markers have been set up (Red Flags), that are clustered together where appropriate.
-Each Red Flag, once clicked,  will open up an information window that will 
+Each Red Flag, once clicked, will open up an information window that will 
 pop up a section of passage from Jack's Journal along with a photo. 
 
-The Map itself has a Retro Theme provided by `Google` that gives a milatary feel to the Map
-and complementing the Website theme. 
+The Map itself has a Retro Theme provided by `Google` that gives a milatary feel to the Map,
+complementing the Website theme. 
 
 **Footer:** A copyright feature is stated at the footer of the page to confirm ownership of all content and 
 photos on Website.
@@ -203,14 +204,13 @@ Below are a list of features I feel would be beneficial to add to the Website
 at a later date when more data/ information can be provided:
 
 **More Locations with Info Windows:** 
-Jack Fairfield has many further stories from his journal which could increase the Map experience.
-This would further increase the intereactive Map experience.
-j
+Jack Fairfield has many further stories from his journal which could increase the intereactive Map experience.
+
 **A Full Length ournal:**
-Jack Fairfield's journal could be added to the Website in it's entirety with separate sub links for chapters.
+Jack Fairfield's journal could be added to the Website in it's entirety, with separate sub links for chapters.
 
 **More Photos and Stories**: 
-Further photos could be added to include family tree information and other relatives stories through the war.
+Further photos could be added to include family tree information and other relatives and friends stories through the war.
 
 **Contact Form:** A page for people to get in contact if they have any related stories or information to provide.
 
