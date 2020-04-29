@@ -5,7 +5,6 @@ let centerCords = {
     lat: 54.253850,
     lng: -3.119770
 };
-let markers = [];
 
 // Custom Marker for Google Maps
 let icons = {
