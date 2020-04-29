@@ -186,11 +186,13 @@ scrolling on a mobile and not over saturate with photo. Text was also changed fr
 
 - **Map:** 
 
-The Map section is introduced with a short instruction to users with a Marker key accordingly. Custom Markers have been set up
-(Red Flags), that are clustered together where appropriate. Each Red Flag upon click will, open an information Window that will 
+The Map section is introduced with a short instruction to users with a key illustrating the symbols on
+the Map. Custom markers have been set up (Red Flags), that are clustered together where appropriate.
+Each Red Flag, once clicked,  will open up an information window that will 
 pop up a section of passage from Jack's Journal along with a photo. 
 
-The Map itself has a Retro Theme provided by Google that gives a milatary feel to the Map and complements the Website theme. 
+The Map itself has a Retro Theme provided by `Google` that gives a milatary feel to the Map
+and complementing the Website theme. 
 
 **Footer:** A copyright feature is stated at the footer of the page to confirm ownership of all content and 
 photos on Website.
@@ -201,17 +203,16 @@ Below are a list of features I feel would be beneficial to add to the Website
 at a later date when more data/ information can be provided:
 
 **More Locations with Info Windows:** 
-Jack Fairfield has many further stories from his journal which could increase the Map experience
-further still. This would further increase the intereactive experience.
+Jack Fairfield has many further stories from his journal which could increase the Map experience.
+This would further increase the intereactive Map experience.
+j
+**A Full Length ournal:**
+Jack Fairfield's journal could be added to the Website in it's entirety with separate sub links for chapters.
 
-**The full Length journal:**
-Jack Fairfield's journal could be added to the Website in it's entirety with in a separate Web Page, that could have 
-a sub directory for each chapter.
+**More Photos and Stories**: 
+Further photos could be added to include family tree information and other relatives stories through the war.
 
-**More photos**: 
-Further photos coudl be added to include family trees and friends and partners stories
-
-**Contact Form:** A page for people to get in contact if they have any related stories or infomration to provide.
+**Contact Form:** A page for people to get in contact if they have any related stories or information to provide.
 
 
 
