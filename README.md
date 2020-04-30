@@ -3,12 +3,13 @@
 ---
 
 The aim of this website is to provide an insight into the life of my Papa,
-Jack Fairfield, during his time in the second world war. During which
-time Jack Fairfield wrote an extensive journal while serving
+Jack Fairfield, during his time in the second world war. During the war
+Jack Fairfield wrote an extensive journal while serving
 under the Royal Army Ordinance Corp.
 
 This Website is a taster, aiming to entice curiosity into Jack Fairfield's
-journey, through the second wold war, increasing users desire to learn more.
+journey through the second wold war, increasing users desire to learn more
+from journal.
 
 The Website will mainly be for family and friends who have been very keen
 to learn more about Jack Fairfield's life. As the Website expands however,
@@ -33,7 +34,7 @@ A live version of Website can be found
 ---
 
 Family and friends will seek to learn more about Jack Fairfield,
-through imagery, passages from jounal and exploring his journey
+through imagery, passages from the journal and exploring his journeys
 around the UK during the Second World War.
 
 ### STRATEGY
@@ -60,7 +61,7 @@ User Stories:
     friends who are not very computer savvy."
 
 - "It would be good to incorporate some of Jack's journal in the Website.
-    Any fun anecdotes or snippets, to have an example of what he wrote"
+    Any fun anecdotes or snippets, giving examples of what he wrote"
 
 - "It would be very intrestng to learn more about Jack's personality and
     how he progressed in his Army career.
@@ -107,19 +108,18 @@ Please find my Wireframes for Desktop, Tablet and Mobile
 
 ### SURFACE
 
-The Website will have a military colour theme with the main color cenetered
+The Website will have a military colour theme with the main colour cenetered
 around a light khaki color, `rgb(209, 200, 171, 1)`, with white
 borders, `rgb(255, 255, 255, 1)`, used to divide sections, photos and the Map.
-The text will be of a black color, `rgb(0,0,0,1)`, that contrasts well with the
+The text will be of a black colour, `rgb(0,0,0,1)`, that contrasts well with the
 khaki theme for clarity of font.
 
-To distinguish between the sections a light green military color will be
+To distinguish between the sections a light green military colour will be
 used, `rgb(190, 210, 195, 1)`, which merges with the Map colours, along
 with a subtle white border that ensures the Map stands out.
 
 The `hover` colour used for the links will be of a light grey colour,
-`rgb(116,111,120,1)`, that helps inform users that they are a clickable
-link.
+`rgb(116,111,120,1)`, that helps inform users that the links are clickable.
 
 For carousel images, captions will have a white color font to ensure
 clarity of reading.
@@ -133,7 +133,7 @@ A fitting type font with a military feel to it.
 
 The Website's initial page (`index.html`) has a potrait photo centered in the
 middle of the page in front of a background horizontally divided by a white and
-light khaki color of, `rgb(209, 200, 171, 1)`. This page will be kept minimal
+light khaki color of, `rgb(209, 200, 171, 1)`. This page will be kept to a minimum,
 with large 'real estate', to focus the user on the image and text; drawing them
 into clicking the link to open the main page.
 
@@ -220,14 +220,14 @@ at a later date when more data/ information can be provided:
 Jack Fairfield has many further stories from his journal which could increase
 the intereactive Map experience.
 
-**A Full Length Journal:**
+**Include the Full Journal:**
 Jack Fairfield's journal could be added to the Website in it's entirety,
 with separate sub links for chapters.
 
-**More Photos and Stories**:
+**Add More locations with Informations Windows**:
 Further photos could be added to include family tree information and other
-relatives and friends stories through the war. Especially Jack's brothers
-who also servered in the army.
+relatives and friends who served in the war. Especially Jack's brothers
+who aso had active war services.
 
 **Contact Form:** A page for people to get in contact if they have any related
 stories or information to provide.
@@ -236,6 +236,17 @@ stories or information to provide.
 entering site. This could be initiated using jquery, where it loops continuosly
 or plays only a certain amount of times. There shoud be a function to turn sound
 off.
+
+Blow up photographs
+
+Index of cluster and loacations to ensue that the user is aware of all the infimraiton availble. 
+
+Include photo galary of available photos referencing back to the maop. 
+
+A playlist of world war 2 songs mentioned in Jack's journal.
+
+Cluster marks in map to go back.
+
 
 ## TECHNOLOGIES USED
 
@@ -277,6 +288,8 @@ The following technolgies were used in this project:
 [Go to top](#contents)
 
 ## TESTING
+
+all age
 
 Support
 jquery
