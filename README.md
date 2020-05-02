@@ -51,7 +51,7 @@ suiting users who want to browse the website while on
 the move. The desktop and tablet versions however
 will provide a more visual and expansive user experience.
 
-User Stories:
+### User Stories
 
 - "We would love there to be lots of photos of Jack during the war.
     The more the merrier!"
@@ -394,26 +394,34 @@ general standards.
 
 #### User Experience
 
-- Overall the User experience fits the objective of the UX goals.
-  The Website is highly affective on mobile devices. The contact
-  details, as well as imagery, are bold and apparant through out
-  a User's navigation on the Website.
+- Users felt that the Website fulfilled the expectation of quantity of photos,
+especially with the carousel implemented at beginning of the page.
 
-- It accomplished the goal of providing information on Lisa Fairfield
-  with an option to delve into futher information through links
-  in `Resume` and in `Bio`.
+- Another requirement was for the Website to be easy to use and not too complicated.
+  Overall the Website acheived this goal, however when in came to the fucntinality of
+  the Map, the older genration found it difficult to navigate, especially when
+  trying to move around and zooming in and out. They ened up losing the way and not knowing how
+  to go back to start. It would therefore be beneficial to add more features to the Map to help in
+  the navigation.
+
+  One feature could be to add an icon that is displayed in the top right of the Map,
+  that allows the user to go back after they have clicked a cluster. 
+  
+  Also it maybe useful to add more detailed instructions on the Maps section to help users
+  understand the Map functionality and features that can be used e.g. zooming in out out,
+  and moving around Map.
+
+- The Website fulfilled the Users request to add content from Jack Fairfield's journal
+  and also information on Jack Fairfield's personality and progression in the Army.
+  However it was commented that there was a greater yearning to have more that what was
+  provided. This of course can be fixed over time and satisfy the user accordingly.
 
 #### FIXES
 
 
-lazy loading
-https://coderwall.com/p/6qaeya/lazy-carousel-in-bootstrap
 
 
-- Content in Bio page was justified but spacing became too large
-  and inconsistant on mobile devies. A `@media(min-width:510px)`
-  was used to set content to `text-align:initial` on mobile
-  devices only.
+
 
 
 
