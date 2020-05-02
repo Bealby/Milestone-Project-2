@@ -28,7 +28,7 @@ let markersOnMap = [{
     {
         placeName: '<div id="firstHeading">GLASGOW</div><hr>' +
             '<div id="mainContent">"The announcement that we were at war with Germany was made on Sunday 3rd September 1939. I heard the news over the radio at 11 a.m. in my lodgings in Onslow Drive, Dennistown, Glasgow. Having made up my mind to join one of the services and being in a very restless mood I offered my services to the army."</div>' +
-            '<div id="imageSize"><hr><img src="assets/images/maps/ted-ada-norman-jack.jpg" alt="b. Ted Fairfield & Ada Fairfield (Webster) - Norman.Jack">',
+            '<div id="imageSize"><hr><img src="assets/images/maps/ted-ada-norman-jack.jpg" alt="Ted Fairfield & Ada Fairfield (Webster) - Norman.Jack">',
 
         LatLng: [{
             lat: 55.864239,

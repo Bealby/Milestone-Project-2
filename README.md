@@ -289,6 +289,116 @@ The following technolgies were used in this project:
 
 ## TESTING
 
+---
+
+### AUTOMATED TESTING
+
+[W3C](https://validator.w3.org/) - All HTML files with their data were directly
+    inputted in the Mark-Up Validation Service. The results:`Document checking completed. No errors or warnings to show.`
+
+[WSC](https://jigsaw.w3.org/css-validator/) - CSS data was directly inputted in
+    the CSS Validation Service. The results: `Congratulations! No Error Found.`
+
+[Lighthouse Audit](https://developers.google.com/web/tools/lighthouse/) - A
+    feature in Chrome Developing Tools - Lighthouse Audit - was carried out on
+    Mobile and Desktop to assess **Performacne**, **Accesibility**, **Best Practices** and **CEO**.
+
+- **Mobile:** An overall average of 80% was received.
+- **Desktop:** An overall average of 77% was recieved.
+
+`Performance` scored the lowest percentage. 53% and 63% on Desktop and Mobile respectively.
+This low score is mainly due to the large number of images that the Website contains; as well
+as the google Map feature; causing longer loading time.
+
+Potential fixes could be to consider a lazy-loading offscreen feature,  which allows
+critical resources to load first. It also could be an option to separate the sections
+into individual `html` pages, so that all images and Maps are loading at the same time.
+
+
+### NON-AUTOMATED TESTING
+
+#### Navigation Bar Links
+
+- Click through `Home`, `Gallery`, `Bio`, `Resume` and `Contact` links,
+  ensuring each becomes active and highlighted black.
+- Click each navigation link and randomaly navigate to other links.
+- For each link navigated to, ensure main header `Actress Lisa Bealby`,
+  directs you back to `index.html` each time.
+
+#### Resume
+
+- While located on each navigation link, ensure separate window opens up
+  when clicking `Resume`, displaying CV accordingly.
+
+#### Contact Form
+
+- Navigate to `Contact` page and click `Send` without submitting any data.
+  An error message should appear.
+- Fill in all required fields in form without adding Name. An
+  error message should appear.
+- Fill in all required fields in form without adding any comment. An
+  error message should appear.
+- Fill in all required fields in form with an invalid email address. An
+  error message should appear.
+- Fill in all required fields in form with a valid email address. No
+  error message should appear and data fields become blank.
+
+#### Footer
+
+- Ensure that on each Web Page the footer links work for
+  Telephone and Email (Opening up 'Email' and 'Calling' features
+  accordingly).
+
+#### Bio Reference
+
+- Click on`Bio`and ensure link to reference opens up in a new window.
+
+#### Browesers
+
+- Chrome: Website renders well on all screen sizes.
+
+- Firefox/Safari: Website renders well on both Firefox and Safari
+  for all screen sizes. The Main Header font however,
+  **Actor Lisa Fairfield**, does increase in thickness
+  but does not affect UX overall.
+
+#### Devices
+
+- The Website was tested for usability on tablets and a variety of
+  mobiles, including iPhone and Samsung. The results were
+  satifying and accomplished the UX goal for smaller devices.
+
+#### User Testing
+
+- People were asked to use the finished Website to test usability
+  and adopt the role of an agent. This helped reinforce that the
+  aims of the Website were being acheived.
+
+#### User Experience
+
+- Overall the User experience fits the objective of the UX goals.
+  The Website is highly affective on mobile devices. The contact
+  details, as well as imagery, are bold and apparant through out
+  a User's navigation on the Website.
+
+- It accomplished the goal of providing information on Lisa Fairfield
+  with an option to delve into futher information through links
+  in `Resume` and in `Bio`.
+
+#### FIXES
+
+
+lazy loading
+https://coderwall.com/p/6qaeya/lazy-carousel-in-bootstrap
+
+
+- Content in Bio page was justified but spacing became too large
+  and inconsistant on mobile devies. A `@media(min-width:510px)`
+  was used to set content to `text-align:initial` on mobile
+  devices only.
+
+
+
 all age
 
 Support
