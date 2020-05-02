@@ -431,15 +431,12 @@ especially with the carousel implemented at beginning of the page.
  align correctly.
 
  - Custom Markers were used for Maps Javascript API with inspiration from
-   the tutorial by [Pradip Debnath:](https://www.youtube.com/watch?v=Xptz0GQ2DO4).
-   , combined with Marker
-   Clustering. When setting up Custom Markers there were problems combining
-   them with Marker Clustering.  
-
-
-https://developers.google.com/maps/documentation/javascript/marker-clustering
-https://developers.google.com/maps/documentation/javascript/custom-markers
-Inspiration From: Pradip Debnath: https://www.youtube.com/watch?v=Xptz0GQ2DO4
-https://stackoverflow.com/questions/40047210/integrate-google-maps-markerclusterer-with-infowindow
-Tim Nelson: Code Institue Support
-https://developers.google.com/maps/documentation/javascript/examples/style-selector
+   the tutorial by [Pradip Debnath:](https://www.youtube.com/watch?v=Xptz0GQ2DO4)
+   and [Google Source Script](https://developers.google.com/maps/documentation/javascript/custom-markers).
+   
+   These Custom Markers were combined with Marker Clustering using
+   [Google Source Script](https://developers.google.com/maps/documentation/javascript/marker-clustering)
+   
+   There were problems with Info Windows working once the Map and icons were set up.
+   With inspirstion from [Stack Over flow](https://stackoverflow.com/questions/40047210/integrate-google-maps-markerclusterer-with-infowindow)
+   and Tim Nelson from Code insitute support this feature was correctly implmented.
