@@ -318,6 +318,8 @@ into individual `html` pages, so that all images and Maps are loading at the sam
 in the Validate Javascript. Overall there were no errors that needed to be changed and passed
 general standards.
 
+CONSOLE?
+
 ### NON-AUTOMATED TESTING
 
 ### index.html
@@ -440,3 +442,74 @@ especially with the carousel implemented at beginning of the page.
    There were problems with Info Windows working once the Map and icons were set up.
    With inspirstion from [Stack Over flow](https://stackoverflow.com/questions/40047210/integrate-google-maps-markerclusterer-with-infowindow)
    and Tim Nelson from Code insitute support this feature was correctly implmented.
+
+## DEPLOYMENT
+
+---
+
+### PUBLISH GitHub REPOSITORY
+
+- Load up GitHub at <https://github.com>
+
+- Navigate to the repository titled <https://github.com/Bealby/Milestone-Project-1>
+
+- Click Settings:
+
+![Deployment](/documentation/readme/deployment-1.png/)
+
+- Scroll down to:
+- Github Pages
+- Source
+- From drop-down menu choose master branch
+
+![Deployment](/documentation/readme/deployment-2.png/)
+
+- After selecting **master branch** the repository will be refreshed and
+   published
+
+- The published website will be found highlighted in green under **Github
+  Pages**, as below:
+
+![Deployment](/documentation/readme/deployment-3.png/)
+
+### CLONE GitHub REPOSITORY
+
+- Navigate to the repository titled <https://github.com/Bealby/Milestone-Project-1.>
+
+- On the main page for the repository click **Clone or Downlaod** as shown below.
+
+- On the main page for the Repository click Clone or Download. Then click on the
+   URL as shown below.
+
+![Deployment](/documentation/readme/deployment-4.png/)
+
+- Open in Terminal
+
+- Change the current directory to the local directory
+
+- Type `git clone` plus `URL` (copied in step 3). Then `Press Enter`
+
+## CREDITS
+
+---
+
+### Content
+
+- All content for this Website was provided by Lisa Fairfied.
+- Lisa Fairfeid's referece in Bio was provided by
+  Nick Brice – Artistic Director.
+
+### Media
+
+- All photos were provided by Lisa Fairfield who in turn recieved permission
+  from her Peers to publish on Website:
+- **Nick Brice** - Artistic Director
+- **Jack Shepherd** - English Actor, Playwright and Theatre director.
+
+### Acknowledgements
+
+- **Bootstrap:** For it's features and tutorials.
+- **Slack Forum/ Code Institute Tutorial:** The benevolent force that
+   always provide advice and support when needed.
+- **Aaron Sinnott:** My Mentor for professional advice and good practice.
+- **Friends and Family:** For User feedback.
