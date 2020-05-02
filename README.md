@@ -329,6 +329,16 @@ general standards.
 
 #### Navigation Bar Links
 
+- Click `thumbnail` image, `Jack Fairfield` and `War Diaries` and ensure they
+  redirect you to `index.html`
+- Click through `Home`, `Bio`, and `Maps` links,
+  ensuring each, when hovered over turn light grey, and direct you to the
+  correct sections.
+- Click each navigation link and randomaly navigate to other links.
+- For each link navigated to, ensure main header `Actress Lisa Bealby`,
+  directs you back to `index.html` each time.
+
+
 #### Resume
 
 - While located on each navigation link, ensure separate window opens up
