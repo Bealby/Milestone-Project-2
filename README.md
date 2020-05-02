@@ -420,22 +420,22 @@ especially with the carousel implemented at beginning of the page.
 
 - For Mobile devices the Bootstrap mobile collapse function did not collaspe when
   links were clicked. To fix this issue a simple jQuery code was added that was
-  inspired by https://github.com/twbs/bootstrap/issues/12852. This ensured that
+  inspired by [Validate Javascript](https://github.com/twbs/bootstrap/issues/12852). This ensured that
   the collapse function closed after a user clicks a link, which was a very important
   fix to implement as otherwise the navbar concealed the content on the mobile.
 
-- 
+- The links in the navigation bar did not accurately align correcly with each
+ section it navigated to - redirecting to the section half way down the content.
+ To fix this an extra `<div>` element was added above each section with a
+ `postion: absolute;` and `margin-top` value, which allowed sections to 
+ align correctly.
 
+ - Custom Markers were used for Maps Javascript API with inspiration from
+   the tutorial by [Pradip Debnath:](https://www.youtube.com/watch?v=Xptz0GQ2DO4).
+   , combined with Marker
+   Clustering. When setting up Custom Markers there were problems combining
+   them with Marker Clustering.  
 
-
-
-
-
-Section fix
-
-Support
-jquery
-https://github.com/twbs/bootstrap/issues/12852
 
 https://developers.google.com/maps/documentation/javascript/marker-clustering
 https://developers.google.com/maps/documentation/javascript/custom-markers
