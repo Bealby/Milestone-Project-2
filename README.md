@@ -335,33 +335,38 @@ general standards.
   ensuring each, when hovered over turn light grey, and direct you to the
   correct sections.
 - Click each navigation link and randomaly navigate to other links.
-- For each link navigated to, ensure main header `Actress Lisa Bealby`,
-  directs you back to `index.html` each time.
+- For each link navigated to (`Home`, `Bio`, and `Maps`), ensure main
+  header `thumbnail` image, `Jack Fairfield` and `War Diaries` continue
+  to redirect you to index.html.
+- Ensure navigation collapse Bootstrap feature kicks in on mobile devices
+  and the links continue to work correctly as process above.
 
 
-#### Resume
+#### Carousel
 
-- While located on each navigation link, ensure separate window opens up
-  when clicking `Resume`, displaying CV accordingly.
+- Ensure carousel of photos are looping correctly and change every 6 seconds on all devices.
+( It should be noted that carousel stop looping or changing once mouse is hovered over carousel).
+- Ensure photos on carousel can be manually clicked through on all devices.
 
-#### Contact Form
+#### Bio
 
-- Navigate to `Contact` page and click `Send` without submitting any data.
-  An error message should appear.
-- Fill in all required fields in form without adding Name. An
-  error message should appear.
-- Fill in all required fields in form without adding any comment. An
-  error message should appear.
-- Fill in all required fields in form with an invalid email address. An
-  error message should appear.
-- Fill in all required fields in form with a valid email address. No
-  error message should appear and data fields become blank.
+- For Desktop devices ensure the Bio section is divided into three columns with text centred and
+  images shown to the left and right respectively.
+- For Tablet devices ensure the Bio section is divided into two columnns with images on left and text on right.
+- For Mobile devices ensure all content is located on one column, with first image removed.
+
+#### Maps
+
+- For all devices ensure the Map has the correct lat and long coordinates for
+  initial load up of page.
+- For all devices ensure Map displays `Red Flag Icons` and `Cluster Marker Icons` when it is necessary 
+  to cluster `Red Flag Icons`together.
+- For all devices ensure that when `Red Flag Icon` is clicked, an info window pops up and displays text
+  and a photo.
 
 #### Footer
 
-- Ensure that on each Web Page the footer links work for
-  Telephone and Email (Opening up 'Email' and 'Calling' features
-  accordingly).
+- Ensure that Copyright text in footer is centred for all devices.
 
 #### Bio Reference
 
