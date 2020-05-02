@@ -81,7 +81,8 @@ let markersOnMap = [{
     },
     {
         placeName: '<div id="firstHeading">BIGGLESWADE</div><hr>' +
-            '<div id="mainContent">"By late summer, No.12 BAD at Biggleswade was pretty well established. We were now at full strength and in future there was to be little movement of officers or men. All in all it was a fairly harmonious unit. There was always a little bit of friendly and sometimes unfriendly rivalry but the old bitterness and acrimony that had existed in its early days had now gone. I was promoted Captain, on 5 April 1943"</div>',
+            '<div id="mainContent">"The officers’ mess was situated in Holme Court and headquarters (HQ) was located in a large house, Stratton Park, about a mile away. The men were housed in nissen huts in the grounds of Stratton Park. There was no ammunition depot here as the unit was being built up and being trained for the second front. I was promoted Captain, on 5 April 1943"</div>' +
+            '<div id="imageSize"><hr><img src="assets/images/maps/holme-court.jpg" alt="Holme Court - 1920">',
         LatLng: [{
             lat: 52.086938,
             lng: -0.26422
@@ -101,7 +102,7 @@ let markersOnMap = [{
     {
         placeName: '<div id="firstHeading">THORNTON</div><hr>' +
             '<div id="mainContent">"After the war I worked as a Headteacher at School House Thornton, Thornton. While Ella worked a a Medical Secretary – ca. 1963/ 1964"</div>' +
-            '<div id="imageSize"><hr><img src="assets/images/maps/thorton.jpg" alt="Jack and Ella at School House Thornton">',
+            '<div id="imageSize"><hr><img src="assets/images/maps/thornton.jpg" alt="Jack and Ella at School House Thornton">',
         LatLng: [{
             lat: 56.166325,
             lng: -3.146377
