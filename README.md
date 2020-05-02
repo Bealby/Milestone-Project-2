@@ -314,16 +314,20 @@ Potential fixes could be to consider a lazy-loading offscreen feature,  which al
 critical resources to load first. It also could be an option to separate the sections
 into individual `html` pages, so that all images and Maps are loading at the same time.
 
+[Validate Javascript](https://validatejavascript.com/) - Javascript files were uploaded in 
+in the Validate Javascript. Overall there were no errors that needed to be changed and passed
+general standards.
 
 ### NON-AUTOMATED TESTING
 
-#### Navigation Bar Links
+### index.html
 
-- Click through `Home`, `Gallery`, `Bio`, `Resume` and `Contact` links,
-  ensuring each becomes active and highlighted black.
-- Click each navigation link and randomaly navigate to other links.
-- For each link navigated to, ensure main header `Actress Lisa Bealby`,
-  directs you back to `index.html` each time.
+- Click `READ MORE` link and ensure in redirects you `main.html`.
+- When hovering over `READ MORE` ensure lighter grey colour occurs.
+
+### main.html
+
+#### Navigation Bar Links
 
 #### Resume
 
