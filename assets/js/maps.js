@@ -122,7 +122,7 @@ let markersOnMap = [{
     {
         placeName: '<div id="firstHeading">EDWINSTOWE</div><hr>' +
             '<div id="mainContent">"On 6th June 1944 we heard that a landing had been made in Normandy, France. What were we doing in Edwinstowe? We were expecting something as leave had been cancelled and we were in a state of readiness. Within 48 hours we were on the move. ca. May 1944"</div>' +
-            '<div id="imageSize"><hr><img src="assets/images/maps/edwinstowe.png" alt="Edwinstowe RAOC Regiment">',
+            '<div id="imageSize"><hr><img src="assets/images/maps/edwinstowe.jpg" alt="Edwinstowe RAOC Regiment">',
         LatLng: [{
             lat: 53.196232,
             lng: -1.066758
