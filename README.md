@@ -390,7 +390,7 @@ general standards.
 
 - Family and friends were asked to use the finished Website to test usability
   and comment on whether they felt it met their needs as discussed in the Strategy 
-  section - [STRATEGY](#user stories).
+  section - [User Stories](#user-stories).
 
 #### User Experience
 
