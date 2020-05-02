@@ -375,23 +375,22 @@ general standards.
 #### Browesers
 
 - Chrome: Website renders well on all screen sizes.
+- Firefox: Website renders well on all screen sizes.
+- Safari: Website renders well on all screen sizes.
+- Edge: Website renders well on all screen sizes.
 
-- Firefox/Safari: Website renders well on both Firefox and Safari
-  for all screen sizes. The Main Header font however,
-  **Actor Lisa Fairfield**, does increase in thickness
-  but does not affect UX overall.
-
-#### Devices
+#### Mobile and Tablet Devices
 
 - The Website was tested for usability on tablets and a variety of
   mobiles, including iPhone and Samsung. The results were
-  satifying and accomplished the UX goal for smaller devices.
+  satifying and accomplished the UX goal for the variety
+  of devices.
 
 #### User Testing
 
-- People were asked to use the finished Website to test usability
-  and adopt the role of an agent. This helped reinforce that the
-  aims of the Website were being acheived.
+- Family and friends were asked to use the finished Website to test usability
+  and comment on whether they felt it met their needs as discussed in the Strategy 
+  section - [STRATEGY](#user stories).
 
 #### User Experience
 
