@@ -189,6 +189,11 @@ blockquote {
 	margin-top: -6rem;
 }
 
+.link-fix-home {
+	position: absolute;
+	margin-top: -10rem;
+}
+
 
 /*FOOTER*/
 
