@@ -49,7 +49,7 @@ and resided in.
 The Website needs to be suitable for mobile devices,
 suiting users who want to browse the website while on
 the move. The desktop and tablet versions however
-will provide a more visual and exapansive user experience.
+will provide a more visual and expansive user experience.
 
 User Stories:
 
@@ -63,7 +63,7 @@ User Stories:
 - "It would be good to incorporate some of Jack's journal in the Website.
     Any fun anecdotes or snippets, giving examples of what he wrote"
 
-- "It would be very intrestng to learn more about Jack's personality and
+- "It would be very interestng to learn more about Jack's personality and
     how he progressed in his Army career.
 
 ### SCOPE
@@ -78,7 +78,7 @@ and retain users interest, to achieve the desire to learn more.
 
 The interactive Map will highlight the most frequented locations
 in Jack Fairfield's journey through the Second World War. A passage
-from his journal will be included along wiht a relevant photo.
+from his journal will be included along with a relevant photo.
 
 ### STRUCTURE
 
@@ -109,9 +109,9 @@ Please find my Wireframes for Desktop, Tablet and Mobile
 ### SURFACE
 
 The Website will have a military colour theme with the main colour cenetered
-around a light khaki color, `rgb(209, 200, 171, 1)`, with white
+around a light khaki colour, `rgb(209, 200, 171, 1)`, with white
 borders, `rgb(255, 255, 255, 1)`, used to divide sections, photos and the Map.
-The text will be of a black colour, `rgb(0,0,0,1)`, that contrasts well with the
+The text will be of a black colour, `rgb(0,0,0,1)`, which contrasts well with the
 khaki theme for clarity of font.
 
 To distinguish between the sections a light green military colour will be
@@ -121,7 +121,7 @@ with a subtle white border that ensures the Map stands out.
 The `hover` colour used for the links will be of a light grey colour,
 `rgb(116,111,120,1)`, that helps inform users that the links are clickable.
 
-For carousel images, captions will have a white color font to ensure
+For carousel images, captions will have a white colour font to ensure
 clarity of reading.
 
 The main font used for this Website will be `'Special Elite`, from `Google Fonts`.
@@ -131,9 +131,9 @@ A fitting type font with a military feel to it.
 
 ---
 
-The Website's initial page (`index.html`) has a potrait photo centered in the
+The Website's initial page (`index.html`) has a portrait photo centered in the
 middle of the page in front of a background horizontally divided by a white and
-light khaki color of, `rgb(209, 200, 171, 1)`. This page will be kept to a minimum,
+light khaki colour of, `rgb(209, 200, 171, 1)`. This page will be kept to a minimum,
 with large 'real estate', to focus the user on the image and text; drawing them
 into clicking the link to open the main page.
 
@@ -157,7 +157,7 @@ take you back to the initial page of `index.html`.
 
 There are then three main links, `Home`, `Bio`, and `Maps` indented from the right
 (the three main sections of the Website). When hovered over by the mouse, they
-become responsive with the color changing to a light grey color,
+become responsive with the colour changing to a light grey colour,
 `rgb(116,111,120,1)`. This ensures an intuitive reaction to click.
 
 **Navigation Bar - Smaller Devices:**

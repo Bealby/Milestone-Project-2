@@ -90,7 +90,7 @@ let markersOnMap = [{
     },
     {
         placeName: '<div id="firstHeading">LEVEN</div><hr>' +
-            '<div id="mainContent">"Plans for our wedding went ahead and the date was fixed ~ 5th December 1942. In October we were faced with a crisis at home. Small pox had broken out in my village of Methilhill and the area was out of bounds to all those in the forces. We weren’t too worried at first but we began to worry when fresh cases broke out. The area would be out of bounds for a few weeks after the last reported case. We married at St Margaret’s Episcopal Church, Leven, on 8 December 1942"</div>' +
+            '<div id="mainContent">"Plans for our wedding went ahead and the date was fixed ~ 8th December 1942. In October we were faced with a crisis at home. Small pox had broken out in my village of Methilhill and the area was out of bounds to all those in the forces. We weren’t too worried at first but we began to worry when fresh cases broke out. The area would be out of bounds for a few weeks after the last reported case. We married at St Margaret’s Episcopal Church, Leven, on 8 December 1942"</div>' +
             '<div id="imageSize"><hr><img src="assets/images/maps/wedding.jpg" alt="Jack and Ella Wedding">',
         LatLng: [{
             lat: 56.19632,
@@ -99,9 +99,9 @@ let markersOnMap = [{
         type: 'raoc'
     },
     {
-        placeName: '<div id="firstHeading">THORTON</div><hr>' +
-            '<div id="mainContent">"After the war Ella and I worked as school teachers at School House Thorton, Thornton. – ca. 1963/ 1964"</div>' +
-            '<div id="imageSize"><hr><img src="assets/images/maps/thorton.jpg" alt="Jack and Ella at School House Thorton">',
+        placeName: '<div id="firstHeading">THORNTON</div><hr>' +
+            '<div id="mainContent">"After the war I worked as a Headteacher at School House Thornton, Thornton. While Ella worked a a Medical Secretary – ca. 1963/ 1964"</div>' +
+            '<div id="imageSize"><hr><img src="assets/images/maps/thorton.jpg" alt="Jack and Ella at School House Thornton">',
         LatLng: [{
             lat: 56.166325,
             lng: -3.146377
