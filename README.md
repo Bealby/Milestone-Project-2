@@ -414,18 +414,24 @@ especially with the carousel implemented at beginning of the page.
 - The Website fulfilled the Users request to add content from Jack Fairfield's journal
   and also information on Jack Fairfield's personality and progression in the Army.
   However it was commented that there was a greater yearning to have more that what was
-  provided. This of course can be fixed over time and satisfy the user accordingly.
+  provided. This of course can be fixed over time and satisfy the users accordingly.
 
 #### FIXES
 
+- For Mobile devices the Bootstrap mobile collapse function did not collaspe when
+  links were clicked. To fix this issue a simple jQuery code was added that was
+  inspired by https://github.com/twbs/bootstrap/issues/12852. This ensured that
+  the collapse function closed after a user clicks a link, which was a very important
+  fix to implement as otherwise the navbar concealed the content on the mobile.
+
+- 
 
 
 
 
 
 
-
-all age
+Section fix
 
 Support
 jquery
