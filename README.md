@@ -363,14 +363,14 @@ general standards.
   to cluster `Red Flag Icons`together.
 - For all devices ensure that when `Red Flag Icon` is clicked, an info window pops up and displays text
   and a photo.
+- For all devices ensure all info windows clicked, can be closed with with the `x` icon displayed.
+- For all devices click through all combinations of `Red Flag Icons`, and ensure that when one info
+  window opens, it is closed when another `Red Flag Icon` is clicked.
+- For all devices ensure zoom and scrolling features on Map.
 
 #### Footer
 
 - Ensure that Copyright text in footer is centred for all devices.
-
-#### Bio Reference
-
-- Click on`Bio`and ensure link to reference opens up in a new window.
 
 #### Browesers
 
