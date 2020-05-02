@@ -344,7 +344,7 @@ function initMap() {
 
     });
 
-    // Generage Marker per item in markersOnMap
+    // Generate Marker per item in markersOnMap
     let markers = markersOnMap.map(function(location, i) {
         let marker = new google.maps.Marker({
             position: location.LatLng[0],
@@ -363,14 +363,9 @@ function initMap() {
         return marker;
     });
 
+    // Marker Clustering Markers provided by Google
     let markerCluster = new MarkerClusterer(map, markers, {
         imagePath: 'https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m'
     });
 
 }
-
-$(document).ready(function () {
-  $(".navbar-nav li a").click(function(event) {
-    $(".navbar-collapse").collapse('hide');
-  });
-});
