@@ -87,6 +87,7 @@ a:hover {
 .navbar-toggler-icon {
 	background: url("../images/main/raoc.jpg") no-repeat center;
     border: 0.1rem solid;
+    color:  rgb(255, 255, 255, 1);
 }
 
 
