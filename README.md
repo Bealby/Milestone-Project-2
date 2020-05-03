@@ -179,27 +179,28 @@ structured and for the content to be responsive.
 
 #### MAIN PAGE
 
-**Navigation Bar - Desktop:** The colour theme of light khaki,
-`rgb(209, 200, 171, 1)`, is used for the background of the `navbar` with
-a thumbnail potrait of Jack Fairfield, indented from the left. Next to
-which is the name `Jack Fairfield` with a small heading underneath, titled
-`War Diaries`. This helps describe the topic of the Website and can be clicked to
-take you back to the initial page of `index.html`.
+**Navigation Bar**
 
-There are then three main links, `Home`, `Bio`, and `Maps` indented from the right
-(the three main sections of the Website). When hovered over by the mouse, they
-become responsive with the colour changing to a light grey colour,
-`rgb(116,111,120,1)`. This ensures an intuitive reaction to click.
+- **Desktop:** The colour theme of light khaki,
+    `rgb(209, 200, 171, 1)`, is used for the background of the `navbar` with
+    a thumbnail potrait of Jack Fairfield, indented from the left. Next to
+    which is the name `Jack Fairfield` with a small heading underneath, titled
+    `War Diaries`. This helps describe the topic of the Website and can be clicked to
+    take you back to the initial page of `index.html`.
 
-**Navigation Bar - Smaller Devices:**
+    There are then three main links, `Home`, `Bio`, and `Maps` indented from the right
+    (the three main sections of the Website). When hovered over by the mouse, they
+    become responsive with the colour changing to a light grey colour,
+    `rgb(116,111,120,1)`. This ensures an intuitive reaction to click.
 
-For tablets and mobiles the text is reduced in size using `Media Queries`.
-The thumbnail potrait is also removed for beter spacious viewing in the
-navigation bar on tablets.
+- **Smaller Devices:**
+    For tablets and mobiles the text is reduced in size using `Media Queries`.
+    The thumbnail potrait is also removed for beter spacious viewing in the
+    navigation bar on tablets.
 
-For mobile devices the `Bootstrap` function was used to collaspe the navbar,
-with an Army Badge, embroidered gold, being the icon to click for the drop-down
-menu of links.
+    For mobile devices the `Bootstrap` function was used to collaspe the navbar,
+    with an Army Badge, embroidered gold, being the icon to click for the drop-down
+    menu of links.
 
 **Sections:**
 
@@ -228,19 +229,17 @@ menu of links.
     experience with photos. Text was also changed from `justify` to `left` on
     mobile devices using `Media Queries` to allow for text to be better aligned.
 
-- **Map:**
+- **Map:** The Map section is introduced with a short instruction to users with a key
+    illustrating the symbols on the Map. Custom markers have been set up (Red Flags),
+    that are clustered together where appropriate. Each Red Flag, once clicked,
+    will open up an information window that will pop up a section of passage from
+    Jack's Journal along with a photo.
 
-The Map section is introduced with a short instruction to users with a key
-illustrating the symbols on the Map. Custom markers have been set up (Red Flags),
-that are clustered together where appropriate. Each Red Flag, once clicked,
-will open up an information window that will pop up a section of passage from
-Jack's Journal along with a photo.
+    The Map itself has a Retro Theme provided by `Google` that gives a milatary feel
+    to the Map, complementing the Website theme.
 
-The Map itself has a Retro Theme provided by `Google` that gives a milatary feel
-to the Map, complementing the Website theme.
-
-**Footer:** A copyright feature is stated at the footer of the page to confirm
-ownership of all content and photos on Website.
+- **Footer:** A copyright feature is stated at the footer of the page to confirm
+    ownership of all content and photos on Website.
 
 ### FEATURES LEFT TO IMPLEMENT
 
@@ -553,3 +552,5 @@ general standards.
 - **Aaron Sinnott:** My Mentor for professional advice and good practice.
 - **Tim Nelson:** Code Institute Tutor for support with Maps Javascript Clustering and Info Windows.
 - **Friends and Family:** For User feedback.
+
+[Go to top](#contents)
