@@ -257,25 +257,22 @@ with separate sub links for chapters.
 **Add More locations with Informations Windows**:
 Further photos could be added to include family tree information and other
 relatives and friends who served in the war. Especially Jack's brothers
-who aso had active war services.
+who also had active war services.
 
 **Contact Form:** A page for people to get in contact if they have any related
-stories or information to provide.
+stories or information to share.
 
 **Music:** Play some music in the background (1940's genre), that plays on
 entering site. This could be initiated using jquery, where it loops continuosly
 or plays only a certain amount of times. There shoud be a function to turn sound
-off.
+off. Along with this a playlist of World War Two songs mentioned in
+Jack Fairfield's journal could be listed with the option to play
+accordingly.
 
 **Photographs**
 Photos provided on the Map could include a feature that allows the photos to be
 enlarged once clicked and be viewed in better detail. Or have a separate
 section in website of gallery of photos that are referenced back to the Map.
-
-**Music**
-A playlist of World War Two songs mentioned in Jack Fairfield's journal could
-be listed and also be playing in the background while users are prrusing
-the Website.
 
 [Go to top](#contents)
 
