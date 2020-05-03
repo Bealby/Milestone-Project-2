@@ -345,17 +345,17 @@ loading time.
 Potential fixes could be to consider a lazy-loading offscreen feature,
 which allows critical resources to load first. It also could be an option
 to separate the sections into individual `html` pages, so that all images
-and Maps are loading at the same time.
+and Maps are not loading at the same time.
 
 [Validate Javascript](https://validatejavascript.com/) - Javascript files
 were uploaded in in the Validate Javascript. Overall there were no errors
-that needed to be changed and passed general standards.
+that needed to be changed and script passed general standards.
 
 ### NON-AUTOMATED TESTING
 
 ### index.html
 
-- Click `READ MORE` link and ensure in redirects you `main.html`.
+- Click `READ MORE` link and ensure it redirects you to `main.html`.
 - When hovering over `READ MORE` ensure lighter grey colour occurs.
 
 ### main.html
@@ -363,7 +363,7 @@ that needed to be changed and passed general standards.
 #### Navigation Bar Links
 
 - Click `thumbnail` image, `Jack Fairfield` and `War Diaries` and ensure
-  they redirect you to `index.html`
+  they redirect you to `index.html`.
 - Click through `Home`, `Bio`, and `Maps` links,
   ensuring each, when hovered over turn light grey, and direct you to the
   correct sections.
@@ -377,8 +377,8 @@ that needed to be changed and passed general standards.
 #### Carousel
 
 - Ensure carousel of photos are looping correctly and change every 6 seconds
-  on all devices. (It should be noted that carousel stop looping or changing
-  once mouse is hovered over carousel).
+  on all devices. (It should be noted that the carousel stops looping or
+  through photos once mouse is hovered over carousel).
 - Ensure photos on carousel can be manually clicked through on all devices.
 
 #### Bio
@@ -386,24 +386,26 @@ that needed to be changed and passed general standards.
 - For Desktop devices ensure the Bio section is divided into three columns
   with text centred and images shown to the left and right respectively.
 - For Tablet devices ensure the Bio section is divided into two columnns with
-  images on left and text on right.
+  two images aligned to the left and text aligned to the right.
 - For Mobile devices ensure all content is located on one column, with first
   image removed.
 
 #### Maps
 
-- For all devices ensure the Map has the correct lat and long coordinates for
+- For all devices ensure the Map has the correct `lat` and `long` coordinates for
   initial load up of page.
 - For all devices ensure Map displays `Red Flag Icons` and `Cluster Marker Icons`
-  when it is necessary to cluster `Red Flag Icons`together.
-- For all devices ensure that when `Red Flag Icon` is clicked, an info window
-  pops up and displays text and a photo.
+  (When `Red Flag Icons` are clustered together.
+- For all devices ensure that when a `Red Flag Icon` is clicked, an info window
+  pops up and displays text and a photo centered.
 - For all devices ensure all info windows clicked, can be closed with with
-  the `x` icon displayed.
-- For all devices click through all combinations of `Red Flag Icons`, and ensure
-  that when one info window opens, it is closed when another `Red Flag Icon` is
-  clicked.
-- For all devices ensure zoom and scrolling features on Map.
+  the `x` icon displayed in the window.
+- For all devices click through all `Red Flag Icons`, and ensure
+  that when one info window opens, it is closed when another `Red Flag Icon`
+  is clicked.
+- For all devices click all `Cluster Marker Icons` and ensure Map zooms in
+  and displays `Red Flag Icons` accordingly.
+- For all devices ensure zoom and scrolling features work on Map.
 
 #### Footer
 
@@ -418,10 +420,10 @@ that needed to be changed and passed general standards.
 
 #### Mobile and Tablet Devices
 
-- The Website was tested for usability on tablets and a variety of
+- The Website was tested on tablets and a variety of
   mobiles, including iPhone and Samsung. The results were
-  satifying and accomplished the UX goal for the variety
-  of devices.
+  satisfactory for all devices and continued to acheive the
+  UX and UI goals.
 
 #### User Testing
 
@@ -431,63 +433,64 @@ that needed to be changed and passed general standards.
 
 #### User Experience
 
-- Users felt that the Website fulfilled the expectation of quantity of photos,
-  especially with the carousel implemented at beginning of the page.
+- Users felt that the Website fulfilled the expectation of quantity of
+  photos, especially with the carousel implemented at beginning of the page.
 
 - Another requirement was for the Website to be easy to use and not too
-  complicated. Overall the Website acheived this goal, however when in
-  came to the fucntinality of the Map, the older genration found it difficult
-  to navigate, especially when trying to move around and zooming in and out.
-  They ened up losing the way and not knowing how to go back to start. It would
-  therefore be beneficial to add more features to the Map to help in
-  the navigation.
+  complicated. Overall the Website acheived this goal, however when it
+  came to the functionality of the Map, the older genration found it
+  difficult to navigate around, especially when trying to move around the
+  Map and zoom in and out. Losing their way and not knowing how
+  to go back to start. It would therefore be beneficial to add more features
+  to the Map to help in the navigation.
   - One feature could be to add an icon that is displayed in the top right of
-      the Map, that allows the user to go back after they have clicked a cluster.
+    the Map, that allows the user to go back after they have clicked a cluster.
   - Also it maybe useful to add more detailed instructions on the Maps section
-      to help users understand the Map functionality and features that can be
-      used e.g. zooming in out out, and moving around Map.
-  - The Website fulfilled the Users request to add content from Jack Fairfield's
-      journal and also information on Jack Fairfield's personality and progression
-      in the Army. However it was commented that there was a greater yearning to
-      have more than what was provided. This of course can be fixed over time and
-      satisfy the users accordingly.
+    to help users understand the Map functionality and features that can be
+    used e.g. zooming in out out, and moving around Map.
+
+- The Website fulfilled the Users request to add content from Jack Fairfield's
+  journal and also information on Jack Fairfield's personality and progression
+  in the Army. However it was commented that there was a greater yearning to
+  have more than what was provided. This of course can be fixed over time and
+  satisfy the users accordingly.
 
 - It is normally standard practice to have the `navbar-toggler-icon` displayed
-  as an intuitive square box with horizontal lines. For this Website I replaced
-  this icon with an image of a Gold Badge.
-  - Through User testing the results were positive. Users in curiosity still
-    intuitively clicked the navbar-toggle-icon even though it was not what is
-    standard practice for them to see.
+  as an intuitive `square box` with `horizontal lines`. For this Website I replaced
+  this icon with an image of a `Gold Badge`.
+  - Through User testing the results were positive. Users, in curiosity still
+    intuitively clicked the `Gold Badge` for the drop menu on mobile
+    devices.
   - However as the Website expands, further tests should be assessed to monitor
-    results.
+    results and make changes where necessary.
 
 #### FIXES
 
 - For Mobile devices the Bootstrap mobile collapse function did not collaspe when
   links were clicked. To fix this issue a simple jQuery code was added that was
-  [Validate Javascript](https://github.com/twbs/bootstrap/issues/12852)
-  .This ensured that the collapse function closed after a user clicks a link,
-  which was a very important fix to implement as otherwise the navbar concealed the
-  content on the mobile.
+  inspired from [Validate Javascript](https://github.com/twbs/bootstrap/issues/12852).
+  An important fix to implement, otherwise the navbar concealed the
+  content on the mobile device.
 
-- The links in the navigation bar did not accurately align correcly with each
- section it navigated to - redirecting to the section half way down the content.
- To fix this an extra `<div>` element was added above each section with a
- `postion: absolute;` and `margin-top` value, which allowed sections to
- align correctly.
+- The links, when clicked in the navigation bar did not accurately align
+ with each section it navigated to - redirecting to the section
+ slightly half way down. To fix this an extra `<div>` element
+ was added above each section (`Home`,`Bio` and `Maps`), with a
+ `postion: absolute;` and `margin-top` value. This allowed sections to
+ align correctly on all devices.
 
 - Custom Markers were used for Maps Javascript API with inspiration from
    the tutorial by
    [Pradip Debnath:](https://www.youtube.com/watch?v=Xptz0GQ2DO4) and
    [Google Source Script](https://developers.google.com/maps/documentation/javascript/custom-markers)
-   . These Custom Markers were combined with Marker Clustering using
+   These Custom Markers were combined with Marker Clustering using
    [Google Source Script](https://developers.google.com/maps/documentation/javascript/marker-clustering)
 
    There were problems with Info Windows working once the Map and
-   icons were set up. With inspiration from
+   custom icons were set up. With inspiration from
    [Stack Over flow](https://stackoverflow.com/questions/40047210/integrate-google-maps-markerclusterer-with-infowindow)
-   and Tim Nelson from Code insitute support this feature was correctly
-   implmented.
+   and Tim Nelson from Code insitute support, this feature was correctly
+   implemented.
 
 [Go to top](#contents)
 
