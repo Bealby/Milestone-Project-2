@@ -179,19 +179,19 @@ structured and for the content to be responsive.
 
 #### MAIN PAGE
 
-**Navigation Bar**
+**Navigation Bar:**
 
 - **Desktop:** The colour theme of light khaki,
     `rgb(209, 200, 171, 1)`, is used for the background of the `navbar` with
     a thumbnail potrait of Jack Fairfield, indented from the left. Next to
     which is the name `Jack Fairfield` with a small heading underneath, titled
-    `War Diaries`. This helps describe the topic of the Website and can be clicked to
-    take you back to the initial page of `index.html`.
+    `War Diaries`. This helps describe the topic of the Website and can be
+    clicked to take you back to the initial page of `index.html`.
 
-    There are then three main links, `Home`, `Bio`, and `Maps` indented from the right
-    (the three main sections of the Website). When hovered over by the mouse, they
-    become responsive with the colour changing to a light grey colour,
-    `rgb(116,111,120,1)`. This ensures an intuitive reaction to click.
+    There are then three main links, `Home`, `Bio`, and `Maps` indented
+    from the right(the three main sections of the Website). When hovered over by
+    the mouse, they become responsive with the colour changing to a light
+    grey colour, `rgb(116,111,120,1)`. This ensures an intuitive reaction to click.
 
 - **Smaller Devices:**
     For tablets and mobiles the text is reduced in size using `Media Queries`.
@@ -229,11 +229,11 @@ structured and for the content to be responsive.
     experience with photos. Text was also changed from `justify` to `left` on
     mobile devices using `Media Queries` to allow for text to be better aligned.
 
-- **Map:** The Map section is introduced with a short instruction to users with a key
-    illustrating the symbols on the Map. Custom markers have been set up (Red Flags),
-    that are clustered together where appropriate. Each Red Flag, once clicked,
-    will open up an information window that will pop up a section of passage from
-    Jack's Journal along with a photo.
+- **Map:** The Map section is introduced with a short instruction to users
+    with a key illustrating the symbols on the Map. Custom markers have been set
+    up (Red Flags), that are clustered together where appropriate. Each Red Flag,
+    once clicked, will open up an information window that will pop up a section
+    of passage from Jack's Journal along with a photo.
 
     The Map itself has a Retro Theme provided by `Google` that gives a milatary feel
     to the Map, complementing the Website theme.
@@ -268,13 +268,14 @@ or plays only a certain amount of times. There shoud be a function to turn sound
 off.
 
 **Photographs**
-Photos provided on the Map could include a feature that allows the photos to be enlarged
-once clicked and be viewed in better detail. Or have a separate section in website of
-gallery of photos that are referenced back to the Map.
+Photos provided on the Map could include a feature that allows the photos to be
+enlarged once clicked and be viewed in better detail. Or have a separate
+section in website of gallery of photos that are referenced back to the Map.
 
 **Music**
-A playlist of World War Two songs mentioned in Jack Fairfield's journal could be listed
-and also be playing in the background while users are prrusing the Website.
+A playlist of World War Two songs mentioned in Jack Fairfield's journal could
+be listed and also be playing in the background while users are prrusing
+the Website.
 
 [Go to top](#contents)
 
@@ -299,7 +300,7 @@ The following technolgies were used in this project:
 - [Font Awesome](https://fontawesome.com/) - Programme used to import icons
    for Footer in Website: **far-envelope** and **fas fa-phone**
 - [JavaScript](https://www.javascript.com/) - Used in collabration with
-   Bootstrap to collaspe Navigation Bar for small devices
+   Bootstrap to collaspe Navigation Bar for small devices and Google Maps
 - [W3C](https://validator.w3.org/) - Used to validate HTML code
 - [WSC](https://jigsaw.w3.org/css-validator/) - Used to validate CSS code
 - [jQuery](https://jquery.com/) - Used to implement Navigation Collaspe feature
@@ -325,29 +326,33 @@ The following technolgies were used in this project:
 ### AUTOMATED TESTING
 
 [W3C](https://validator.w3.org/) - All HTML files with their data were directly
-    inputted in the Mark-Up Validation Service. The results:`Document checking completed. No errors or warnings to show.`
+    inputted in the Mark-Up Validation Service.
+    The results:`Document checking completed. No errors or warnings to show.`
 
 [WSC](https://jigsaw.w3.org/css-validator/) - CSS data was directly inputted in
     the CSS Validation Service. The results: `Congratulations! No Error Found.`
 
-[Lighthouse Audit](https://developers.google.com/web/tools/lighthouse/) - A
-    feature in Chrome Developing Tools - Lighthouse Audit - was carried out on
-    Mobile and Desktop to assess **Performacne**, **Accesibility**, **Best Practices** and **CEO**.
+[Lighthouse Audit](https://developers.google.com/web/tools/lighthouse/) -
+A feature in Chrome Developing Tools - Lighthouse Audit - was carried out
+on Mobile and Desktop to assess **Performacne**, **Accesibility**,
+**Best Practices** and **CEO**.
 
 - **Mobile:** An overall average of 80% was received.
 - **Desktop:** An overall average of 77% was recieved.
 
-`Performance` scored the lowest percentage. 53% and 63% on Desktop and Mobile respectively.
-This low score is mainly due to the large number of images that the Website contains; as well
-as the google Map feature; causing longer loading time.
+`Performance` scored the lowest percentage. 53% and 63% on Desktop and Mobile
+respectively. This low score is mainly due to the large number of images that
+the Website contains; as well as the google Map feature; causing longer
+loading time.
 
-Potential fixes could be to consider a lazy-loading offscreen feature,  which allows
-critical resources to load first. It also could be an option to separate the sections
-into individual `html` pages, so that all images and Maps are loading at the same time.
+Potential fixes could be to consider a lazy-loading offscreen feature,
+which allows critical resources to load first. It also could be an option
+to separate the sections into individual `html` pages, so that all images
+and Maps are loading at the same time.
 
-[Validate Javascript](https://validatejavascript.com/) - Javascript files were uploaded in 
-in the Validate Javascript. Overall there were no errors that needed to be changed and passed
-general standards.
+[Validate Javascript](https://validatejavascript.com/) - Javascript files
+were uploaded in in the Validate Javascript. Overall there were no errors
+that needed to be changed and passed general standards.
 
 ### NON-AUTOMATED TESTING
 
@@ -360,8 +365,8 @@ general standards.
 
 #### Navigation Bar Links
 
-- Click `thumbnail` image, `Jack Fairfield` and `War Diaries` and ensure they
-  redirect you to `index.html`
+- Click `thumbnail` image, `Jack Fairfield` and `War Diaries` and ensure
+  they redirect you to `index.html`
 - Click through `Home`, `Bio`, and `Maps` links,
   ensuring each, when hovered over turn light grey, and direct you to the
   correct sections.
@@ -372,31 +377,35 @@ general standards.
 - Ensure navigation collapse Bootstrap feature kicks in on mobile devices
   and the links continue to work correctly as process above.
 
-
 #### Carousel
 
-- Ensure carousel of photos are looping correctly and change every 6 seconds on all devices.
-( It should be noted that carousel stop looping or changing once mouse is hovered over carousel).
+- Ensure carousel of photos are looping correctly and change every 6 seconds
+  on all devices. (It should be noted that carousel stop looping or changing
+  once mouse is hovered over carousel).
 - Ensure photos on carousel can be manually clicked through on all devices.
 
 #### Bio
 
-- For Desktop devices ensure the Bio section is divided into three columns with text centred and
-  images shown to the left and right respectively.
-- For Tablet devices ensure the Bio section is divided into two columnns with images on left and text on right.
-- For Mobile devices ensure all content is located on one column, with first image removed.
+- For Desktop devices ensure the Bio section is divided into three columns
+  with text centred and images shown to the left and right respectively.
+- For Tablet devices ensure the Bio section is divided into two columnns with
+  images on left and text on right.
+- For Mobile devices ensure all content is located on one column, with first
+  image removed.
 
 #### Maps
 
 - For all devices ensure the Map has the correct lat and long coordinates for
   initial load up of page.
-- For all devices ensure Map displays `Red Flag Icons` and `Cluster Marker Icons` when it is necessary 
-  to cluster `Red Flag Icons`together.
-- For all devices ensure that when `Red Flag Icon` is clicked, an info window pops up and displays text
-  and a photo.
-- For all devices ensure all info windows clicked, can be closed with with the `x` icon displayed.
-- For all devices click through all combinations of `Red Flag Icons`, and ensure that when one info
-  window opens, it is closed when another `Red Flag Icon` is clicked.
+- For all devices ensure Map displays `Red Flag Icons` and `Cluster Marker Icons`
+  when it is necessary to cluster `Red Flag Icons`together.
+- For all devices ensure that when `Red Flag Icon` is clicked, an info window
+  pops up and displays text and a photo.
+- For all devices ensure all info windows clicked, can be closed with with
+  the `x` icon displayed.
+- For all devices click through all combinations of `Red Flag Icons`, and ensure
+  that when one info window opens, it is closed when another `Red Flag Icon` is
+  clicked.
 - For all devices ensure zoom and scrolling features on Map.
 
 #### Footer
@@ -419,68 +428,69 @@ general standards.
 
 #### User Testing
 
-- Family and friends were asked to use the finished Website to test usability
-  and comment on whether they felt it met their needs as discussed in the Strategy 
-  section - [User Stories](#user-stories).
+- Family and friends were asked to use the finished Website to test
+  usability and comment on whether they felt it met their needs as discussed
+  in the Strategy section - [User Stories](#user-stories).
 
 #### User Experience
 
 - Users felt that the Website fulfilled the expectation of quantity of photos,
- especially with the carousel implemented at beginning of the page.
+  especially with the carousel implemented at beginning of the page.
 
-- Another requirement was for the Website to be easy to use and not too complicated.
-  Overall the Website acheived this goal, however when in came to the fucntinality of
-  the Map, the older genration found it difficult to navigate, especially when
-  trying to move around and zooming in and out. They ened up losing the way and not knowing how
-  to go back to start. It would therefore be beneficial to add more features to the Map to help in
+- Another requirement was for the Website to be easy to use and not too
+  complicated. Overall the Website acheived this goal, however when in
+  came to the fucntinality of the Map, the older genration found it difficult
+  to navigate, especially when trying to move around and zooming in and out.
+  They ened up losing the way and not knowing how to go back to start. It would
+  therefore be beneficial to add more features to the Map to help in
   the navigation.
+  - One feature could be to add an icon that is displayed in the top right of
+      the Map, that allows the user to go back after they have clicked a cluster.
+  - Also it maybe useful to add more detailed instructions on the Maps section
+      to help users understand the Map functionality and features that can be
+      used e.g. zooming in out out, and moving around Map.
+  - The Website fulfilled the Users request to add content from Jack Fairfield's
+      journal and also information on Jack Fairfield's personality and progression
+      in the Army. However it was commented that there was a greater yearning to
+      have more than what was provided. This of course can be fixed over time and
+      satisfy the users accordingly.
 
-  One feature could be to add an icon that is displayed in the top right of the Map,
-  that allows the user to go back after they have clicked a cluster. 
-  
-  Also it maybe useful to add more detailed instructions on the Maps section to help users
-  understand the Map functionality and features that can be used e.g. zooming in out out,
-  and moving around Map.
-
-- The Website fulfilled the Users request to add content from Jack Fairfield's journal
-  and also information on Jack Fairfield's personality and progression in the Army.
-  However it was commented that there was a greater yearning to have more than what was
-  provided. This of course can be fixed over time and satisfy the users accordingly.
-
-- It is normally standard practice to have the `navbar-toggler-icon` displayed as an
-  intuitive square box with horizontal lines. For this Website I replaced this icon with
-  an image of a Gold Badge.
-  
-  Through User testing the results were positive. Users in curiosity still intuitively
-  clicked the navbar-toggle-icon even though it was not what is standard practice for them to see.
-
-  However as the Website expands, further tests should be assessed to monitor results.
-
+- It is normally standard practice to have the `navbar-toggler-icon` displayed
+  as an intuitive square box with horizontal lines. For this Website I replaced
+  this icon with an image of a Gold Badge.
+  - Through User testing the results were positive. Users in curiosity still
+    intuitively clicked the navbar-toggle-icon even though it was not what is
+    standard practice for them to see.
+  - However as the Website expands, further tests should be assessed to monitor
+    results.
 
 #### FIXES
 
 - For Mobile devices the Bootstrap mobile collapse function did not collaspe when
   links were clicked. To fix this issue a simple jQuery code was added that was
-  inspired by [Validate Javascript](https://github.com/twbs/bootstrap/issues/12852). This ensured that
-  the collapse function closed after a user clicks a link, which was a very important
-  fix to implement as otherwise the navbar concealed the content on the mobile.
+  [Validate Javascript](https://github.com/twbs/bootstrap/issues/12852)
+  .This ensured that the collapse function closed after a user clicks a link,
+  which was a very important fix to implement as otherwise the navbar concealed the
+  content on the mobile.
 
 - The links in the navigation bar did not accurately align correcly with each
  section it navigated to - redirecting to the section half way down the content.
  To fix this an extra `<div>` element was added above each section with a
- `postion: absolute;` and `margin-top` value, which allowed sections to 
+ `postion: absolute;` and `margin-top` value, which allowed sections to
  align correctly.
 
- - Custom Markers were used for Maps Javascript API with inspiration from
-   the tutorial by [Pradip Debnath:](https://www.youtube.com/watch?v=Xptz0GQ2DO4)
-   and [Google Source Script](https://developers.google.com/maps/documentation/javascript/custom-markers).
-   
-   These Custom Markers were combined with Marker Clustering using
+- Custom Markers were used for Maps Javascript API with inspiration from
+   the tutorial by
+   [Pradip Debnath:](https://www.youtube.com/watch?v=Xptz0GQ2DO4) and
+   [Google Source Script](https://developers.google.com/maps/documentation/javascript/custom-markers)
+   . These Custom Markers were combined with Marker Clustering using
    [Google Source Script](https://developers.google.com/maps/documentation/javascript/marker-clustering)
-   
-   There were problems with Info Windows working once the Map and icons were set up.
-   With inspirstion from [Stack Over flow](https://stackoverflow.com/questions/40047210/integrate-google-maps-markerclusterer-with-infowindow)
-   and Tim Nelson from Code insitute support this feature was correctly implmented.
+
+   There were problems with Info Windows working once the Map and
+   icons were set up. With inspiration from
+   [Stack Over flow](https://stackoverflow.com/questions/40047210/integrate-google-maps-markerclusterer-with-infowindow)
+   and Tim Nelson from Code insitute support this feature was correctly
+   implmented.
 
 [Go to top](#contents)
 
@@ -550,7 +560,8 @@ general standards.
 - **Slack Forum/ Code Institute Tutorial:** The benevolent force that
    always provide advice and support when needed.
 - **Aaron Sinnott:** My Mentor for professional advice and good practice.
-- **Tim Nelson:** Code Institute Tutor for support with Maps Javascript Clustering and Info Windows.
+- **Tim Nelson:** Code Institute Tutor for support with Maps Javascript
+  Clustering and Info Windows.
 - **Friends and Family:** For User feedback.
 
 [Go to top](#contents)
