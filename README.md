@@ -27,6 +27,35 @@ A live version of Website can be found
 
 ## CONTENTS
 
+1.[UX](#ux)
+
+- [STRATEGY](#strategy)
+- [USER STORIES](#user-stories)
+- [SCOPE](#scope)
+- [STRUCTURE](#structure)
+- [SKELETON](#skeleton)
+- [SURFACE](#surface)
+
+2.[FEATURES](#features)
+
+- [FEATURES OF THE WEBSITE](#features-of-the-website)
+- [FEATURES LEFT TO IMPLEMENT](#features-left-to-implement)
+
+3.[TECHNOLOGIES USED](#technologies-used)
+
+4.[TESTING](#testing)
+
+- [AUTOMATED TESTING](#automated-testing)
+- [NON-AUTOMATED TESTING](#non-automated-testing)
+- [FIXES](#fixes)
+
+5.[DEPLOYMENT](#deployment)
+
+- [PUBLISH GitHub REPOSITORY](#publish-github-repository)
+- [CLONE GitHub REPOSITORY](#clone-github-repository)
+
+6.[CREDITS](#credits)
+
 ---
 
 ## UX
@@ -126,6 +155,8 @@ clarity of reading.
 
 The main font used for this Website will be `'Special Elite`, from `Google Fonts`.
 A fitting type font with a military feel to it.
+
+[Go to top](#contents)
 
 ## FEATURES
 
@@ -245,6 +276,8 @@ gallery of photos that are referenced back to the Map.
 **Music**
 A playlist of World War Two songs mentioned in Jack Fairfield's journal could be listed
 and also be playing in the background while users are prrusing the Website.
+
+[Go to top](#contents)
 
 ## TECHNOLOGIES USED
 
@@ -450,6 +483,8 @@ general standards.
    With inspirstion from [Stack Over flow](https://stackoverflow.com/questions/40047210/integrate-google-maps-markerclusterer-with-infowindow)
    and Tim Nelson from Code insitute support this feature was correctly implmented.
 
+[Go to top](#contents)
+
 ## DEPLOYMENT
 
 ---
@@ -458,7 +493,7 @@ general standards.
 
 - Load up GitHub at <https://github.com>
 
-- Navigate to the repository titled <https://github.com/Bealby/Milestone-Project-3>
+- Navigate to the repository titled <https://github.com/Bealby/Milestone-Project-2>
 
 - Click Settings:
 
@@ -481,7 +516,7 @@ general standards.
 
 ### CLONE GitHub REPOSITORY
 
-- Navigate to the repository titled <https://github.com/Bealby/Milestone-Project-1.>
+- Navigate to the repository titled <https://github.com/Bealby/Milestone-Project-2>
 
 - On the main page for the repository click **Clone or Downlaod** as shown below.
 
@@ -496,22 +531,19 @@ general standards.
 
 - Type `git clone` plus `URL` (copied in step 3). Then `Press Enter`
 
+[Go to top](#contents)
+
 ## CREDITS
 
 ---
 
 ### Content
 
-- All content for this Website was provided by Lisa Fairfied.
-- Lisa Fairfeid's referece in Bio was provided by
-  Nick Brice – Artistic Director.
+- All content for this Website was provided by Murray Bealby and Jack Fairfield.
 
 ### Media
 
-- All photos were provided by Lisa Fairfield who in turn recieved permission
-  from her Peers to publish on Website:
-- **Nick Brice** - Artistic Director
-- **Jack Shepherd** - English Actor, Playwright and Theatre director.
+- All photos were provided by Murray Bealby's private collection.
 
 ### Acknowledgements
 
@@ -519,4 +551,5 @@ general standards.
 - **Slack Forum/ Code Institute Tutorial:** The benevolent force that
    always provide advice and support when needed.
 - **Aaron Sinnott:** My Mentor for professional advice and good practice.
+- **Tim Nelson:** Code Institute Tutor for support with Maps Javascript Clustering and Info Windows.
 - **Friends and Family:** For User feedback.
