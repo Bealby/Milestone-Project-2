@@ -458,7 +458,7 @@ general standards.
 
 - Load up GitHub at <https://github.com>
 
-- Navigate to the repository titled <https://github.com/Bealby/Milestone-Project-1>
+- Navigate to the repository titled <https://github.com/Bealby/Milestone-Project-3>
 
 - Click Settings:
 
