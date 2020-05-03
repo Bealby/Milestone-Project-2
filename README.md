@@ -63,7 +63,7 @@ will provide a more visual and expansive user experience.
 - "It would be good to incorporate some of Jack's journal in the Website.
     Any fun anecdotes or snippets, giving examples of what he wrote"
 
-- "It would be very interestng to learn more about Jack's personality and
+- "It would be very interesting to learn more about Jack's personality and
     how he progressed in his Army career.
 
 ### SCOPE
@@ -237,16 +237,14 @@ entering site. This could be initiated using jquery, where it loops continuosly
 or plays only a certain amount of times. There shoud be a function to turn sound
 off.
 
-Blow up photographs
+**Photographs**
+Photos provided on the Map could include a feature that allows the photos to be enlarged
+once clicked and be viewed in better detail. Or have a separate section in website of
+gallery of photos that are referenced back to the Map.
 
-Index of cluster and loacations to ensue that the user is aware of all the infimraiton availble. 
-
-Include photo galary of available photos referencing back to the maop. 
-
-A playlist of world war 2 songs mentioned in Jack's journal.
-
-Cluster marks in map to go back.
-
+**Music**
+A playlist of World War Two songs mentioned in Jack Fairfield's journal could be listed
+and also be playing in the background while users are prrusing the Website.
 
 ## TECHNOLOGIES USED
 
@@ -284,6 +282,7 @@ The following technolgies were used in this project:
    developing tool in Chrome to edit pages and diagnose problems
 - [Responsive Design](http://ami.responsivedesign.is/) - Free software
     to generate Mockup of Website on different devices
+- [Validate Javascript](https://validatejavascript.com//) - Used to validate javascript
 
 [Go to top](#contents)
 
@@ -317,8 +316,6 @@ into individual `html` pages, so that all images and Maps are loading at the sam
 [Validate Javascript](https://validatejavascript.com/) - Javascript files were uploaded in 
 in the Validate Javascript. Overall there were no errors that needed to be changed and passed
 general standards.
-
-CONSOLE?
 
 ### NON-AUTOMATED TESTING
 
@@ -397,7 +394,7 @@ CONSOLE?
 #### User Experience
 
 - Users felt that the Website fulfilled the expectation of quantity of photos,
-especially with the carousel implemented at beginning of the page.
+ especially with the carousel implemented at beginning of the page.
 
 - Another requirement was for the Website to be easy to use and not too complicated.
   Overall the Website acheived this goal, however when in came to the fucntinality of
@@ -415,8 +412,18 @@ especially with the carousel implemented at beginning of the page.
 
 - The Website fulfilled the Users request to add content from Jack Fairfield's journal
   and also information on Jack Fairfield's personality and progression in the Army.
-  However it was commented that there was a greater yearning to have more that what was
+  However it was commented that there was a greater yearning to have more than what was
   provided. This of course can be fixed over time and satisfy the users accordingly.
+
+- It is normally standard practice to have the `navbar-toggler-icon` displayed as an
+  intuitive square box with horizontal lines. For this Website I replaced this icon with
+  an image of a Gold Badge.
+  
+  Through User testing the results were positive. Users in curiosity still intuitively
+  clicked the navbar-toggle-icon even though it was not what is standard practice for them to see.
+
+  However as the Website expands, further tests should be assessed to monitor results.
+
 
 #### FIXES
 
