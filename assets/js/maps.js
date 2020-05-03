@@ -16,7 +16,7 @@ let icons = {
 // Locations of interest for map. Set with Lat and Lang along with Marker
 let markersOnMap = [{
         placeName: '<div id="firstHeading">FIFE</div><hr>' +
-            '<div id="mainContent">"I was born on the 27 July, 1915. Kirkcaldy, Fife. My Father was Edward Fairfield, born 2 June, 1893. A Coal Miner and Storeman. My Mother, Ada Elizabeth née Webster, was born 12 January 1889."</div>' +
+            '<div id="mainContent">"I was born on the 27 July, 1915. Windygates, Fife. My Father was Edward Fairfield, born 2 June, 1893. A Coal Miner and Storeman. My Mother, Ada Elizabeth née Webster, was born 12 January 1889."</div>' +
             '<div id="imageSize"><hr><img src="assets/images/maps/jack-fairfield-baby.jpg" alt="Jack Fairfield Baby">',
 
         LatLng: [{
@@ -91,7 +91,7 @@ let markersOnMap = [{
     },
     {
         placeName: '<div id="firstHeading">LEVEN</div><hr>' +
-            '<div id="mainContent">"Plans for our wedding went ahead and the date was fixed ~ 8th December 1942. In October we were faced with a crisis at home. Small pox had broken out in my village of Methilhill and the area was out of bounds to all those in the forces. We weren’t too worried at first but we began to worry when fresh cases broke out. The area would be out of bounds for a few weeks after the last reported case. We married at St Margaret’s Episcopal Church, Leven, on 8 December 1942"</div>' +
+            '<div id="mainContent">"Plans for our wedding went ahead and the date was fixed ~ 8th December 1942. In October we were faced with a crisis at home. Small pox had broken out in my village of Methilhill and the area was out of bounds to all those in the forces. We weren’t too worried at first but we began to worry when fresh cases broke out. The area would be out of bounds for a few weeks after the last reported case. We eventually married at St Margaret’s Episcopal Church, Leven, on 8 December 1942"</div>' +
             '<div id="imageSize"><hr><img src="assets/images/maps/wedding.jpg" alt="Jack and Ella Wedding">',
         LatLng: [{
             lat: 56.19632,
@@ -101,7 +101,7 @@ let markersOnMap = [{
     },
     {
         placeName: '<div id="firstHeading">THORNTON</div><hr>' +
-            '<div id="mainContent">"After the war I worked as a Headteacher at School House Thornton, Thornton. While Ella worked a a Medical Secretary – ca. 1963/ 1964"</div>' +
+            '<div id="mainContent">"After the war I worked first as a deputy headmaster in Methilhill before being promoted to headmaster in Thornton primary school and then on to Glenrothes. While Ella worked as a Medical Secretary – ca. 1963/ 1964"</div>' +
             '<div id="imageSize"><hr><img src="assets/images/maps/thornton.jpg" alt="Jack and Ella at School House Thornton">',
         LatLng: [{
             lat: 56.166325,
@@ -111,7 +111,7 @@ let markersOnMap = [{
     },
     {
         placeName: '<div id="firstHeading">METHILHILL</div><hr>' +
-            '<div id="mainContent">"Four Generations! From let to right. Grandad, Henry. Father Edward. Myself and daughter, Sheena. Methilhil – 1947"</div>' +
+            '<div id="mainContent">"Four Generations! From let to right. Grandad Henry. Father Edward. Myself and daughter, Sheena. Methilhil – 1947"</div>' +
             '<div id="imageSize"><hr><img src="assets/images/maps/four-generations.jpg" alt="Henry, Ted, Jack, Sheena Fairfield">',
         LatLng: [{
             lat: 56.1872188,
@@ -130,7 +130,7 @@ let markersOnMap = [{
         type: 'raoc'
     },
     {
-        placeName: '<div id="firstHeading">ESINGWOLD</div><hr>' +
+        placeName: '<div id="firstHeading">EASINGWOLD</div><hr>' +
             '<div id="mainContent">"I was posted to 33 Ammunition Sub Depot with headquarters at Highthorne House near Easingwold in Yorkshire and I reported there at the end of my leave. This was a new unit and had not yet received its first train load of ammunition. The commanding officer was Lieutenant Ball and the second in command was Major Johnstone. Highthorne House - ca. March 1946"</div>' +
             '<div id="imageSize"><hr><img src="assets/images/maps/highthorne.jpg" alt="Highthorne House RAOC Regiment">',
         LatLng: [{
