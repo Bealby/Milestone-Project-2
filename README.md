@@ -441,13 +441,13 @@ that needed to be changed and script passed general standards.
   came to the functionality of the Map, the older genration found it
   difficult to navigate around, especially when trying to move around the
   Map and zoom in and out. Losing their way and not knowing how
-  to go back to start. It would therefore be beneficial to add more features
+  to go back to the start. It would therefore be beneficial to add more features
   to the Map to help in the navigation.
   - One feature could be to add an icon that is displayed in the top right of
     the Map, that allows the user to go back after they have clicked a cluster.
   - Also it maybe useful to add more detailed instructions on the Maps section
     to help users understand the Map functionality and features that can be
-    used e.g. zooming in out out, and moving around Map.
+    used e.g. zooming in and out, and moving around Map.
 
 - The Website fulfilled the Users request to add content from Jack Fairfield's
   journal and also information on Jack Fairfield's personality and progression
@@ -458,7 +458,7 @@ that needed to be changed and script passed general standards.
 - It is normally standard practice to have the `navbar-toggler-icon` displayed
   as an intuitive `square box` with `horizontal lines`. For this Website I replaced
   this icon with an image of a `Gold Badge`.
-  - Through User testing the results were positive. Users, in curiosity still
+  - Through User testing the results were positive. Users, through curiosity still
     intuitively clicked the `Gold Badge` for the drop menu on mobile
     devices.
   - However as the Website expands, further tests should be assessed to monitor
