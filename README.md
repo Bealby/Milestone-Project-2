@@ -14,7 +14,7 @@ from journal.
 The Website will mainly be for family and friends who have been very keen
 to learn more about Jack Fairfield's life. As the Website expands however,
 this interest could be expanded to Military Musuems and the general public,
-including musuem in his home town of Methilhil, Fife, Scotland.
+including the musuem in his home town of Methilhil, Fife, Scotland.
 
 ## DEMO
 
@@ -378,7 +378,7 @@ that needed to be changed and script passed general standards.
 
 - Ensure carousel of photos are looping correctly and change every 6 seconds
   on all devices. (It should be noted that the carousel stops looping or
-  through photos once mouse is hovered over carousel).
+  changing through photos once mouse is hovered over carousel).
 - Ensure photos on carousel can be manually clicked through on all devices.
 
 #### Bio
@@ -440,7 +440,7 @@ that needed to be changed and script passed general standards.
   complicated. Overall the Website acheived this goal, however when it
   came to the functionality of the Map, the older genration found it
   difficult to navigate around, especially when trying to move around the
-  Map and zoom in and out. Losing their way and not knowing how
+  Map and zoom in and out and in doing so, losing their way and not knowing how
   to go back to the start. It would therefore be beneficial to add more features
   to the Map to help in the navigation.
   - One feature could be to add an icon that is displayed in the top right of
@@ -548,7 +548,8 @@ that needed to be changed and script passed general standards.
 
 ### Content
 
-- All content for this Website was provided by Murray Bealby and Jack Fairfield.
+- All content for this Website was provided by Murray Bealby and Jack
+  Fairfield.
 
 ### Media
 

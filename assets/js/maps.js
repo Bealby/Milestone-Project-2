@@ -101,7 +101,7 @@ let markersOnMap = [{
     },
     {
         placeName: '<div id="firstHeading">THORNTON</div><hr>' +
-            '<div id="mainContent">"After the war I worked first as a deputy headmaster in Methilhill before being promoted to headmaster in Thornton primary school and then on to Glenrothes. While Ella worked as a Medical Secretary – ca. 1963/ 1964"</div>' +
+            '<div id="mainContent">"After the war I worked first as a deputy headmaster in Methilhill before being promoted to headmaster in Largoward, Thornton Primary School and then on to Glenrothes. During this period Ella worked as a Medical Secretary – ca. 1963/ 1964"</div>' +
             '<div id="imageSize"><hr><img src="assets/images/maps/thornton.jpg" alt="Jack and Ella at School House Thornton">',
         LatLng: [{
             lat: 56.166325,
