@@ -5,7 +5,7 @@
 The aim of this website is to provide an insight into the life of my Papa,
 Jack Fairfield, during his time in the second world war. During the war
 Jack Fairfield wrote an extensive journal while serving
-under the Royal Army Ordinance Corp.
+under the Royal Army Ordnance Corp.
 
 This Website is a taster, aiming to entice curiosity into Jack Fairfield's
 journey through the second wold war, increasing users desire to learn more
