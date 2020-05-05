@@ -80,7 +80,7 @@ suiting users who want to browse the website while on
 the move. The desktop and tablet versions however
 will provide a more visual and expansive user experience.
 
-## User Stories
+#### User Stories
 
 - "We would love there to be lots of photos of Jack during the war.
     The more the merrier!"
