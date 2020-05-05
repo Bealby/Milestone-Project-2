@@ -51,7 +51,7 @@ A live version of Website can be found
 
 5.[Deployment](#deployment)
 
-- [Publush GitHub Repository](#publish-github-repository)
+- [Publish GitHub Repository](#publish-github-repository)
 - [Clone GitHub Repository](#clone-github-repository)
 
 6.[Credits](#credits)
@@ -66,7 +66,7 @@ Family and friends will seek to learn more about Jack Fairfield,
 through imagery, passages from the journal and exploring his journeys
 around the UK during the Second World War.
 
-### STRATEGY
+### Strategy
 
 The main focus of this Website is to give family and friends
 an insight into Jack Fairfield's life. It aims to
@@ -80,7 +80,7 @@ suiting users who want to browse the website while on
 the move. The desktop and tablet versions however
 will provide a more visual and expansive user experience.
 
-### User Stories
+## User Stories
 
 - "We would love there to be lots of photos of Jack during the war.
     The more the merrier!"
@@ -95,7 +95,7 @@ will provide a more visual and expansive user experience.
 - "It would be very interesting to learn more about Jack's personality and
     how he progressed in his Army career.
 
-### SCOPE
+### Scope
 
 To meet the goals of the users the website needs to be
 intuitive and easy to use, taking heed of the less
@@ -109,7 +109,7 @@ The interactive Map will highlight the most frequented locations
 in Jack Fairfield's journey through the Second World War. A passage
 from his journal will be included along with a relevant photo.
 
-### STRUCTURE
+### Structure
 
 The website's front page will be the window into the website
 with a hero-image centered on the page. His name and date of
@@ -130,12 +130,12 @@ using Google Maps API. Each clickable location will bring up a pop
 up window with a passage from Jack Fairfield's journal
 along with a complementary photo.
 
-### SKELETON
+### Skeleton
 
 Please find my Wireframes for Desktop, Tablet and Mobile
 [here](https://github.com/Bealby/Milestone-Project-2/blob/master/documentation/wireframes/jack-fairfield-wireframes.pdf)
 
-### SURFACE
+### Surface
 
 The Website will have a military colour theme with the main colour cenetered
 around a light khaki colour, `rgb(209, 200, 171, 1)`, with white
@@ -158,7 +158,7 @@ A fitting type font with a military feel to it.
 
 [Go to top](#contents)
 
-## FEATURES
+## Features
 
 ---
 
@@ -175,9 +175,9 @@ Much of the layout of the website used the Bootstrap Grid System of 'containers'
 'rows' and 'columns'; styled by css. This allowed the Website to be clearly
 structured and for the content to be responsive.
 
-### FEATURES OF THE WEBSITE
+### Features of the Website
 
-#### MAIN PAGE
+#### Main Page
 
 **Navigation Bar:**
 
@@ -241,7 +241,7 @@ structured and for the content to be responsive.
 - **Footer:** A copyright feature is stated at the footer of the page to confirm
     ownership of all content and photos on Website.
 
-### FEATURES LEFT TO IMPLEMENT
+### Features Left to Implement
 
 Below are a list of features I feel would be beneficial to add to the Website
 at a later date when more data/ information can be provided:
@@ -276,7 +276,7 @@ section in website of gallery of photos that are referenced back to the Map.
 
 [Go to top](#contents)
 
-## TECHNOLOGIES USED
+## Technolgies Used
 
 ---
 
@@ -316,11 +316,11 @@ The following technolgies were used in this project:
 
 [Go to top](#contents)
 
-## TESTING
+## Testing
 
 ---
 
-### AUTOMATED TESTING
+### Automated Testing
 
 [W3C](https://validator.w3.org/) - All HTML files with their data were directly
     inputted in the Mark-Up Validation Service.
@@ -351,7 +351,7 @@ and Maps are not loading at the same time.
 were uploaded in in the Validate Javascript. Overall there were no errors
 that needed to be changed and script passed general standards.
 
-### NON-AUTOMATED TESTING
+### Non-Automated Testing
 
 ### index.html
 
@@ -464,7 +464,7 @@ that needed to be changed and script passed general standards.
   - However as the Website expands, further tests should be assessed to monitor
     results and make changes where necessary.
 
-#### FIXES
+#### Fixes
 
 - For Mobile devices the Bootstrap mobile collapse function did not collaspe when
   links were clicked. To fix this issue a simple jQuery code was added that was
@@ -494,11 +494,11 @@ that needed to be changed and script passed general standards.
 
 [Go to top](#contents)
 
-## DEPLOYMENT
+## Deployment
 
 ---
 
-### PUBLISH GitHub REPOSITORY
+### Publish GitHub Repository
 
 - Load up GitHub at <https://github.com>
 
@@ -523,7 +523,7 @@ that needed to be changed and script passed general standards.
 
 ![Deployment](/documentation/readme/deployment-3.png/)
 
-### CLONE GitHub REPOSITORY
+### Clone GitHub Repository
 
 - Navigate to the repository titled <https://github.com/Bealby/Milestone-Project-2>
 
@@ -542,7 +542,7 @@ that needed to be changed and script passed general standards.
 
 [Go to top](#contents)
 
-## CREDITS
+## Credits
 
 ---
 
