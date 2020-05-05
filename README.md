@@ -351,6 +351,9 @@ and Maps are not loading at the same time.
 were uploaded in in the Validate Javascript. Overall there were no errors
 that needed to be changed and script passed general standards.
 
+`Chrome DevTools - Console` - Navigating through the Website rendered no
+critical fails/errors in the console that were necessary to fix.
+
 ### Non-Automated Testing
 
 ### index.html
