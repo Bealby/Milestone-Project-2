@@ -349,7 +349,7 @@ function initMap() {
         let marker = new google.maps.Marker({
             position: location.LatLng[0],
             icon: icons[location.type].icon,
-        }); 
+        });
 
         // Info Window for contentString
         let infoWindow = new google.maps.InfoWindow();

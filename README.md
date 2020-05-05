@@ -20,7 +20,7 @@ including the musuem in his home town of Methilhil, Fife, Scotland.
 
 ---
 
-![Mockup Generator](/assets/images/mockup-website/mockup-website.png/)
+![Mockup Generator](/assets/documentation/readme/mockup-website.png/)
 
 A live version of Website can be found
 [here](https://bealby.github.io/Milestone-Project-2/)

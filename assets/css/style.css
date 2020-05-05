@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Special+Elite:100,200,300,400,500,600,700,800|Roboto:100,200,300,400,500,600,700');
 
+body {
+	font-family: 'Special Elite', cursive;
+}
+
+
 /*INDEX.HTML*/
 
 .index-background {
@@ -21,19 +26,16 @@
 }
 
 .name-font {
-	font-family: 'Special Elite', cursive;
 	font-size: 1.875rem;
 	color: rgb(0, 0, 0, 1);
 }
 
 .date-font {
-	font-family: 'Special Elite', cursive;
 	font-size: 1.25rem;
 	color: rgb(0, 0, 0, 1);
 }
 
 .link-font {
-	font-family: 'Special Elite', cursive;
 	font-size: 1.20rem;
 	color: rgb(0, 0, 0, 1);
 }
@@ -50,20 +52,17 @@ a:hover {
 /*Navbar*/
 
 .navbar-main-brand {
-	font-family: 'Special Elite', cursive;
 	font-size: 1.8rem;
 	color: rgb(0, 0, 0, 1);
 	padding-left: 1rem;
 }
 
 .navbar-main-brand2 {
-	font-family: 'Special Elite', cursive;
 	font-size: 1.2rem;
 	color: rgb(0, 0, 0, 1);
 }
 
 .navbar-main a {
-	font-family: 'Special Elite', cursive;
 	font-size: 1.2rem;
 	color: #000000;
 	margin-top: 0rem;
@@ -108,14 +107,12 @@ a:hover {
 }
 
 .bio-section h2 {
-	font-family: 'Special Elite', cursive;
 	font-size: 1.875rem;
 	color: rgb(0, 0, 0, 1);
 	text-align: center;
 }
 
 .bio-section p {
-	font-family: 'Special Elite', cursive;
 	font-size: 1rem;
 	color: rgb(0, 0, 0, 1);
 	text-align: left;
@@ -132,7 +129,6 @@ blockquote {
 	padding-left: 1rem;
 	margin-left: 0.7rem;
 	border-left: 2px solid rgb(0, 0, 0, 1);
-	font-family: 'Special Elite', cursive;
 	text-align: left;
 	font-style: italic;
 }
@@ -145,14 +141,12 @@ blockquote {
 }
 
 .maps-section h2 {
-	font-family: 'Special Elite', cursive;
 	font-size: 1.8rem;
 	color: rgb(0, 0, 0, 1);
 	text-align: center;
 }
 
 .maps-section p {
-	font-family: 'Special Elite', cursive;
 	font-size: 1rem;
 	color: rgb(0, 0, 0, 1);
 	text-align: center;
@@ -162,11 +156,17 @@ blockquote {
 	height: 40rem;
 }
 
+
+/*Styling for Info Windows in Maps*/
+
 #firstHeading {
 	font-family: 'Special Elite', cursive;
 	font-size: 1.25rem;
 	color: #000000;
 }
+
+
+/*Styling for Info Windows in Maps*/
 
 #mainContent {
 	font-family: 'Roboto', sans-serif;
@@ -175,8 +175,11 @@ blockquote {
 	text-align: left;
 }
 
-#imageSize{
-    text-align:center;
+
+/*Styling for Info Windows in Maps*/
+
+#imageSize {
+	text-align: center;
 }
 
 .map-border {
@@ -200,14 +203,14 @@ blockquote {
 .footer {
 	text-align: center;
 	font-size: 0.8rem;
-    font-family: 'Roboto', sans-serif;
+	font-family: 'Roboto', sans-serif;
 }
 
 
 /*MEDIA QUERIES*/
 
 
-/*This Media Query allows for the hero-image to incresse in size for smaller devices. Otherwise to small to see clearly */
+/*This Media Query allows for the hero-image to incresse in size for smaller devices. Otherwise too small to see clearly */
 
 @media(min-width:49.5rem) {
 	.hero-image {
