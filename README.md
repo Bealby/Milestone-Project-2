@@ -1,4 +1,4 @@
-# JACK FAIRFIELD
+# Jack Fairfield
 
 ---
 
@@ -16,7 +16,7 @@ to learn more about Jack Fairfield's life. As the Website expands however,
 this interest could be expanded to Military Musuems and the general public,
 including the musuem in his home town of Methilhil, Fife, Scotland.
 
-## DEMO
+## Demo
 
 ---
 
@@ -25,36 +25,36 @@ including the musuem in his home town of Methilhil, Fife, Scotland.
 A live version of Website can be found
 [here](https://bealby.github.io/Milestone-Project-2/)
 
-## CONTENTS
+## Contents
 
 1.[UX](#ux)
 
-- [STRATEGY](#strategy)
-- [USER STORIES](#user-stories)
-- [SCOPE](#scope)
-- [STRUCTURE](#structure)
-- [SKELETON](#skeleton)
-- [SURFACE](#surface)
+- [Strategy](#strategy)
+- [User Stories](#user-stories)
+- [Scope](#scope)
+- [Structure](#structure)
+- [Skeleton](#skeleton)
+- [Surface](#surface)
 
-2.[FEATURES](#features)
+2.[Features](#features)
 
-- [FEATURES OF THE WEBSITE](#features-of-the-website)
-- [FEATURES LEFT TO IMPLEMENT](#features-left-to-implement)
+- [Features of the Website](#features-of-the-website)
+- [Features Left to Implement](#features-left-to-implement)
 
-3.[TECHNOLOGIES USED](#technologies-used)
+3.[Technologies Used](#technologies-used)
 
-4.[TESTING](#testing)
+4.[Testing](#testing)
 
-- [AUTOMATED TESTING](#automated-testing)
-- [NON-AUTOMATED TESTING](#non-automated-testing)
-- [FIXES](#fixes)
+- [Automated Testing](#automated-testing)
+- [Non-Automated Testing](#non-automated-testing)
+- [Fixes](#fixes)
 
-5.[DEPLOYMENT](#deployment)
+5.[Deployment](#deployment)
 
-- [PUBLISH GitHub REPOSITORY](#publish-github-repository)
-- [CLONE GitHub REPOSITORY](#clone-github-repository)
+- [Publush GitHub Repository](#publish-github-repository)
+- [Clone GitHub Repository](#clone-github-repository)
 
-6.[CREDITS](#credits)
+6.[Credits](#credits)
 
 ---
 
