@@ -313,8 +313,8 @@ The following technolgies were used in this project:
 - [Responsive Design](http://ami.responsivedesign.is/) - Free software
     to generate Mockup of Website on different devices
 - [Validate Javascript](https://validatejavascript.com//) - Used to validate javascript
-- [Maps Javascript API](https://developers.google.com/maps/documentation/javascript/tutorial) -
-  For API key and Javascript Map options
+- [Maps Javascript API](https://developers.google.com/maps/documentation/javascript/tutorial)
+   For API key and Javascript Map options
 
 [Go to top](#contents)
 
@@ -353,7 +353,7 @@ and Maps are not loading at the same time.
 were uploaded in in the Validate Javascript. Overall there were no errors
 that needed to be changed and the javascript passed general standards.
 
-[Chrome DevTools - Console](https://developers.google.com/web/tools/chrome-devtools/) -
+[Chrome DevTools - Console](https://developers.google.com/web/tools/chrome-devtools/)
 Navigating through the Website rendered no critical fails/errors
 in the console that were necessary to fix.
 
