@@ -8,8 +8,8 @@ Jack Fairfield wrote an extensive journal while serving
 under the Royal Army Ordnance Corp.
 
 This Website is a taster, aiming to entice curiosity into Jack Fairfield's
-journey through the second wold war, increasing users desire to learn more
-from journal.
+journey through the second world war, increasing users desire to learn more
+from his journal.
 
 The Website will mainly be for family and friends who have been very keen
 to learn more about Jack Fairfield's life. As the Website expands however,
@@ -195,7 +195,7 @@ structured and for the content to be responsive.
 
 - **Smaller Devices:**
     For tablets and mobiles the text is reduced in size using `Media Queries`.
-    The thumbnail potrait is also removed for beter spacious viewing in the
+    The thumbnail potrait is also removed for better spacious viewing in the
     navigation bar on tablets.
 
     For mobile devices the `Bootstrap` function was used to collaspe the navbar,
@@ -213,10 +213,10 @@ structured and for the content to be responsive.
 - **Bio:** Using `Bootstrap's Display Property` features, a complex structure,
     using `hidden` and `visable` element properties, were used to optimise layout
     and user experience on different devices. A `thumb` icon pointed downwards is
-    also included at the end of the Bio section to draw people attention down
+    also included at the end of the Bio section to draw peoples attention down
     towards the map. This icon was taken from `Font Awesome`.
 
-    For the deaktop, the layout consisits of text nestled between two photos either
+    For the desktop, the layout consisits of text nestled between two photos either
     side, drawing the reader into reading the Bio. `blockquotes`were used to ensure
     quotes from Jack Fairfield's journal stand out.
 
@@ -307,7 +307,7 @@ The following technolgies were used in this project:
 - [Markdown Lint](https://github.com/Bealby/markdownlint) - Used for validation
     checks on README.md content
 - [Lighthouse Audit](https://developers.google.com/web/tools/lighthouse/) -
-    Helped tp improving the quality of Website
+    Helped to improve the quality of Website
 - [Chrome Developer Tools](https://www.google.com/chrome/dev/Google) - A useful
    developing tool in Chrome to edit pages and diagnose problems
 - [Responsive Design](http://ami.responsivedesign.is/) - Free software
@@ -391,7 +391,7 @@ in the console that were necessary to fix.
 
 - For Desktop devices ensure the Bio section is divided into three columns
   with text centred and images shown to the left and right respectively.
-- For Tablet devices ensure the Bio section is divided into two columnns with
+- For Tablet devices ensure the Bio section is divided into two columns with
   two images aligned to the left and text aligned to the right.
 - For Mobile devices ensure all content is located on one column, with first
   image removed.
@@ -404,7 +404,7 @@ in the console that were necessary to fix.
   (When `Red Flag Icons` are clustered together.
 - For all devices ensure that when a `Red Flag Icon` is clicked, an info window
   pops up and displays text and a photo centered.
-- For all devices ensure all info windows clicked, can be closed with with
+- For all devices ensure all info windows clicked, can be closed with
   the `x` icon displayed in the window.
 - For all devices click through all `Red Flag Icons`, and ensure
   that when one info window opens, it is closed when another `Red Flag Icon`
@@ -451,7 +451,7 @@ in the console that were necessary to fix.
   to the Map to help in the navigation.
   - One feature could be to add an icon that is displayed in the top right of
     the Map, that allows the user to go back after they have clicked a cluster.
-  - Also it maybe useful to add more detailed instructions on the Maps section
+  - Also it may be useful to add more detailed instructions on the Maps section
     to help users understand the Map functionality and features that can be
     used e.g. zooming in and out, and moving around Map.
 
