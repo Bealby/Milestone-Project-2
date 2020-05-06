@@ -2,7 +2,7 @@
 
 ---
 
-The aim of this website is to provide an insight into the life of my Papa,
+The aim of this Website is to provide an insight into the life of my Papa,
 Jack Fairfield, during his time in the second world war. During the war
 Jack Fairfield wrote an extensive journal while serving
 under the Royal Army Ordnance Corp.
@@ -76,7 +76,7 @@ photos, passages and areas he visited
 and resided in.
 
 The Website needs to be suitable for mobile devices,
-suiting users who want to browse the website while on
+suiting users who want to browse the Website while on
 the move. The desktop and tablet versions however
 will provide a more visual and expansive user experience.
 
@@ -97,7 +97,7 @@ will provide a more visual and expansive user experience.
 
 ### Scope
 
-To meet the goals of the users the website needs to be
+To meet the goals of the users the Website needs to be
 intuitive and easy to use, taking heed of the less
 technically savvy audience.
 
@@ -111,13 +111,13 @@ from his journal will be included along with a relevant photo.
 
 ### Structure
 
-The website's front page will be the window into the website
+The Website's front page will be the window into the Website
 with a hero-image centered on the page. His name and date of
 duration of life will be displayed under the image, with a
-clickable link, `Read More`, taking you into the main website.
+clickable link, `Read More`, taking you into the main Website.
 
-The naviagtion bar will have a sticky-position with the
-links Home, Bio, and Maps.
+The naviagtion bar will have a `sticky-position` with the
+links `Home`, `Bio`, and `Maps`.
 
 The Home page will have a large photo that stretches the page,
 rotating every 6 seconds with a new photo.
@@ -165,14 +165,14 @@ A fitting type font with a military feel to it.
 The Website's initial page (`index.html`) has a portrait photo centered in the
 middle of the page in front of a background horizontally divided by a white and
 light khaki colour of, `rgb(209, 200, 171, 1)`. This page will be kept to a minimum,
-with large 'real estate', to focus the user on the image and text; drawing them
+with lots of 'real estate', to focus the user on the image and text; drawing them
 into clicking the link to open the main page.
 
 The Main Web page consists of three separate sections; Home, Bio, and Map. The
-website is based on one scrolling page with three sections in the body.
+Website is based on one scrolling page with three sections in the body.
 
-Much of the layout of the website used the Bootstrap Grid System of 'containers',
-'rows' and 'columns'; styled by css. This allowed the Website to be clearly
+Much of the layout of the Website used the `Bootstrap Grid System` of `containers`,
+`rows` and `columns`; styled by css. This allowed the Website to be clearly
 structured and for the content to be responsive.
 
 ### Features of the Website
@@ -189,7 +189,7 @@ structured and for the content to be responsive.
     clicked to take you back to the initial page of `index.html`.
 
     There are then three main links, `Home`, `Bio`, and `Maps` indented
-    from the right(the three main sections of the Website). When hovered over by
+    from the right (the three main sections of the Website). When hovered over by
     the mouse, they become responsive with the colour changing to a light
     grey colour, `rgb(116,111,120,1)`. This ensures an intuitive reaction to click.
 
@@ -220,14 +220,14 @@ structured and for the content to be responsive.
     side, drawing the reader into reading the Bio. `blockquotes`were used to ensure
     quotes from Jack Fairfield's journal stand out.
 
-    For tablet displays, the section was condensed two columns, with photos
+    For tablet displays, the section was condensed to two columns, with photos
     running vertically from the left and text vertically from the right. This
     ensures a better reading and visual experience for users on tablets.
 
     For Mobile displays one photo is removed using `bootstrap's Display Properties`.
     This allows less scrolling on a mobile and not over saturating the mobile
     experience with photos. Text was also changed from `justify` to `left` on
-    mobile devices using `Media Queries` to allow for text to be better aligned.
+    mobile device, using `Media Queries`, to allow for text to be better aligned.
 
 - **Map:** The Map section is introduced with a short instruction to users
     with a key illustrating the symbols on the Map. Custom markers have been set
@@ -272,7 +272,7 @@ accordingly.
 **Photographs**
 Photos provided on the Map could include a feature that allows the photos to be
 enlarged once clicked and be viewed in better detail. Or have a separate
-section in website of gallery of photos that are referenced back to the Map.
+section in Website for a gallery of photos that are referenced back to the Map.
 
 [Go to top](#contents)
 
@@ -284,7 +284,7 @@ The following technolgies were used in this project:
 
 - [Balsamiq Wireframes](https://balsamiq.com/wireframes/desktop/) - Allowed
    preliminary designs to be drawn up of Website
-- [GitHub](https://github.com/) - Used to store repository and deploy website
+- [GitHub](https://github.com/) - Used to store repository and deploy Website
 - [GitPod](https://gitpod.io/workspaces/) - A platform used for hard coding
    of Website
 - [HTML](https://en.wikipedia.org/wiki/HTML) - Markup language of Website
@@ -313,6 +313,8 @@ The following technolgies were used in this project:
 - [Responsive Design](http://ami.responsivedesign.is/) - Free software
     to generate Mockup of Website on different devices
 - [Validate Javascript](https://validatejavascript.com//) - Used to validate javascript
+- [Maps Javascript API](https://developers.google.com/maps/documentation/javascript/tutorial) -
+  For API key and Javascript Map options
 
 [Go to top](#contents)
 
@@ -349,10 +351,11 @@ and Maps are not loading at the same time.
 
 [Validate Javascript](https://validatejavascript.com/) - Javascript files
 were uploaded in in the Validate Javascript. Overall there were no errors
-that needed to be changed and script passed general standards.
+that needed to be changed and the javascript passed general standards.
 
-`Chrome DevTools - Console` - Navigating through the Website rendered no
-critical fails/errors in the console that were necessary to fix.
+[Chrome DevTools - Console](https://developers.google.com/web/tools/chrome-devtools/) -
+Navigating through the Website rendered no critical fails/errors
+in the console that were necessary to fix.
 
 ### Non-Automated Testing
 
@@ -442,8 +445,8 @@ critical fails/errors in the console that were necessary to fix.
 - Another requirement was for the Website to be easy to use and not too
   complicated. Overall the Website acheived this goal, however when it
   came to the functionality of the Map, the older genration found it
-  difficult to navigate around, especially when trying to move around the
-  Map and zoom in and out and in doing so, losing their way and not knowing how
+  difficult to navigate around. Especially when trying to move around the
+  Map, zooming in-and-out, and in doing so losing their way and not knowing how
   to go back to the start. It would therefore be beneficial to add more features
   to the Map to help in the navigation.
   - One feature could be to add an icon that is displayed in the top right of
@@ -484,8 +487,8 @@ critical fails/errors in the console that were necessary to fix.
 
 - Custom Markers were used for Maps Javascript API with inspiration from
    the tutorial by
-   [Pradip Debnath:](https://www.youtube.com/watch?v=Xptz0GQ2DO4) and
-   [Google Source Script](https://developers.google.com/maps/documentation/javascript/custom-markers)
+   [Pradip Debnath](https://www.youtube.com/watch?v=Xptz0GQ2DO4) and
+   [Google Source Script](https://developers.google.com/maps/documentation/javascript/custom-markers).
    These Custom Markers were combined with Marker Clustering using
    [Google Source Script](https://developers.google.com/maps/documentation/javascript/marker-clustering)
 
@@ -521,7 +524,7 @@ critical fails/errors in the console that were necessary to fix.
 - After selecting **master branch** the repository will be refreshed and
    published
 
-- The published website will be found highlighted in green under **Github
+- The published Website will be found highlighted in green under **Github
   Pages**, as below:
 
 ![Deployment](/documentation/readme/deployment-3.png/)
@@ -566,6 +569,6 @@ critical fails/errors in the console that were necessary to fix.
 - **Aaron Sinnott:** My Mentor for professional advice and good practice.
 - **Tim Nelson:** Code Institute Tutor for support with Maps Javascript
   Clustering and Info Windows.
-- **Friends and Family:** For User feedback.
+- **Friends and Family:** For user feedback.
 
 [Go to top](#contents)
